@@ -1,0 +1,150 @@
+I am going to maintain this page to record a few things about computer vision that I have read, am doing, or will have a look at. Previously I'd like to write short notes of the papers that I have read. It is a good way to remember and understand the ideas of the authors. But gradually I found that I forget much portion of what I had learnt because in addition to paper I also derive knowledges from others' blogs, online courses and reports, not recording them at all. Besides, I need a place to keep a list of what I should have a look at but do not at the time when I discover them. This page will be much like a catalog.
+
+## Papers and Projects
+
+### Object/Saliency Detection ###
+
+* PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection ([PDF](http://arxiv.org/abs/1608.08021), [Project/Code](https://github.com/sanghoon/pva-faster-rcnn), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pvanet-deep-but-lightweight-neural-networks-for-real-time-object-detection_137/))
+* Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks ([PDF](http://arxiv.org/abs/1512.04143), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks_111/))
+* Object Detection from Video Tubelets with Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1604.04053), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-object-detection-from-video-tubelets-with-convolutional-neural-networks_109/))
+* R-FCN: Object Detection via Region-based Fully Convolutional Networks ([PDF](http://arxiv.org/abs/1605.06409), [Project/Code](https://github.com/daijifeng001/r-fcn), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-r-fcn-object-detection-via-region-based-fully-convolutional-networks_107/))
+* SSD: Single Shot MultiBox Detector ([PDF](http://arxiv.org/abs/1512.02325v2), [Project/Code](https://github.com/weiliu89/caffe/tree/ssd), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-ssd-single-shot-multibox-detector_100/))
+* Pushing the Limits of Deep CNNs for Pedestrian Detection ([PDF](http://lib-arxiv-008.serverfarm.cornell.edu/abs/1603.04525), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pushing-the-limits-of-deep-cnns-for-pedestrian-detection_91/))
+* Object Detection by Labeling Superpixels([PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/3B_072_ext.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-object-detection-by-labeling-superpixels_74/))
+
+### Segmentation/Parsing ###
+* Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
+* ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation ([PDF](http://arxiv.org/abs/1606.02147), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-enet-a-deep-neural-network-architecture-for-real-time-semantic-segmentation_134/))
+* Learning Deconvolution Network for Semantic Segmentation ([PDF](http://arxiv.org/abs/1505.04366), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-learning-deconvolution-network-for-semantic-segmentation_119/))
+* Semantic Object Parsing with Graph LSTM ([PDF](http://arxiv.org/abs/1603.07063), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-semantic-object-parsing-with-graph-lstm_110/))
+* Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding ([PDF](http://arxiv.org/abs/1511.02680), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-bayesian-segnet-model-uncertainty-in-deep-convolutional-encoder-decoder-architectures-for-scene-understanding_72/))
+* Learning to Segment Moving Objects in Videos ([PDF](http://arxiv.org/abs/1412.6504), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-learning-to-segment-moving-objects-in-videos_69/))
+* Deep Structured Features for Semantic Segmentation ([PDF](http://arxiv.org/abs/1609.07916v1))
+
+	>We propose a highly structured neural network architecture for semantic segmentation of images that combines i) a Haar wavelet-based tree-like convolutional neural network (CNN), ii) a random layer realizing a radial basis function kernel approximation, and iii) a linear classifier. While stages i) and ii) are completely pre-specified, only the linear classifier is learned from data. Thanks to its high degree of structure, our architecture has a very small memory footprint and thus fits onto low-power embedded and mobile platforms. We apply the proposed architecture to outdoor scene and aerial image semantic segmentation and show that the accuracy of our architecture is competitive with conventional pixel classification CNNs. Furthermore, we demonstrate that the proposed architecture is data efficient in the sense of matching the accuracy of pixel classification CNNs when trained on a much smaller data set. 
+* CNN-aware Binary Map for General Semantic Segmentation ([PDF](https://arxiv.org/abs/1609.09220))
+
+### Tracking ###
+* Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
+* Joint Tracking and Segmentation of Multiple Targets ([PDF](http://milanton.de/files/cvpr2015/cvpr2015-ext-abstr-anton.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-joint-tracking-and-segmentation-of-multiple-targets_70/))
+* Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks ([PDF](https://arxiv.org/abs/1609.09365))
+
+### Pose Estimation ###
+* Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
+
+### Action Recognition/Event Detection
+* Pooling the Convolutional Layers in Deep ConvNets for Action Recognition ([PDF](http://arxiv.org/abs/1511.02126), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pooling-the-convolutional-layers-in-deep-convnets-for-action-recognition_73/))
+* Two-Stream Convolutional Networks for Action Recognition in Videos ([PDF](http://arxiv.org/abs/1406.2199), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-two-stream-convolutional-networks-for-action-recognition-in-videos_71/))
+* YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m) )    
+
+### Face 
+* Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
+* Deep Architectures for Face Attributes ([PDF](http://arxiv.org/abs/1609.09018))
+* Face Detection with End-to-End Integration of a ConvNet and a 3D Model ([PDF](https://www.arxiv.org/abs/1606.00850), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-face-detection-with-end-to-end-integration-of-a-convnet-and-a-3d-model_145/), [Project/Code](https://github.com/tfwu/FaceDetection-ConvNet-3D))
+
+### Optical Flow 
+* DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
+
+
+### CNN and Deep Learning ###
+* UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
+* What makes ImageNet good for transfer learning? ([PDF](http://arxiv.org/abs/1608.08614), [Project/Code](http://minyounghuh.com/papers/analysis/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-what-makes-imagenet-good-for-transfer-learning_138/))
+
+	>The tremendous success of features learnt using the ImageNet classification task on a wide range of transfer tasks begs the question: what are the intrinsic properties of the ImageNet dataset that are critical for learning good, general-purpose features? This work provides an empirical investigation of various facets of this question: Is more pre-training data always better? How does feature quality depend on the number of training examples per class? Does adding more object classes improve performance? For the same data budget, how should the data be split into classes? Is fine-grained recognition necessary for learning good features? Given the same number of training classes, is it better to have coarse classes or fine-grained classes? Which is better: more classes or more examples per class?
+
+* Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units ([PDF](http://arxiv.org/abs/1603.05201))
+* Densely Connected Convolutional Networks ([PDF](http://arxiv.org/abs/1608.06993), [Project/Code](https://github.com/liuzhuang13/DenseNet))
+* Decoupled Neural Interfaces using Synthetic Gradients ([PDF](https://arxiv.org/pdf/1608.05343.pdf)) 
+
+    >Training directed neural networks typically requires forward-propagating data through a computation graph, followed by backpropagating error signal, to produce weight updates. All layers, or more generally, modules, of the network are therefore locked, in the sense that they must wait for the remainder of the network to execute forwards and propagate error backwards before they can be updated. In this work we break this constraint by decoupling modules by introducing a model of the future computation of the network graph.  These models predict what the result of the modelled sub-graph will produce using only local information. In particular we focus on modelling error gradients: by using the modelled synthetic gradient in place of true backpropagated error gradients we decouple subg-raphs, and can update them independently and asynchronously.
+    
+* Rethinking the Inception Architecture for Computer Vision ([PDF](http://arxiv.org/abs/1512.00567), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-rethinking-the-inception-architecture-for-computer-vision_136/))
+
+    In this paper, several network designing choices are discussed, including *factorizing convolutions into smaller kernels and asymmetric kernels*, *utility of auxiliary classifiers* and *reducing grid size using convolution stride rather than pooling*.
+
+* Factorized Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1608.04337), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-factorized-convolutional-neural-networks_133/))
+* Do semantic parts emerge in Convolutional Neural Networks? ([PDF](http://arxiv.org/abs/1607.03738), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-do-semantic-parts-emerge-in-convolutional-neural-networks_131/))
+* A Critical Review of Recurrent Neural Networks for Sequence Learning ([PDF](https://arxiv.org/abs/1506.00019))
+* Image Compression with Neural Networks ([Project/Code](https://github.com/tensorflow/models/tree/master/compression))
+* Graph Convolutional Networks ([Project/Code](http://tkipf.github.io/graph-convolutional-networks/))
+
+### Machine Learning ###
+* [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
+* [计算机视觉与机器学习 【深度学习中的激活函数】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-shen-du-xue-xi-zhong-de-ji-huo-han-shu_128/)
+
+## Interesting Finds ##
+
+### Resources ###
+* [arXiv(Computer Vision and Pattern Recognition)](http://arxiv.org/list/cs.CV/recent) 
+	A good place to explore latest papers.
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+	A curated list of awesome computer vision resources.
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+	A curated list of deep learning resources for computer vision.
+* [Awesome MXNet](https://github.com/dmlc/mxnet/blob/master/example/README.md)
+	This page contains a curated list of awesome MXnet examples, tutorials and blogs. 
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+	A curated list of awesome TensorFlow experiments, libraries, and projects.
+* [Deep Reinforcement Learning survey](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey)
+	This paper list is a bit different from others. The author puts some opinion and summary on it. However, to understand the whole paper, you still have to read it by yourself!
+* [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
+* [TensorTalk](https://tensortalk.com/)
+	A place to find latest work's codes.
+
+### News/Blogs ###
+* [MIT Technology Review](https://www.technologyreview.com/)
+	A good place to keep up the trends.
+* [LAB41](https://gab41.lab41.org/)
+	Lab41 is a Silicon Valley challenge lab where experts from the U.S. Intelligence Community (IC), academia, industry, and In-Q-Tel come together to gain a better understanding of how to work with — and ultimately use — big data. 
+* [Partnership on AI](http://www.partnershiponai.org/)
+	Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
+* [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
+* [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
+
+### Benchmark/Leaderboard ###
+* [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
+	This website contains data and code of the benchmark evaluation of online visual tracking algorithms. Join visual-tracking Google groups for further updates, discussions, or QnAs.
+* [Leaderboards for the Evaluations on PASCAL VOC Data](http://host.robots.ox.ac.uk:8080/leaderboard/main_bootstrap.php)
+
+### Toolkits ###
+* [Caffe](http://caffe.berkeleyvision.org/)
+	Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and by community contributors. Yangqing Jia created the project during his PhD at UC Berkeley. Caffe is released under the BSD 2-Clause license.
+* [TensorFlow](https://github.com/tensorflow/tensorflow)
+	TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
+* [MXNet](http://mxnet.io/)
+	MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix the flavours of symbolic programming and imperative programming to maximize efficiency and productivity. In its core, a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. The library is portable and lightweight, and it scales to multiple GPUs and multiple machines.
+* [neon](https://github.com/NervanaSystems/neon)
+	neon is Nervana's Python based Deep Learning framework and achieves the fastest performance on modern deep neural networks such as AlexNet, VGG and GoogLeNet. Designed for ease-of-use and extensibility.
+* [TensorLayer](https://github.com/zsdonghao/tensorlayer) 
+	TensorLayer is designed to use by both Researchers and Engineers, it is a transparent library built on the top of Google TensorFlow. It is designed to provide a higher-level API to TensorFlow in order to speed-up experimentations and developments. TensorLayer is easy to be extended and modified. In addition, we provide many examples and tutorials to help you to go through deep learning and reinforcement learning.
+* [Piotr's Computer Vision Matlab Toolbox](https://pdollar.github.io/toolbox/)
+	This toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed. Emphasis has been placed on code efficiency and code reuse. Thanks to everyone who has given me feedback - you've helped make this toolbox more useful and easier to use. 
+* [NVIDIA Developer](https://developer.nvidia.com/)
+* [nvCaffe](https://github.com/NVIDIA/caffe/tree/experimental/fp16)
+	A special branch of caffe is used on TX1 which includes support for FP16.
+
+### Principles ###
+* [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
+	A website that explain how Backpropagation Algorithm works.
+* [Deep Learning ( textbook authored by Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org/)
+	The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. 
+* [Neural Networks and Deep Learning (online book authored by Michael Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)
+	Neural Networks and Deep Learning is a free online book. The book will teach you about 1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data and 2) Deep learning, a powerful set of techniques for learning in neural networks. Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.
+* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+	This book is largely based on the computer vision courses that Richard Szeliski has co-taught at the University of Washington (2008, 2005, 2001) and Stanford (2003) with Steve Seitz and David Fleet.
+* [Must Know Tips/Tricks in Deep Neural Networks ](http://210.28.132.67/weixs/project/CNNTricks/CNNTricks.html)
+	Many implementation details for DCNNs are collected and concluded. Extensive implementation details are introduced, i.e., tricks or tips, for building and training your own deep networks.
+* [The zen of gradient descent](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html)
+* [Deriving the Gradient for the Backward Pass of Batch Normalization](https://kevinzakka.github.io/2016/09/14/batch_normalization/)
+* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
+
+## Skills ##
+
+### About Caffe ###
+* [Set Up Caffe on Ubuntu14.04 64bit+NVIDIA GTX970M+CUDA7.0](http://joshua881228.webfactional.com/blog_set-up-caffe-on-ubuntu1404-64bitnvidia-gtx970mcuda70_55/)
+* [VS2013配置Caffe卷积神经网络工具（64位Windows 7）——建立工程](http://blog.csdn.net/joshua_1988/article/details/45048871)
+* [VS2013配置Caffe卷积神经网络工具（64位Windows 7）——准备依赖库](http://blog.csdn.net/joshua_1988/article/details/45036993)
+
+### Setting Up ###
+* [Installation of NVIDIA GPU Driver and CUDA Toolkit](http://joshua881228.webfactional.com/blog_installation-of-nvidia-gpu-driver-and-cuda-toolkit_54/)
+* [Tensorflow v0.10 installed from scratch on Ubuntu 16.04, CUDA 8.0RC+Patch, cuDNN v5.1 with a 1080GTX](https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/)
