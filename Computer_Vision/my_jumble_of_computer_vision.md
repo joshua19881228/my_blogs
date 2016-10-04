@@ -35,13 +35,14 @@ I am going to maintain this page to record a few things about computer vision th
 ### Action Recognition/Event Detection
 * Pooling the Convolutional Layers in Deep ConvNets for Action Recognition ([PDF](http://arxiv.org/abs/1511.02126), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pooling-the-convolutional-layers-in-deep-convnets-for-action-recognition_73/))
 * Two-Stream Convolutional Networks for Action Recognition in Videos ([PDF](http://arxiv.org/abs/1406.2199), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-two-stream-convolutional-networks-for-action-recognition-in-videos_71/))
-* YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m) )    
+* YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m))    
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
 * Deep Architectures for Face Attributes ([PDF](http://arxiv.org/abs/1609.09018))
 * Face Detection with End-to-End Integration of a ConvNet and a 3D Model ([PDF](https://www.arxiv.org/abs/1606.00850), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-face-detection-with-end-to-end-integration-of-a-convnet-and-a-3d-model_145/), [Project/Code](https://github.com/tfwu/FaceDetection-ConvNet-3D))
 * A CNN Cascade for Landmark Guided Semantic Part Segmentation ([PDF](https://arxiv.org/pdf/1609.09642.pdf), [Project/Code](http://www.cs.nott.ac.uk/~psxasj/papers/jackson2016guided/))
+* Kernel Selection using Multiple Kernel Learning and Domain Adaptation in Reproducing Kernel Hilbert Space, for Face Recognition under Surveillance Scenario ([PDF](https://arxiv.org/abs/1610.00660))
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
@@ -68,6 +69,11 @@ I am going to maintain this page to record a few things about computer vision th
 * A Critical Review of Recurrent Neural Networks for Sequence Learning ([PDF](https://arxiv.org/abs/1506.00019))
 * Image Compression with Neural Networks ([Project/Code](https://github.com/tensorflow/models/tree/master/compression))
 * Graph Convolutional Networks ([Project/Code](http://tkipf.github.io/graph-convolutional-networks/))
+
+### Video ###
+
+* Video Pixel Networks ([PDF](https://arxiv.org/abs/1610.00527))
+* Plug-and-Play CNN for Crowd Motion Analysis: An Application in Abnormal Event Detection ([PDF](https://arxiv.org/abs/1610.00307))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
