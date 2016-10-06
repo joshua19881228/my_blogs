@@ -2,6 +2,6 @@
 
 [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat)是利用[Electron](https://github.com/atom/electron)开源框架开发的一款第三方微信客户端，支持Linux和MacOS X系统。
 
-Electronic WeChat 具有一些不错的特性，包括拖入图片、文件即可发送，显示贴纸消息，以及直接打开重定向的链接等等。
+Electronic WeChat具有一些不错的特性，包括拖入图片、文件即可发送，显示贴纸消息，以及直接打开重定向的链接等等。
 
-要在 Linux 下安装 Electronic WeChat，可以到这里选择适合自己平台的版本，例如我选择的是linux-x64.tar.gz版本，执行：`tar zxvf linux-x64.tar.gz`后直接运行electronic-wechat，然后使用手机扫描二维码即可登录。
+要在Linux下安装ElectronicWeChat，可以到[这里](https://github.com/geeeeeeeeek/electronic-wechat/releases)选择适合自己平台的版本，例如我选择的是linux-x64.tar.gz版本，执行：`tar zxvf linux-x64.tar.gz`后直接运行electronic-wechat，然后使用手机扫描二维码即可登录。
