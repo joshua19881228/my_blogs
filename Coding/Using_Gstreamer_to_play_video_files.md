@@ -217,5 +217,5 @@ int main(int argc, char *argv[])
 the compiling commond is 
 
 ```
-gcc player.c -o player \`pkg-config --cflags --libs gstreamer-1.0`
+gcc player.c -o player `pkg-config --cflags --libs gstreamer-1.0`
 ```
