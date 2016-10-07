@@ -208,16 +208,16 @@ my own code can be found following:
                 /* We should not reach here */
                 g_printerr("Unexpected message received.\n");
                 break;
-            }
+                }
             gst_message_unref(msg);
-        }
-    } while (!terminate);
-    /* Free resources */
-    gst_object_unref(bus);
-    gst_element_set_state(data.pipeline, GST_STATE_NULL);
-    gst_object_unref(data.pipeline);
-    return 0;
-}
+            }
+        } while (!terminate);
+        /* Free resources */
+        gst_object_unref(bus);
+        gst_element_set_state(data.pipeline, GST_STATE_NULL);
+        gst_object_unref(data.pipeline);
+        return 0;
+    }
 
 the compiling commond is 
 
