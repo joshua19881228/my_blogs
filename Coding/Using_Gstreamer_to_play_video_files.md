@@ -107,6 +107,13 @@ my own code can be found following:
 
     int main(int argc, char *argv[])
     {
+
+        if(argc != 2)
+        {
+            g_printerr("usage: ./player <path_to_a_video>\n");
+            return 0;
+        }
+
         CustomData data;
         GstBus *bus;
         GstMessage *msg;
@@ -151,7 +158,7 @@ my own code can be found following:
             return -1;
         }
         /* Set the file to play */
-        g_object_set(data.source, "location", "/home/joshua/CODE/CXX/gstreamer/Car.mp4", NULL);
+        g_object_set(data.source, "location", argv[1], NULL);
         /* Connect to the pad-added signal */
         g_signal_connect(data.demuxer, "pad-added", G_CALLBACK(pad_added_handler), &data);
         /* Start playing */
@@ -192,25 +199,25 @@ my own code can be found following:
                     if (GST_MESSAGE_SRC(msg) == GST_OBJECT(data.pipeline))
                     {
                         GstState old_state, new_state, pending_state;
-                        gst_message_parse_state_changed(msg, &old_state, &new_state, &pending_state);
-                        g_print("Pipeline state changed from %s to %s:\n",
-                                gst_element_state_get_name(old_state), gst_element_state_get_name(new_state));
-                    }
-                    break;
-                default:
-                    /* We should not reach here */
-                    g_printerr("Unexpected message received.\n");
-                    break;
+                    gst_message_parse_state_changed(msg, &old_state, &new_state, &pending_state);
+                    g_print("Pipeline state changed from %s to %s:\n",
+                            gst_element_state_get_name(old_state), gst_element_state_get_name(new_state));
                 }
-                gst_message_unref(msg);
+                break;
+            default:
+                /* We should not reach here */
+                g_printerr("Unexpected message received.\n");
+                break;
             }
-        } while (!terminate);
-        /* Free resources */
-        gst_object_unref(bus);
-        gst_element_set_state(data.pipeline, GST_STATE_NULL);
-        gst_object_unref(data.pipeline);
-        return 0;
-    }
+            gst_message_unref(msg);
+        }
+    } while (!terminate);
+    /* Free resources */
+    gst_object_unref(bus);
+    gst_element_set_state(data.pipeline, GST_STATE_NULL);
+    gst_object_unref(data.pipeline);
+    return 0;
+}
 
 the compiling commond is 
 
