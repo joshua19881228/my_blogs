@@ -22,6 +22,7 @@ Though Arash Shafiei provided an excellent sample, there is some modifications t
 
 my own code can be found following:
 
+```
     #include <gst/gst.h>
     #include <glib.h>
     /* Structure to contain all our information, so we can pass it to callbacks */
@@ -211,7 +212,10 @@ my own code can be found following:
         gst_object_unref(data.pipeline);
         return 0;
     }
+```
 
 the compiling commond is 
 
+```
     gcc player.c -o player \`pkg-config --cflags --libs gstreamer-1.0`
+```
