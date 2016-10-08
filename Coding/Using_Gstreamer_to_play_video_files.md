@@ -174,7 +174,7 @@ my own code can be found following:
         do
         {
             msg = gst_bus_timed_pop_filtered(bus, GST_CLOCK_TIME_NONE,
-                                            GST_MESSAGE_STATE_CHANGED | GST_MESSAGE_ERROR | GST_MESSAGE_EOS);
+            (GstMessageType)(GST_MESSAGE_STATE_CHANGED | GST_MESSAGE_ERROR | GST_MESSAGE_EOS));
             /* Parse message */
             if (msg != NULL)
             {
