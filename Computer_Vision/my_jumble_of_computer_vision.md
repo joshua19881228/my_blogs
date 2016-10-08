@@ -103,6 +103,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
 * [TensorTalk](https://tensortalk.com/)
     A place to find latest work's codes.
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+    TensorFlow Tutorial with popular machine learning algorithms implementation. This tutorial was designed for easily diving into TensorFlow, through examples.It is suitable for beginners who want to find clear and concise examples about TensorFlow. For readability, the tutorial includes both notebook and code with explanations.
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
