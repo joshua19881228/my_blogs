@@ -69,6 +69,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Critical Review of Recurrent Neural Networks for Sequence Learning ([PDF](https://arxiv.org/abs/1506.00019))
 * Image Compression with Neural Networks ([Project/Code](https://github.com/tensorflow/models/tree/master/compression))
 * Graph Convolutional Networks ([Project/Code](http://tkipf.github.io/graph-convolutional-networks/))
+* Understanding intermediate layers using linear classifier probes ([PDF](https://arxiv.org/abs/1610.01644))
 
 ### Video ###
 
@@ -112,6 +113,8 @@ I am going to maintain this page to record a few things about computer vision th
     Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
 * [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
 * [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
+* [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
+    This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
 
 ### Benchmark/Leaderboard ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
@@ -150,6 +153,9 @@ I am going to maintain this page to record a few things about computer vision th
 * [Deriving the Gradient for the Backward Pass of Batch Normalization](https://kevinzakka.github.io/2016/09/14/batch_normalization/)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
+* [Regularizing neural networks by penalizing confident predictions](https://pan.baidu.com/s/1kUUtxdl)
+* [What you need to know about data augmentation for machine learning](https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/)
+    Plentiful high-quality data is the key to great machine learning models. But good data doesn’t grow on trees, and that scarcity can impede the development of a model. One way to get around a lack of data is to augment your dataset. Smart approaches to programmatic data augmentation can increase the size of your training set 10-fold or more. Even better, your model will often be more robust (and prevent overfitting) and can even be simpler due to a better training set.
 
 ## Skills ##
 
