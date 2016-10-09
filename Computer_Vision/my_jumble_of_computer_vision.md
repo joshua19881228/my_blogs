@@ -70,6 +70,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Image Compression with Neural Networks ([Project/Code](https://github.com/tensorflow/models/tree/master/compression))
 * Graph Convolutional Networks ([Project/Code](http://tkipf.github.io/graph-convolutional-networks/))
 * Understanding intermediate layers using linear classifier probes ([PDF](https://arxiv.org/abs/1610.01644))
+* Learning What and Where to Draw ([PDF](http://www.scottreed.info/files/nips2016.pdf), [Project/Code](https://github.com/reedscot/nips2016))
 
 ### Video ###
 
@@ -105,6 +106,8 @@ I am going to maintain this page to record a few things about computer vision th
     A place to find latest work's codes.
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
     TensorFlow Tutorial with popular machine learning algorithms implementation. This tutorial was designed for easily diving into TensorFlow, through examples.It is suitable for beginners who want to find clear and concise examples about TensorFlow. For readability, the tutorial includes both notebook and code with explanations.
+* [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+    These tutorials are intended for beginners in Deep Learning and TensorFlow. Each tutorial covers a single topic. The source-code is well-documented. There is a YouTube video for each tutorial.
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
