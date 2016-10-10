@@ -23,3 +23,7 @@
 5. Steam
 
     以往linux系统的娱乐性很差，现在有了[Steam](http://store.steampowered.com/)，各种大型游戏也不在话下了。
+
+6. QQ
+
+    腾讯对linux系统的支持比较差，上面提到的微信客户端也是爱好者自己利用网页版微信开发的。我在linux用QQ的解决方法来自[这里](cuiqingcai.com/349.html)，网上也有很多类似的教程，退而求其次地用wine qq吧。
