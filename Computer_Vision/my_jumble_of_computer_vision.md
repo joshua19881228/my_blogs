@@ -71,6 +71,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Graph Convolutional Networks ([Project/Code](http://tkipf.github.io/graph-convolutional-networks/))
 * Understanding intermediate layers using linear classifier probes ([PDF](https://arxiv.org/abs/1610.01644))
 * Learning What and Where to Draw ([PDF](http://www.scottreed.info/files/nips2016.pdf), [Project/Code](https://github.com/reedscot/nips2016))
+* On the interplay of network structure and gradient convergence in deep  learning ([PDF](https://arxiv.org/abs/1511.05297))
 
 ### Video ###
 
@@ -80,6 +81,7 @@ I am going to maintain this page to record a few things about computer vision th
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
 * [计算机视觉与机器学习 【深度学习中的激活函数】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-shen-du-xue-xi-zhong-de-ji-huo-han-shu_128/)
+* [我爱机器学习](https://www.52ml.net/) 机器学习干货站
 
 ### Embedded
 
