@@ -11,6 +11,7 @@ I am going to maintain this page to record a few things about computer vision th
 * SSD: Single Shot MultiBox Detector ([PDF](http://arxiv.org/abs/1512.02325v2), [Project/Code](https://github.com/weiliu89/caffe/tree/ssd), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-ssd-single-shot-multibox-detector_100/))
 * Pushing the Limits of Deep CNNs for Pedestrian Detection ([PDF](http://lib-arxiv-008.serverfarm.cornell.edu/abs/1603.04525), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pushing-the-limits-of-deep-cnns-for-pedestrian-detection_91/))
 * Object Detection by Labeling Superpixels([PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/3B_072_ext.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-object-detection-by-labeling-superpixels_74/))
+* Crafting GBD-Net for Object Detection ([PDF](https://arxiv.org/abs/1610.02579))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -47,6 +48,8 @@ I am going to maintain this page to record a few things about computer vision th
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
 
+### Image Processing
+* Learning Recursive Filter for Low-Level Vision via a Hybrid Neural Network ([PDF](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf), [Project/Code](https://github.com/Liusifei/caffe-lowlevel))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -72,11 +75,18 @@ I am going to maintain this page to record a few things about computer vision th
 * Understanding intermediate layers using linear classifier probes ([PDF](https://arxiv.org/abs/1610.01644))
 * Learning What and Where to Draw ([PDF](http://www.scottreed.info/files/nips2016.pdf), [Project/Code](https://github.com/reedscot/nips2016))
 * On the interplay of network structure and gradient convergence in deep  learning ([PDF](https://arxiv.org/abs/1511.05297))
+* Deep Learning with Separable Convolutions ([PDF](https://arxiv.org/abs/1610.02357))
+* Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization ([PDF](https://arxiv.org/abs/1610.02391))
+* Optimization of Convolutional Neural Network using Microcanonical Annealing Algorithm ([PDF](https://arxiv.org/abs/1610.02306))
+* Deep Pyramidal Residual Networks ([PDF](https://arxiv.org/abs/1610.02915))
+* Impatient DNNs - Deep Neural Networks with Dynamic Time Budgets ([PDF](https://arxiv.org/abs/1610.02850))
 
 ### Video ###
 
 * Video Pixel Networks ([PDF](https://arxiv.org/abs/1610.00527))
 * Plug-and-Play CNN for Crowd Motion Analysis: An Application in Abnormal Event Detection ([PDF](https://arxiv.org/abs/1610.00307))
+* EM-Based Mixture Models Applied to Video Event Detection ([PDF](https://arxiv.org/abs/1610.02923))
+* Video Captioning and Retrieval Models with Semantic Attention ([PDF](https://arxiv.org/abs/1610.02947))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
@@ -109,7 +119,10 @@ I am going to maintain this page to record a few things about computer vision th
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
     TensorFlow Tutorial with popular machine learning algorithms implementation. This tutorial was designed for easily diving into TensorFlow, through examples.It is suitable for beginners who want to find clear and concise examples about TensorFlow. For readability, the tutorial includes both notebook and code with explanations.
 * [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
-    These tutorials are intended for beginners in Deep Learning and TensorFlow. Each tutorial covers a single topic. The source-code is well-documented. There is a YouTube video for each tutorial.
+    These tutorials are intended for beginners in Deep Learning and TensorFlow. Each tutorial covers a single topic. The source-code is well-documented. There is a YouTube video for each tutorial.
+* [Home Surveilance with Facial Recognition](https://github.com/BrandonJoffe/home_surveillance)
+* [Deep Learning algorithms with TensorFlow](https://github.com/blackecho/Deep-Learning-TensorFlow)
+	This repository is a collection of various Deep Learning algorithms implemented using the TensorFlow library. This package is intended as a command line utility you can use to quickly train and evaluate popular Deep Learning models and maybe use them as benchmark/baseline in comparison to your custom models/datasets. 
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
@@ -120,7 +133,7 @@ I am going to maintain this page to record a few things about computer vision th
     Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
 * [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
 * [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
-* [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
+* [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
     This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
 
 ### Benchmark/Leaderboard/Dataset ###
