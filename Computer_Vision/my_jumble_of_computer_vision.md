@@ -78,6 +78,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Learning with Separable Convolutions ([PDF](https://arxiv.org/abs/1610.02357))
 * Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization ([PDF](https://arxiv.org/abs/1610.02391))
 * Optimization of Convolutional Neural Network using Microcanonical Annealing Algorithm ([PDF](https://arxiv.org/abs/1610.02306))
+* Deep Pyramidal Residual Networks ([PDF](https://arxiv.org/abs/1610.02915))
+* Impatient DNNs - Deep Neural Networks with Dynamic Time Budgets ([PDF](https://arxiv.org/abs/1610.02850))
 
 ### Video ###
 
