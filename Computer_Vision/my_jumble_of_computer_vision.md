@@ -148,6 +148,8 @@ https://github.com/dusty-nv/jetson-inference)
 	Neuralcli provides a simple command line interface to a python implementation of a simple classification neural network. Neuralcli allows a quick way and easy to get instant feedback on a hypothesis or to play around with one of the most popular concepts in machine learning today.
 * [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
 	Human activity recognition using smartphones dataset and an LSTM RNN. The project is based on Tesorflow. A MXNet implementation is [MXNET-Scala Human Activity Recognition](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition).
+* [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
+    This is a caffe implementation of the YOLO:Real-Time Object Detection.
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
