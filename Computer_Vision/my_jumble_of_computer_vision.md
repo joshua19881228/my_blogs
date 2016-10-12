@@ -100,9 +100,20 @@ I am going to maintain this page to record a few things about computer vision th
 
 ## Interesting Finds ##
 
-### Resources ###
+### Resources/Perspectives ###
+
 * [arXiv(Computer Vision and Pattern Recognition)](http://arxiv.org/list/cs.CV/recent) 
     A good place to explore latest papers.
+* [MIT Technology Review](https://www.technologyreview.com/)
+    A good place to keep up the trends.
+* [LAB41](https://gab41.lab41.org/)
+    Lab41 is a Silicon Valley challenge lab where experts from the U.S. Intelligence Community (IC), academia, industry, and In-Q-Tel come together to gain a better understanding of how to work with — and ultimately use — big data. 
+* [Partnership on AI](http://www.partnershiponai.org/)
+    Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
+* [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
+https://github.com/dusty-nv/jetson-inference)
+* [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
+    This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
     A curated list of awesome computer vision resources.
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
@@ -116,6 +127,9 @@ I am going to maintain this page to record a few things about computer vision th
 * [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
 * [TensorTalk](https://tensortalk.com/)
     A place to find latest work's codes.
+
+### Projects ###
+
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
     TensorFlow Tutorial with popular machine learning algorithms implementation. This tutorial was designed for easily diving into TensorFlow, through examples.It is suitable for beginners who want to find clear and concise examples about TensorFlow. For readability, the tutorial includes both notebook and code with explanations.
 * [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
@@ -123,18 +137,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [Home Surveilance with Facial Recognition](https://github.com/BrandonJoffe/home_surveillance)
 * [Deep Learning algorithms with TensorFlow](https://github.com/blackecho/Deep-Learning-TensorFlow)
 	This repository is a collection of various Deep Learning algorithms implemented using the TensorFlow library. This package is intended as a command line utility you can use to quickly train and evaluate popular Deep Learning models and maybe use them as benchmark/baseline in comparison to your custom models/datasets. 
-
-### News/Blogs ###
-* [MIT Technology Review](https://www.technologyreview.com/)
-    A good place to keep up the trends.
-* [LAB41](https://gab41.lab41.org/)
-    Lab41 is a Silicon Valley challenge lab where experts from the U.S. Intelligence Community (IC), academia, industry, and In-Q-Tel come together to gain a better understanding of how to work with — and ultimately use — big data. 
-* [Partnership on AI](http://www.partnershiponai.org/)
-    Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
-* [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
-* [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
-* [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
-    This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
+* [TensorLayer](https://github.com/zsdonghao/tensorlayer) 
+    TensorLayer is designed to use by both Researchers and Engineers, it is a transparent library built on the top of Google TensorFlow. It is designed to provide a higher-level API to TensorFlow in order to speed-up experimentations and developments. TensorLayer is easy to be extended and modified. In addition, we provide many examples and tutorials to help you to go through deep learning and reinforcement learning.
 
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
@@ -152,15 +156,13 @@ I am going to maintain this page to record a few things about computer vision th
     MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix the flavours of symbolic programming and imperative programming to maximize efficiency and productivity. In its core, a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. The library is portable and lightweight, and it scales to multiple GPUs and multiple machines.
 * [neon](https://github.com/NervanaSystems/neon)
     neon is Nervana's Python based Deep Learning framework and achieves the fastest performance on modern deep neural networks such as AlexNet, VGG and GoogLeNet. Designed for ease-of-use and extensibility.
-* [TensorLayer](https://github.com/zsdonghao/tensorlayer) 
-    TensorLayer is designed to use by both Researchers and Engineers, it is a transparent library built on the top of Google TensorFlow. It is designed to provide a higher-level API to TensorFlow in order to speed-up experimentations and developments. TensorLayer is easy to be extended and modified. In addition, we provide many examples and tutorials to help you to go through deep learning and reinforcement learning.
 * [Piotr's Computer Vision Matlab Toolbox](https://pdollar.github.io/toolbox/)
     This toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed. Emphasis has been placed on code efficiency and code reuse. Thanks to everyone who has given me feedback - you've helped make this toolbox more useful and easier to use. 
 * [NVIDIA Developer](https://developer.nvidia.com/)
 * [nvCaffe](https://github.com/NVIDIA/caffe/tree/experimental/fp16)
     A special branch of caffe is used on TX1 which includes support for FP16.
 
-### Principles ###
+### Learning/Tricks ###
 * [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
     A website that explain how Backpropagation Algorithm works.
 * [Deep Learning ( textbook authored by Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org/)
@@ -178,6 +180,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Regularizing neural networks by penalizing confident predictions](https://pan.baidu.com/s/1kUUtxdl)
 * [What you need to know about data augmentation for machine learning](https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/)
     Plentiful high-quality data is the key to great machine learning models. But good data doesn’t grow on trees, and that scarcity can impede the development of a model. One way to get around a lack of data is to augment your dataset. Smart approaches to programmatic data augmentation can increase the size of your training set 10-fold or more. Even better, your model will often be more robust (and prevent overfitting) and can even be simpler due to a better training set.
+* [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1]
 
 ## Skills ##
 
