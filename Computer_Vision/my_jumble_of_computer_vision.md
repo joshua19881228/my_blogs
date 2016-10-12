@@ -11,7 +11,9 @@ I am going to maintain this page to record a few things about computer vision th
 * SSD: Single Shot MultiBox Detector ([PDF](http://arxiv.org/abs/1512.02325v2), [Project/Code](https://github.com/weiliu89/caffe/tree/ssd), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-ssd-single-shot-multibox-detector_100/))
 * Pushing the Limits of Deep CNNs for Pedestrian Detection ([PDF](http://lib-arxiv-008.serverfarm.cornell.edu/abs/1603.04525), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pushing-the-limits-of-deep-cnns-for-pedestrian-detection_91/))
 * Object Detection by Labeling Superpixels([PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/3B_072_ext.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-object-detection-by-labeling-superpixels_74/))
-* Crafting GBD-Net for Object Detection ([PDF](https://arxiv.org/abs/1610.02579))
+* Crafting GBD-Net for Object Detection ([PDF](https://arxiv.org/abs/1610.02579), [Projct/Code](https://github.com/craftGBD/craftGBD))
+	code for CUImage and CUVideo, the object detection champion of ImageNet 2016.
+* Fused DNN: A deep neural network fusion approach to fast and robust pedestrian detection ([PDF](https://arxiv.org/abs/1610.03466))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -87,6 +89,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Plug-and-Play CNN for Crowd Motion Analysis: An Application in Abnormal Event Detection ([PDF](https://arxiv.org/abs/1610.00307))
 * EM-Based Mixture Models Applied to Video Event Detection ([PDF](https://arxiv.org/abs/1610.02923))
 * Video Captioning and Retrieval Models with Semantic Attention ([PDF](https://arxiv.org/abs/1610.02947))
+* Title Generation for User Generated Videos ([PDF](https://arxiv.org/abs/1608.07068))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
@@ -139,6 +142,24 @@ https://github.com/dusty-nv/jetson-inference)
 	This repository is a collection of various Deep Learning algorithms implemented using the TensorFlow library. This package is intended as a command line utility you can use to quickly train and evaluate popular Deep Learning models and maybe use them as benchmark/baseline in comparison to your custom models/datasets. 
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer) 
     TensorLayer is designed to use by both Researchers and Engineers, it is a transparent library built on the top of Google TensorFlow. It is designed to provide a higher-level API to TensorFlow in order to speed-up experimentations and developments. TensorLayer is easy to be extended and modified. In addition, we provide many examples and tutorials to help you to go through deep learning and reinforcement learning.
+* [Easily Create High Quality Object Detectors with Deep Learning](http://blog.dlib.net/2016/10/easily-create-high-quality-object.html)
+	Using [dlib](http://dlib.net/) to train a CNN to detect.
+* [Command Line Neural Network](https://github.com/hugorut/neural-cli)
+	Neuralcli provides a simple command line interface to a python implementation of a simple classification neural network. Neuralcli allows a quick way and easy to get instant feedback on a hypothesis or to play around with one of the most popular concepts in machine learning today.
+* [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
+	Human activity recognition using smartphones dataset and an LSTM RNN. The project is based on Tesorflow. A MXNet implementation is [MXNET-Scala Human Activity Recognition](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition).
+
+### News/Blogs ###
+* [MIT Technology Review](https://www.technologyreview.com/)
+    A good place to keep up the trends.
+* [LAB41](https://gab41.lab41.org/)
+    Lab41 is a Silicon Valley challenge lab where experts from the U.S. Intelligence Community (IC), academia, industry, and In-Q-Tel come together to gain a better understanding of how to work with — and ultimately use — big data. 
+* [Partnership on AI](http://www.partnershiponai.org/)
+    Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
+* [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
+* [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
+* [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
+    This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
 
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
@@ -161,6 +182,10 @@ https://github.com/dusty-nv/jetson-inference)
 * [NVIDIA Developer](https://developer.nvidia.com/)
 * [nvCaffe](https://github.com/NVIDIA/caffe/tree/experimental/fp16)
     A special branch of caffe is used on TX1 which includes support for FP16.
+* [dlib](http://dlib.net/)
+    Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. It is used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments. Dlib's open source licensing allows you to use it in any application, free of charge. 
+* [OpenCV](http://opencv.org/)
+    OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, C, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications.
 
 ### Learning/Tricks ###
 * [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
