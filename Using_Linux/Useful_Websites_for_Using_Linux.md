@@ -13,3 +13,7 @@ Recently I hang much with Ubuntu because I am trying some interesting computer v
 3. [Ubuntu Official Website](https://www.ubuntu.com/global)
 
     Ubuntu is an open source project that develops and maintains a cross-platform, open-source operating system based on Debian. It includes Unity, a consistent user interface for the smartphone, the tablet and the PC. Upgrades are released every six months and support is guaranteed by Canonical for up to five years. Canonical also provides commercial support for Ubuntu deployments across the desktop, the server and the cloud.
+
+4. [Pro Git](https://git-scm.com/book/en/v2)
+
+    Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Though Git is not only used on Linux OS but also on Windows/Mac, it really much more convenient and ecological on Linux. 
