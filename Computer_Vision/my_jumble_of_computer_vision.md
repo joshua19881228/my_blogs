@@ -11,7 +11,9 @@ I am going to maintain this page to record a few things about computer vision th
 * SSD: Single Shot MultiBox Detector ([PDF](http://arxiv.org/abs/1512.02325v2), [Project/Code](https://github.com/weiliu89/caffe/tree/ssd), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-ssd-single-shot-multibox-detector_100/))
 * Pushing the Limits of Deep CNNs for Pedestrian Detection ([PDF](http://lib-arxiv-008.serverfarm.cornell.edu/abs/1603.04525), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pushing-the-limits-of-deep-cnns-for-pedestrian-detection_91/))
 * Object Detection by Labeling Superpixels([PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/3B_072_ext.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-object-detection-by-labeling-superpixels_74/))
-* Crafting GBD-Net for Object Detection ([PDF](https://arxiv.org/abs/1610.02579))
+* Crafting GBD-Net for Object Detection ([PDF](https://arxiv.org/abs/1610.02579), [Projct/Code](https://github.com/craftGBD/craftGBD))
+	code for CUImage and CUVideo, the object detection champion of ImageNet 2016.
+* Fused DNN: A deep neural network fusion approach to fast and robust pedestrian detection ([PDF](https://arxiv.org/abs/1610.03466))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -87,6 +89,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Plug-and-Play CNN for Crowd Motion Analysis: An Application in Abnormal Event Detection ([PDF](https://arxiv.org/abs/1610.00307))
 * EM-Based Mixture Models Applied to Video Event Detection ([PDF](https://arxiv.org/abs/1610.02923))
 * Video Captioning and Retrieval Models with Semantic Attention ([PDF](https://arxiv.org/abs/1610.02947))
+* Title Generation for User Generated Videos ([PDF](https://arxiv.org/abs/1608.07068))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
@@ -123,6 +126,12 @@ I am going to maintain this page to record a few things about computer vision th
 * [Home Surveilance with Facial Recognition](https://github.com/BrandonJoffe/home_surveillance)
 * [Deep Learning algorithms with TensorFlow](https://github.com/blackecho/Deep-Learning-TensorFlow)
 	This repository is a collection of various Deep Learning algorithms implemented using the TensorFlow library. This package is intended as a command line utility you can use to quickly train and evaluate popular Deep Learning models and maybe use them as benchmark/baseline in comparison to your custom models/datasets. 
+* [Easily Create High Quality Object Detectors with Deep Learning](http://blog.dlib.net/2016/10/easily-create-high-quality-object.html)
+	Using [dlib](http://dlib.net/) to train a CNN to detect.
+* [Command Line Neural Network](https://github.com/hugorut/neural-cli)
+	Neuralcli provides a simple command line interface to a python implementation of a simple classification neural network. Neuralcli allows a quick way and easy to get instant feedback on a hypothesis or to play around with one of the most popular concepts in machine learning today.
+* [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
+	Human activity recognition using smartphones dataset and an LSTM RNN. The project is based on Tesorflow. A MXNet implementation is [MXNET-Scala Human Activity Recognition](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition).
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
