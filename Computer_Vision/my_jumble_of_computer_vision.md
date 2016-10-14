@@ -26,6 +26,7 @@ I am going to maintain this page to record a few things about computer vision th
 
     >We propose a highly structured neural network architecture for semantic segmentation of images that combines i) a Haar wavelet-based tree-like convolutional neural network (CNN), ii) a random layer realizing a radial basis function kernel approximation, and iii) a linear classifier. While stages i) and ii) are completely pre-specified, only the linear classifier is learned from data. Thanks to its high degree of structure, our architecture has a very small memory footprint and thus fits onto low-power embedded and mobile platforms. We apply the proposed architecture to outdoor scene and aerial image semantic segmentation and show that the accuracy of our architecture is competitive with conventional pixel classification CNNs. Furthermore, we demonstrate that the proposed architecture is data efficient in the sense of matching the accuracy of pixel classification CNNs when trained on a much smaller data set. 
 * CNN-aware Binary Map for General Semantic Segmentation ([PDF](https://arxiv.org/abs/1609.09220))
+* Learning to Refine Object Segments ([PDF](https://arxiv.org/abs/1603.08695))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -82,6 +83,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Optimization of Convolutional Neural Network using Microcanonical Annealing Algorithm ([PDF](https://arxiv.org/abs/1610.02306))
 * Deep Pyramidal Residual Networks ([PDF](https://arxiv.org/abs/1610.02915))
 * Impatient DNNs - Deep Neural Networks with Dynamic Time Budgets ([PDF](https://arxiv.org/abs/1610.02850))
+* Uncertainty in Deep Learning ([PDF](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf), [Project/Code](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html))
+	This is the PhD Thesis of Yarin Gal.
 
 ### Video ###
 
@@ -208,6 +211,9 @@ https://github.com/dusty-nv/jetson-inference)
 * [What you need to know about data augmentation for machine learning](https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/)
     Plentiful high-quality data is the key to great machine learning models. But good data doesn’t grow on trees, and that scarcity can impede the development of a model. One way to get around a lack of data is to augment your dataset. Smart approaches to programmatic data augmentation can increase the size of your training set 10-fold or more. Even better, your model will often be more robust (and prevent overfitting) and can even be simpler due to a better training set.
 * [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1]
+* [The Effect of Resolution on Deep Neural Network Image Classification Accuracy](https://medium.com/the-downlinq/the-effect-of-resolution-on-deep-neural-network-image-classification-accuracy-d1338e2782c5#.5iwdz2te8)
+	The author explored the impact of both spatial resolution and training dataset size on the classification performance of deep neural networks in this post.
+
 
 ## Skills ##
 
