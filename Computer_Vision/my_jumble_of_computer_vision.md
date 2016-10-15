@@ -85,6 +85,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Impatient DNNs - Deep Neural Networks with Dynamic Time Budgets ([PDF](https://arxiv.org/abs/1610.02850))
 * Uncertainty in Deep Learning ([PDF](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf), [Project/Code](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html))
 	This is the PhD Thesis of Yarin Gal.
+* Tensorial Mixture Models ([PDF](https://arxiv.org/abs/1610.04167), [Project/Code](https://github.com/HUJI-Deep/TMM))
 
 ### Video ###
 
@@ -165,6 +166,8 @@ https://github.com/dusty-nv/jetson-inference)
 * [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
 * [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
     This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
+* [ResNets, HighwayNets, and DenseNets, Oh My!](https://medium.com/@awjuliani/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.1d3mpy4hd)
+	This post walks through the logic behind three recent deep learning architectures: ResNet, HighwayNet, and DenseNet. Each make it more possible to successfully trainable deep networks by overcoming the limitations of traditional network design.
 
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
@@ -172,6 +175,8 @@ https://github.com/dusty-nv/jetson-inference)
 * [Leaderboards for the Evaluations on PASCAL VOC Data](http://host.robots.ox.ac.uk:8080/leaderboard/main_bootstrap.php)
 * [Open Images dataset](https://github.com/openimages/dataset)
     Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
+* [Open Sourcing 223GB of Driving Data](https://github.com/udacity/self-driving-car)
+	223GB of image frames and log data from 70 minutes of driving in Mountain View on two separate days, with one day being sunny, and the other overcast. 
 
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
