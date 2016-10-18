@@ -88,6 +88,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Uncertainty in Deep Learning ([PDF](http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf), [Project/Code](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html))
 	This is the PhD Thesis of Yarin Gal.
 * Tensorial Mixture Models ([PDF](https://arxiv.org/abs/1610.04167), [Project/Code](https://github.com/HUJI-Deep/TMM))
+* Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks ([PDF](https://arxiv.org/abs/1602.03616))
+* Why Deep Neural Networks? ([PDF](https://arxiv.org/abs/1610.04161))
 
 ### Video ###
 
@@ -233,4 +235,5 @@ https://github.com/dusty-nv/jetson-inference)
 ### Setting Up ###
 * [Installation of NVIDIA GPU Driver and CUDA Toolkit](http://joshua881228.webfactional.com/blog_installation-of-nvidia-gpu-driver-and-cuda-toolkit_54/)
 * [Tensorflow v0.10 installed from scratch on Ubuntu 16.04, CUDA 8.0RC+Patch, cuDNN v5.1 with a 1080GTX](https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/)
+
 
