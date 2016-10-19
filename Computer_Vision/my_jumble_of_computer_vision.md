@@ -178,6 +178,7 @@ https://github.com/dusty-nv/jetson-inference)
 * [ResNets, HighwayNets, and DenseNets, Oh My!](https://medium.com/@awjuliani/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.1d3mpy4hd)
 	This post walks through the logic behind three recent deep learning architectures: ResNet, HighwayNet, and DenseNet. Each make it more possible to successfully trainable deep networks by overcoming the limitations of traditional network design.
 * [How to build a robot that “sees” with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
+	
 	>I wanted to build a robot that could recognize objects. Years of experience building computer programs and doing test-driven development have turned me into a menace working on physical projects. In the real world, testing your buggy device can burn down your house, or at least fry your motor and force you to wait a couple of days for replacement parts to arrive.
 
 ### Benchmark/Leaderboard/Dataset ###
