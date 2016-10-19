@@ -163,6 +163,7 @@ https://github.com/dusty-nv/jetson-inference)
 	Human activity recognition using smartphones dataset and an LSTM RNN. The project is based on Tesorflow. A MXNet implementation is [MXNET-Scala Human Activity Recognition](https://github.com/Ldpe2G/DeepLearningForFun/tree/master/Mxnet-Scala/HumanActivityRecognition).
 * [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
     This is a caffe implementation of the YOLO:Real-Time Object Detection.
+* [SSD: Single Shot MultiBox Object Detector in mxnet](https://github.com/zhreshold/mxnet-ssd)
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
