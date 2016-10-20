@@ -14,6 +14,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Crafting GBD-Net for Object Detection ([PDF](https://arxiv.org/abs/1610.02579), [Projct/Code](https://github.com/craftGBD/craftGBD))
 	code for CUImage and CUVideo, the object detection champion of ImageNet 2016.
 * Fused DNN: A deep neural network fusion approach to fast and robust pedestrian detection ([PDF](https://arxiv.org/abs/1610.03466))
+* Training Region-based Object Detectors with Online Hard Example Mining ([PDF](https://arxiv.org/abs/1604.03540))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
