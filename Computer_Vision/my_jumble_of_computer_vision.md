@@ -235,7 +235,7 @@ https://github.com/dusty-nv/jetson-inference)
 * [The Effect of Resolution on Deep Neural Network Image Classification Accuracy](https://medium.com/the-downlinq/the-effect-of-resolution-on-deep-neural-network-image-classification-accuracy-d1338e2782c5#.5iwdz2te8)
 	The author explored the impact of both spatial resolution and training dataset size on the classification performance of deep neural networks in this post.
 * [深度学习调参的技巧](https://www.zhihu.com/question/25097993)
-
+* [5 algorithms to train a neural network](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network.html)
 
 ## Skills ##
 
