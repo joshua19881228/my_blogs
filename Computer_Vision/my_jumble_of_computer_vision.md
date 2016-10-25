@@ -167,6 +167,8 @@ https://github.com/dusty-nv/jetson-inference)
 * [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
     This is a caffe implementation of the YOLO:Real-Time Object Detection.
 * [SSD: Single Shot MultiBox Object Detector in mxnet](https://github.com/zhreshold/mxnet-ssd)
+* [MTCNN face detection and alignment in MXNet](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
+	This is a python/mxnet implementation of [Zhang's](https://github.com/kpzhang93/MTCNN_face_detection_alignment) work .
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
@@ -188,6 +190,8 @@ https://github.com/dusty-nv/jetson-inference)
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
     This website contains data and code of the benchmark evaluation of online visual tracking algorithms. Join visual-tracking Google groups for further updates, discussions, or QnAs.
+* [Multiple Object Tracking Benchmark](https://motchallenge.net/)
+	With this benchmark we would like to pave the way for a unified framework towards more meaningful quantification of multi-target tracking.
 * [Leaderboards for the Evaluations on PASCAL VOC Data](http://host.robots.ox.ac.uk:8080/leaderboard/main_bootstrap.php)
 * [Open Images dataset](https://github.com/openimages/dataset)
     Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
@@ -235,7 +239,12 @@ https://github.com/dusty-nv/jetson-inference)
 * [The Effect of Resolution on Deep Neural Network Image Classification Accuracy](https://medium.com/the-downlinq/the-effect-of-resolution-on-deep-neural-network-image-classification-accuracy-d1338e2782c5#.5iwdz2te8)
 	The author explored the impact of both spatial resolution and training dataset size on the classification performance of deep neural networks in this post.
 * [深度学习调参的技巧](https://www.zhihu.com/question/25097993)
+* [CNN怎么调参数](https://www.zhihu.com/question/27962483)
+* [视频多目标跟踪当前（2014,2015,2016）比较好的算法有哪些](https://www.zhihu.com/question/40545681)
 * [5 algorithms to train a neural network](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network.html)
+* [Towards Good Practices for Recognition & Detection](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325586&idx=1&sn=69a7e8482d884dda869290581a50a6d6&chksm=f235a558c5422c4eabe75f6db92fd13a3ca662d648676461914c9bfd1f4e22affe12430afce3&mpshare=1&scene=2&srcid=1024IdcoRukOMBvDA5dPbRoV&from=timeline&isappinstalled=0#wechat_redirect)
+	海康威视研究院ImageNet2016竞赛经验分享
+* [What are the differences between Random Forest and Gradient Tree Boosting algorithms](https://www.quora.com/What-are-the-differences-between-Random-Forest-and-Gradient-Tree-Boosting-algorithms)
 
 ## Skills ##
 
