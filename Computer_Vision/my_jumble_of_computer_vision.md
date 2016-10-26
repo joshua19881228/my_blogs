@@ -56,6 +56,7 @@ I am going to maintain this page to record a few things about computer vision th
 ### Image Processing
 * Learning Recursive Filter for Low-Level Vision via a Hybrid Neural Network ([PDF](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf), [Project/Code](https://github.com/Liusifei/caffe-lowlevel))
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding([PDF](https://arxiv.org/abs/1510.00149), [Project/Code](https://github.com/songhan/Deep-Compression-AlexNet))
+* A Learned Representation For Artistic Style([PDF](https://arxiv.org/abs/1610.07629))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -99,6 +100,7 @@ I am going to maintain this page to record a few things about computer vision th
 * EM-Based Mixture Models Applied to Video Event Detection ([PDF](https://arxiv.org/abs/1610.02923))
 * Video Captioning and Retrieval Models with Semantic Attention ([PDF](https://arxiv.org/abs/1610.02947))
 * Title Generation for User Generated Videos ([PDF](https://arxiv.org/abs/1608.07068))
+* Review of Action Recognition and Detection Methods ([PDF](https://arxiv.org/abs/1610.06906))
 
 
 ### Machine Learning ###
