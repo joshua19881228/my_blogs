@@ -174,6 +174,9 @@ https://github.com/dusty-nv/jetson-inference)
 * [MTCNN face detection and alignment in MXNet](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 	This is a python/mxnet implementation of [Zhang's](https://github.com/kpzhang93/MTCNN_face_detection_alignment) work .
 * [CNTK Examples: Image/Detection/Fast R-CNN](https://github.com/Microsoft/CNTK/tree/master/Examples/Image/Detection/FastRCNN)
+* [CNNdroid](https://github.com/ENCP/CNNdroid)
+	CNNdroid is an open source library for execution of trained convolutional neural networks on Android devices. 
+* [Self Driving (Toy) Ferrari](https://github.com/RyanZotti/Self-Driving-Car)
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
