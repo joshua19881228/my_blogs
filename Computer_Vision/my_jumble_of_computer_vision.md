@@ -92,7 +92,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Tensorial Mixture Models ([PDF](https://arxiv.org/abs/1610.04167), [Project/Code](https://github.com/HUJI-Deep/TMM))
 * Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks ([PDF](https://arxiv.org/abs/1602.03616))
 * Why Deep Neural Networks? ([PDF](https://arxiv.org/abs/1610.04161))
-
+* Local Similarity-Aware Deep Feature Embedding ([PDF](https://arxiv.org/abs/1610.08904))
 ### Video ###
 
 * Video Pixel Networks ([PDF](https://arxiv.org/abs/1610.00527))
