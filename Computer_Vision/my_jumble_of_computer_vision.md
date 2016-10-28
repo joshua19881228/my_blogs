@@ -79,7 +79,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Critical Review of Recurrent Neural Networks for Sequence Learning ([PDF](https://arxiv.org/abs/1506.00019))
 * Image Compression with Neural Networks ([Project/Code](https://github.com/tensorflow/models/tree/master/compression))
 * Graph Convolutional Networks ([Project/Code](http://tkipf.github.io/graph-convolutional-networks/))
-* Understanding intermediate layers using linear classifier probes ([PDF](https://arxiv.org/abs/1610.01644))
+* Understanding intermediate layers using linear classifier probes ([PDF](https://arxiv.org/abs/1610.01644), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-understanding-intermediate-layers-using-linear-classifier-probes_156/))
 * Learning What and Where to Draw ([PDF](http://www.scottreed.info/files/nips2016.pdf), [Project/Code](https://github.com/reedscot/nips2016))
 * On the interplay of network structure and gradient convergence in deep  learning ([PDF](https://arxiv.org/abs/1511.05297))
 * Deep Learning with Separable Convolutions ([PDF](https://arxiv.org/abs/1610.02357))
