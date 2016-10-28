@@ -28,7 +28,7 @@ From the experiment in the paper, it seems that Auxiliary loss branches help mak
 
 From another experiment, if we added a bridge (a skip connection) between layer 0 and layer 64, the model completely ignores layers 1-63. The following figure illustrates the phenomenon.
 
-![figure 1](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/probe_figure_1.jpeg)
+<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/probe_figure_1.jpeg" alt="" width="640"/>
 
 ## Some Ideas ##
 
