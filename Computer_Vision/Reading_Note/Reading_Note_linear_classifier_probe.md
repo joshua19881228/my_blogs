@@ -28,4 +28,10 @@ From the experiment in the paper, it seems that Auxiliary loss branches help mak
 
 From another experiment, if we added a bridge (a skip connection) between layer 0 and layer 64, the model completely ignores layers 1-63. The following figure illustrates the phenomenon.
 
-[!]()
+![figure 1](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/probe_figure_1.jpeg)
+
+## Some Ideas ##
+
+1. the probes can be used to visualize the role of each layers.
+2. ResNet is really necessary? Why it works if the skip will ignore the layers it covers.
+3. Training stage by stage could be very useful when a very deep network is use.
