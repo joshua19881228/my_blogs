@@ -250,6 +250,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Towards Good Practices for Recognition & Detection](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650325586&idx=1&sn=69a7e8482d884dda869290581a50a6d6&chksm=f235a558c5422c4eabe75f6db92fd13a3ca662d648676461914c9bfd1f4e22affe12430afce3&mpshare=1&scene=2&srcid=1024IdcoRukOMBvDA5dPbRoV&from=timeline&isappinstalled=0#wechat_redirect)
 	海康威视研究院ImageNet2016竞赛经验分享
 * [What are the differences between Random Forest and Gradient Tree Boosting algorithms](https://www.quora.com/What-are-the-differences-between-Random-Forest-and-Gradient-Tree-Boosting-algorithms)
+* [为什么现在的CNN模型都是在GoogleNet、VGGNet或者AlexNet上调整的](https://www.zhihu.com/question/43370067)
 
 ## Skills ##
 
