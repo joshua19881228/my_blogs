@@ -15,6 +15,7 @@ I am going to maintain this page to record a few things about computer vision th
 	code for CUImage and CUVideo, the object detection champion of ImageNet 2016.
 * Fused DNN: A deep neural network fusion approach to fast and robust pedestrian detection ([PDF](https://arxiv.org/abs/1610.03466))
 * Training Region-based Object Detectors with Online Hard Example Mining ([PDF](https://arxiv.org/abs/1604.03540))
+* Detecting People in Artwork with CNNs ([PDF](https://arxiv.org/abs/1610.08871), [Project/Code](https://github.com/BathVisArtData/PeopleArt))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -93,6 +94,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks ([PDF](https://arxiv.org/abs/1602.03616))
 * Why Deep Neural Networks? ([PDF](https://arxiv.org/abs/1610.04161))
 * Local Similarity-Aware Deep Feature Embedding ([PDF](https://arxiv.org/abs/1610.08904))
+* A Review of 40 Years of Cognitive Architecture Research: Focus on Perception, Attention, Learning and Applications ([PDF](https://arxiv.org/abs/1610.08602))
+
 ### Video ###
 
 * Video Pixel Networks ([PDF](https://arxiv.org/abs/1610.00527))
