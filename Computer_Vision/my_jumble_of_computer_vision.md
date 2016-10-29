@@ -128,16 +128,6 @@ I am going to maintain this page to record a few things about computer vision th
 
 * [arXiv(Computer Vision and Pattern Recognition)](http://arxiv.org/list/cs.CV/recent) 
     A good place to explore latest papers.
-* [MIT Technology Review](https://www.technologyreview.com/)
-    A good place to keep up the trends.
-* [LAB41](https://gab41.lab41.org/)
-    Lab41 is a Silicon Valley challenge lab where experts from the U.S. Intelligence Community (IC), academia, industry, and In-Q-Tel come together to gain a better understanding of how to work with — and ultimately use — big data. 
-* [Partnership on AI](http://www.partnershiponai.org/)
-    Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
-* [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
-https://github.com/dusty-nv/jetson-inference)
-* [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
-    This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
     A curated list of awesome computer vision resources.
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
