@@ -121,6 +121,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning Aligned Cross-Modal Representations from Weakly Aligned Data ([PDF](http://cmplaces.csail.mit.edu/content/paper.pdf), [Project/Code](http://cmplaces.csail.mit.edu/))
 * Multi-Task Curriculum Transfer Deep Learning of Clothing Attributes ([PDF](https://arxiv.org/abs/1610.03670))
 * End-to-end Learning of Deep Visual Representations for Image Retrieval ([PDF](https://arxiv.org/abs/1610.07940))
+* SoundNet: Learning Sound Representations from Unlabeled Video ([PDF](http://web.mit.edu/vondrick/soundnet.pdf))
 
 ## Interesting Finds ##
 
