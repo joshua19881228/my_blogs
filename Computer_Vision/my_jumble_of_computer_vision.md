@@ -171,6 +171,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [CNNdroid](https://github.com/ENCP/CNNdroid)
 	CNNdroid is an open source library for execution of trained convolutional neural networks on Android devices. 
 * [Self Driving (Toy) Ferrari](https://github.com/RyanZotti/Self-Driving-Car)
+* [Finding Lane Lines on the Road](https://github.com/udacity/CarND-LaneLines-P1)
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
