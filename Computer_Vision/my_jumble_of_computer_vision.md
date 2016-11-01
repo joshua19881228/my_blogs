@@ -210,6 +210,8 @@ I am going to maintain this page to record a few things about computer vision th
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
     Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and by community contributors. Yangqing Jia created the project during his PhD at UC Berkeley. Caffe is released under the BSD 2-Clause license.
+* [Caffe on Intel](https://github.com/intel/caffe)
+    This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
     TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
 * [MXNet](http://mxnet.io/)
