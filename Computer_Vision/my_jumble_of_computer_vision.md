@@ -170,8 +170,6 @@ I am going to maintain this page to record a few things about computer vision th
 * [MTCNN face detection and alignment in MXNet](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
 	This is a python/mxnet implementation of [Zhang's](https://github.com/kpzhang93/MTCNN_face_detection_alignment) work .
 * [CNTK Examples: Image/Detection/Fast R-CNN](https://github.com/Microsoft/CNTK/tree/master/Examples/Image/Detection/FastRCNN)
-* [CNNdroid](https://github.com/ENCP/CNNdroid)
-	CNNdroid is an open source library for execution of trained convolutional neural networks on Android devices. 
 * [Self Driving (Toy) Ferrari](https://github.com/RyanZotti/Self-Driving-Car)
 * [Finding Lane Lines on the Road](https://github.com/udacity/CarND-LaneLines-P1)
 
@@ -227,6 +225,8 @@ I am going to maintain this page to record a few things about computer vision th
     Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. It is used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments. Dlib's open source licensing allows you to use it in any application, free of charge. 
 * [OpenCV](http://opencv.org/)
     OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, C, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications.
+* [CNNdroid](https://github.com/ENCP/CNNdroid)
+	CNNdroid is an open source library for execution of trained convolutional neural networks on Android devices. 
 
 ### Learning/Tricks ###
 * [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
