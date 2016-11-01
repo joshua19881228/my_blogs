@@ -96,6 +96,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Why Deep Neural Networks? ([PDF](https://arxiv.org/abs/1610.04161))
 * Local Similarity-Aware Deep Feature Embedding ([PDF](https://arxiv.org/abs/1610.08904))
 * A Review of 40 Years of Cognitive Architecture Research: Focus on Perception, Attention, Learning and Applications ([PDF](https://arxiv.org/abs/1610.08602))
+* Professor Forcing: A New Algorithm for Training Recurrent Networks ([PDF](https://arxiv.org/abs/1610.09038))
 
 ### Video ###
 
