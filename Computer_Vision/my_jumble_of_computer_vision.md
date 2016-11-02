@@ -172,6 +172,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [CNTK Examples: Image/Detection/Fast R-CNN](https://github.com/Microsoft/CNTK/tree/master/Examples/Image/Detection/FastRCNN)
 * [Self Driving (Toy) Ferrari](https://github.com/RyanZotti/Self-Driving-Car)
 * [Finding Lane Lines on the Road](https://github.com/udacity/CarND-LaneLines-P1)
+* [Magenta](https://github.com/tensorflow/magenta)
+	Magenta is a project from the Google Brain team that asks: Can we use machine learning to create compelling art and music? If so, how? If not, why not?
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
