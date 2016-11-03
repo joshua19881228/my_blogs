@@ -195,6 +195,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 * [Navigating the unsupervised learning landscape](https://culurciello.github.io//tech/2016/06/10/unsup.html)
 	Unsupervised learning is the Holy Grail of Deep Learning. The goal of unsupervised learning is to create general systems that can be trained with little data. Very little data.
+* [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
