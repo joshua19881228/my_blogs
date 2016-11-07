@@ -181,6 +181,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [Finding Lane Lines on the Road](https://github.com/udacity/CarND-LaneLines-P1)
 * [Magenta](https://github.com/tensorflow/magenta)
 	Magenta is a project from the Google Brain team that asks: Can we use machine learning to create compelling art and music? If so, how? If not, why not?
+* [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+	The classical Papers about adversarial nets 
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
