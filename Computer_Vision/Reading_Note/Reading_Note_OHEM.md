@@ -22,7 +22,7 @@ This alogorithm is designed for region proposal based object detector. The top s
 
 For an input image at SGD iteration, a conv feature map using the Convolutional Network is first computed. Then the RoI Network uses this feature map and the all the input RoIs, instead of a sampled mini-batch, to do a forward pass. The loss computated for each RoI represents how well the current network performs on each RoI. Hard examples are selected by sorting the input RoIs by loss and taking the B/N examples for which the current network performs worst.
 
-** Some Details **
+**Some Details**
 
 The author's implementation maintains two copies of the RoI network, one of which is readonly. This implies that the *readonly RoI network* allocates memory only for forward pass of **all** RoIs (R) as opposed to the *standard RoI network*, which allocates memory for both forward and backward passes. For an SGD iteration, given the conv feature map, the *readonly RoI network* performs a forward pass and computes loss for all input RoIs (green arrows). Then the hard RoI sampling module selects hard examples, which are input to the *regular RoI network* (red arrows). This network computes forward and backward passes only for hard RoIs, accumulates the gradients and passes them to the conv network. In practice, the author uses all RoIs from all N images as R, therefore the effective batch size for the *readonly RoI network* is |R| and for the *regular RoI network* is the standard B.
 
