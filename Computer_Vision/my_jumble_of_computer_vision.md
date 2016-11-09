@@ -131,6 +131,7 @@ I am going to maintain this page to record a few things about computer vision th
 * SoundNet: Learning Sound Representations from Unlabeled Video ([PDF](http://web.mit.edu/vondrick/soundnet.pdf))
 * Bags of Local Convolutional Features for Scalable Instance Search ([PDF](https://arxiv.org/abs/1604.04653), [Project/Code](https://imatge-upc.github.io/retrieval-2016-icmr/))
 * Universal Correspondence Network ([PDF](http://cvgl.stanford.edu/projects/ucn/choy_nips16.pdf), [Project/Code](http://cvgl.stanford.edu/projects/ucn/))
+* Judging a Book By its Cover ([PDF](https://arxiv.org/abs/1610.09204))
 
 ## Interesting Finds ##
 
@@ -206,6 +207,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [Navigating the unsupervised learning landscape](https://culurciello.github.io//tech/2016/06/10/unsup.html)
 	Unsupervised learning is the Holy Grail of Deep Learning. The goal of unsupervised learning is to create general systems that can be trained with little data. Very little data.
 * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
+* [Facial Recognition on a Jetson TX1 in Tensorflow](http://www.mattkrzus.com/face.html)
+	Here's a way to hack facial recognition system together in relatively short time on NVIDIA's Jetson TX1.
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
