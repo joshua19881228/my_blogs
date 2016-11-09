@@ -43,7 +43,8 @@ I am going to maintain this page to record a few things about computer vision th
 ### Action Recognition/Event Detection
 * Pooling the Convolutional Layers in Deep ConvNets for Action Recognition ([PDF](http://arxiv.org/abs/1511.02126), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pooling-the-convolutional-layers-in-deep-convnets-for-action-recognition_73/))
 * Two-Stream Convolutional Networks for Action Recognition in Videos ([PDF](http://arxiv.org/abs/1406.2199), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-two-stream-convolutional-networks-for-action-recognition-in-videos_71/))
-* YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m))    
+* YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m))
+* Spatiotemporal Residual Networks for Video Action Recognition ([PDF](https://arxiv.org/abs/1611.02155))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -102,6 +103,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Review of 40 Years of Cognitive Architecture Research: Focus on Perception, Attention, Learning and Applications ([PDF](https://arxiv.org/abs/1610.08602))
 * Professor Forcing: A New Algorithm for Training Recurrent Networks ([PDF](https://arxiv.org/abs/1610.09038))
 * On the expressive power of deep neural networks([PDF](https://arxiv.org/abs/1606.05336))
+* What Is the Best Practice for CNNs Applied to Visual Instance Retrieval? ([PDF](https://arxiv.org/abs/1611.01640))
 
 ### Video ###
 
