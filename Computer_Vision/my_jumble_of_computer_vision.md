@@ -104,6 +104,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Professor Forcing: A New Algorithm for Training Recurrent Networks ([PDF](https://arxiv.org/abs/1610.09038))
 * On the expressive power of deep neural networks([PDF](https://arxiv.org/abs/1606.05336))
 * What Is the Best Practice for CNNs Applied to Visual Instance Retrieval? ([PDF](https://arxiv.org/abs/1611.01640))
+* Deep Convolutional Neural Network Design Patterns ([PDF](https://arxiv.org/abs/1611.00847))
 
 ### Video ###
 
