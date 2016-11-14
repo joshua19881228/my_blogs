@@ -114,6 +114,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Video Captioning and Retrieval Models with Semantic Attention ([PDF](https://arxiv.org/abs/1610.02947))
 * Title Generation for User Generated Videos ([PDF](https://arxiv.org/abs/1608.07068))
 * Review of Action Recognition and Detection Methods ([PDF](https://arxiv.org/abs/1610.06906))
+* RECURRENT MIXTURE DENSITY NETWORK FOR SPATIOTEMPORAL VISUAL ATTENTION ([PDF](http://openreview.net/pdf?id=SJRpRfKxx))
 
 
 ### Machine Learning ###
