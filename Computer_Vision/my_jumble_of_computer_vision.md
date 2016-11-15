@@ -105,6 +105,8 @@ I am going to maintain this page to record a few things about computer vision th
 * On the expressive power of deep neural networks([PDF](https://arxiv.org/abs/1606.05336))
 * What Is the Best Practice for CNNs Applied to Visual Instance Retrieval? ([PDF](https://arxiv.org/abs/1611.01640))
 * Deep Convolutional Neural Network Design Patterns ([PDF](https://arxiv.org/abs/1611.00847))
+* Tricks from Deep Learning ([PDF](https://arxiv.org/abs/1611.03777))
+* A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models ([PDF](https://arxiv.org/abs/1611.03852))
 
 ### Video ###
 
@@ -213,6 +215,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
 * [Facial Recognition on a Jetson TX1 in Tensorflow](http://www.mattkrzus.com/face.html)
 	Here's a way to hack facial recognition system together in relatively short time on NVIDIA's Jetson TX1.
+* [Deep Learning with Generative and Generative Adverserial Networks – ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/)
+	This blog post gives an overview of Deep Learning with Generative and Adverserial Networks related papers submitted to ICLR 2017.
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
