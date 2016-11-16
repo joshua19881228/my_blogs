@@ -17,3 +17,7 @@ Recently I hang much with Ubuntu because I am trying some interesting computer v
 4. [Pro Git](https://git-scm.com/book/en/v2)
 
     Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Though Git is not only used on Linux OS but also on Windows/Mac, it really much more convenient and ecological on Linux. 
+    
+5. [A Great Vim Cheat Sheet](http://vimsheet.com/)
+
+    >I’ve compiled a list of essential vim commands that I use every day. I then give a few instructions on how to making vim as great as it should be, because it’s painful without configuration.
