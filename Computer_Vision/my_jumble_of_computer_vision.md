@@ -64,6 +64,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification ([PDF](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf), [Project/Code](https://github.com/satoshiiizuka/siggraph2016_colorization))
 * Pixel Recurrent Neural Networks ([PDF](https://arxiv.org/abs/1601.06759))
 * Conditional Image Generation with PixelCNN Decoders ([PDF](https://arxiv.org/abs/1606.05328), [Project/Code](https://github.com/dritchie/pixelCNN))
+* RAISR: Rapid and Accurate Image Super Resolution ([PDF](https://arxiv.org/abs/1606.01299))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -217,6 +218,8 @@ I am going to maintain this page to record a few things about computer vision th
 	Here's a way to hack facial recognition system together in relatively short time on NVIDIA's Jetson TX1.
 * [Deep Learning with Generative and Generative Adverserial Networks – ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/)
 	This blog post gives an overview of Deep Learning with Generative and Adverserial Networks related papers submitted to ICLR 2017.
+* [Unsupervised Deep Learning – ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/unsupervised-deep-learning-iclr-2017-discoveries/)
+	This blog post gives an overview of papers related to Unsupervised Deep Learning submitted to ICLR 2017.
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
