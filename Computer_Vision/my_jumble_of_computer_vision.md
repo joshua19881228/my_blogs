@@ -112,7 +112,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Tricks from Deep Learning ([PDF](https://arxiv.org/abs/1611.03777))
 * A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models ([PDF](https://arxiv.org/abs/1611.03852))
 * Multi-Shot Mining Semantic Part Concepts in CNNs ([PDF](https://arxiv.org/abs/1611.04246))
-* Aggregated Residual Transformations for Deep Neural Networks ([PDF](https://arxiv.org/abs/1611.05431))
+* Aggregated Residual Transformations for Deep Neural Networks ([PDF](https://arxiv.org/abs/1611.05431), [Reading Note]())
 
 ### Video ###
 
