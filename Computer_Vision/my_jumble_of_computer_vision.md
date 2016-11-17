@@ -16,6 +16,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Fused DNN: A deep neural network fusion approach to fast and robust pedestrian detection ([PDF](https://arxiv.org/abs/1610.03466))
 * Training Region-based Object Detectors with Online Hard Example Mining ([PDF](https://arxiv.org/abs/1604.03540), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-training-region-based-object-detectors-with-online-hard-example-mining_159/))
 * Detecting People in Artwork with CNNs ([PDF](https://arxiv.org/abs/1610.08871), [Project/Code](https://github.com/BathVisArtData/PeopleArt))
+* Deeply supervised salient object detection with short connections ([PDF](https://arxiv.org/abs/1611.04849))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -35,6 +36,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
 * Joint Tracking and Segmentation of Multiple Targets ([PDF](http://milanton.de/files/cvpr2015/cvpr2015-ext-abstr-anton.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-joint-tracking-and-segmentation-of-multiple-targets_70/))
 * Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks ([PDF](https://arxiv.org/abs/1609.09365))
+* Convolutional Regression for Visual Tracking ([PDF](https://arxiv.org/abs/1611.04215))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -108,6 +110,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Convolutional Neural Network Design Patterns ([PDF](https://arxiv.org/abs/1611.00847))
 * Tricks from Deep Learning ([PDF](https://arxiv.org/abs/1611.03777))
 * A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models ([PDF](https://arxiv.org/abs/1611.03852))
+* Multi-Shot Mining Semantic Part Concepts in CNNs ([PDF](https://arxiv.org/abs/1611.04246))
 
 ### Video ###
 
