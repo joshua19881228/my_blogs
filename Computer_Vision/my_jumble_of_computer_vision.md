@@ -144,6 +144,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Bags of Local Convolutional Features for Scalable Instance Search ([PDF](https://arxiv.org/abs/1604.04653), [Project/Code](https://imatge-upc.github.io/retrieval-2016-icmr/))
 * Universal Correspondence Network ([PDF](http://cvgl.stanford.edu/projects/ucn/choy_nips16.pdf), [Project/Code](http://cvgl.stanford.edu/projects/ucn/))
 * Judging a Book By its Cover ([PDF](https://arxiv.org/abs/1610.09204))
+* Generalisation and Sharing in Triplet Convnets for Sketch based Visual Search ([PDF](https://arxiv.org/abs/1611.05301))
 
 ## Interesting Finds ##
 
