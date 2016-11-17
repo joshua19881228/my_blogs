@@ -31,6 +31,7 @@ I am going to maintain this page to record a few things about computer vision th
 * CNN-aware Binary Map for General Semantic Segmentation ([PDF](https://arxiv.org/abs/1609.09220))
 * Learning to Refine Object Segments ([PDF](https://arxiv.org/abs/1603.08695))
 * Clockwork Convnets for Video Semantic Segmentation([PDF](https://arxiv.org/abs/1608.03609), [Project/Code](https://github.com/shelhamer/clockwork-fcn))
+* Convolutional Gated Recurrent Networks for Video Segmentation ([PDF](https://arxiv.org/abs/1611.05435))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -111,6 +112,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Tricks from Deep Learning ([PDF](https://arxiv.org/abs/1611.03777))
 * A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models ([PDF](https://arxiv.org/abs/1611.03852))
 * Multi-Shot Mining Semantic Part Concepts in CNNs ([PDF](https://arxiv.org/abs/1611.04246))
+* Aggregated Residual Transformations for Deep Neural Networks ([PDF](https://arxiv.org/abs/1611.05431))
 
 ### Video ###
 
