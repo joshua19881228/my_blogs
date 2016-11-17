@@ -239,9 +239,7 @@ I am going to maintain this page to record a few things about computer vision th
 	223GB of image frames and log data from 70 minutes of driving in Mountain View on two separate days, with one day being sunny, and the other overcast. 
 * [MS COCO](http://mscoco.org)
 * [UMDFaces Dataset](http://umdfaces.io/)
-	UMDFaces is a face dataset which has 367,920 faces of 8,501 subjects. 
-
-From this page you can download the entire dataset and the trained model for predicting the localization of the 21 keypoints. 
+	UMDFaces is a face dataset which has 367,920 faces of 8,501 subjects. From this page you can download the entire dataset and the trained model for predicting the localization of the 21 keypoints. 
 
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
