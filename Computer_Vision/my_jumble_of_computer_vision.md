@@ -17,6 +17,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Training Region-based Object Detectors with Online Hard Example Mining ([PDF](https://arxiv.org/abs/1604.03540), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-training-region-based-object-detectors-with-online-hard-example-mining_159/))
 * Detecting People in Artwork with CNNs ([PDF](https://arxiv.org/abs/1610.08871), [Project/Code](https://github.com/BathVisArtData/PeopleArt))
 * Deeply supervised salient object detection with short connections ([PDF](https://arxiv.org/abs/1611.04849))
+* Learning to detect and localize many objects from few examples ([PDF](https://arxiv.org/abs/1611.05664))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -112,7 +113,9 @@ I am going to maintain this page to record a few things about computer vision th
 * Tricks from Deep Learning ([PDF](https://arxiv.org/abs/1611.03777))
 * A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models ([PDF](https://arxiv.org/abs/1611.03852))
 * Multi-Shot Mining Semantic Part Concepts in CNNs ([PDF](https://arxiv.org/abs/1611.04246))
-* Aggregated Residual Transformations for Deep Neural Networks ([PDF](https://arxiv.org/abs/1611.05431), [Reading Note]())
+* Aggregated Residual Transformations for Deep Neural Networks ([PDF](https://arxiv.org/abs/1611.05431), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-aggregated-residual-transformations-for-deep-neural-networks_162/))
+* PolyNet: A Pursuit of Structural Diversity in Very Deep Networks ([PDF](https://arxiv.org/abs/1611.05725))
+* On the Exploration of Convolutional Fusion Networks for Visual Recognition ([PDF](https://arxiv.org/abs/1611.05503))
 
 ### Video ###
 
