@@ -39,6 +39,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Joint Tracking and Segmentation of Multiple Targets ([PDF](http://milanton.de/files/cvpr2015/cvpr2015-ext-abstr-anton.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-joint-tracking-and-segmentation-of-multiple-targets_70/))
 * Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks ([PDF](https://arxiv.org/abs/1609.09365))
 * Convolutional Regression for Visual Tracking ([PDF](https://arxiv.org/abs/1611.04215))
+* Kernelized Correlation Filters([Project](http://www.robots.ox.ac.uk/%7Ejoao/circulant/) [CODE1](https://github.com/foolwood/KCF)[CODE2](https://github.com/vojirt/kcf))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
