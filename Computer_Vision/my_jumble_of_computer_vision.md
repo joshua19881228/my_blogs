@@ -232,6 +232,8 @@ I am going to maintain this page to record a few things about computer vision th
 	This blog post gives an overview of Deep Learning with Generative and Adverserial Networks related papers submitted to ICLR 2017.
 * [Unsupervised Deep Learning – ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/unsupervised-deep-learning-iclr-2017-discoveries/)
 	This blog post gives an overview of papers related to Unsupervised Deep Learning submitted to ICLR 2017.
+* [You Only Look Twice — Multi-Scale Object Detection in Satellite Imagery With Convolutional Neural Networks](https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571)
+* [Deep Learning isn’t the brain](https://hackernoon.com/deep-learning-isnt-the-brain-e1d800ebb5a9?gi=1ef40a41a579)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
