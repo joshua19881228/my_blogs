@@ -40,6 +40,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks ([PDF](https://arxiv.org/abs/1609.09365))
 * Convolutional Regression for Visual Tracking ([PDF](https://arxiv.org/abs/1611.04215))
 * Kernelized Correlation Filters([Project](http://www.robots.ox.ac.uk/%7Ejoao/circulant/) [CODE1](https://github.com/foolwood/KCF) [CODE2](https://github.com/vojirt/kcf))
+* Online Visual Multi-Object Tracking via Labeled Random Finite Set Filtering ([PDF](https://arxiv.org/abs/1611.06011))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -50,6 +51,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Two-Stream Convolutional Networks for Action Recognition in Videos ([PDF](http://arxiv.org/abs/1406.2199), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-two-stream-convolutional-networks-for-action-recognition-in-videos_71/))
 * YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m))
 * Spatiotemporal Residual Networks for Video Action Recognition ([PDF](https://arxiv.org/abs/1611.02155))
+* An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data ([PDF](https://arxiv.org/abs/1611.06067))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
