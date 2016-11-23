@@ -18,6 +18,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Detecting People in Artwork with CNNs ([PDF](https://arxiv.org/abs/1610.08871), [Project/Code](https://github.com/BathVisArtData/PeopleArt))
 * Deeply supervised salient object detection with short connections ([PDF](https://arxiv.org/abs/1611.04849))
 * Learning to detect and localize many objects from few examples ([PDF](https://arxiv.org/abs/1611.05664))
+* Multi-Scale Saliency Detection using Dictionary Learning ([PDF](https://arxiv.org/abs/1611.06307))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -33,6 +34,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning to Refine Object Segments ([PDF](https://arxiv.org/abs/1603.08695))
 * Clockwork Convnets for Video Semantic Segmentation([PDF](https://arxiv.org/abs/1608.03609), [Project/Code](https://github.com/shelhamer/clockwork-fcn))
 * Convolutional Gated Recurrent Networks for Video Segmentation ([PDF](https://arxiv.org/abs/1611.05435))
+* Efficient Convolutional Neural Network with Binary Quantization Layer ([PDF](https://arxiv.org/abs/1611.06764))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -41,17 +43,30 @@ I am going to maintain this page to record a few things about computer vision th
 * Convolutional Regression for Visual Tracking ([PDF](https://arxiv.org/abs/1611.04215))
 * Kernelized Correlation Filters([Project](http://www.robots.ox.ac.uk/%7Ejoao/circulant/) [CODE1](https://github.com/foolwood/KCF) [CODE2](https://github.com/vojirt/kcf))
 * Online Visual Multi-Object Tracking via Labeled Random Finite Set Filtering ([PDF](https://arxiv.org/abs/1611.06011))
+* SANet: Structure-Aware Network for Visual Tracking ([PDF](https://arxiv.org/abs/1611.06878))
+* Semantic tracking: Single-target tracking with inter-supervised convolutional networks ([PDF](https://arxiv.org/abs/1611.06395))
+* On The Stability of Video Detection and Tracking ([PDF](https://arxiv.org/abs/1611.06467))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
 * CRF-CNN: Modeling Structured Information in Human Pose Estimation ([PDF](https://arxiv.org/abs/1611.00468))
 
-### Action Recognition/Event Detection
+### Action Recognition/Event Detection/Video
 * Pooling the Convolutional Layers in Deep ConvNets for Action Recognition ([PDF](http://arxiv.org/abs/1511.02126), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pooling-the-convolutional-layers-in-deep-convnets-for-action-recognition_73/))
 * Two-Stream Convolutional Networks for Action Recognition in Videos ([PDF](http://arxiv.org/abs/1406.2199), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-two-stream-convolutional-networks-for-action-recognition-in-videos_71/))
 * YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m))
 * Spatiotemporal Residual Networks for Video Action Recognition ([PDF](https://arxiv.org/abs/1611.02155))
 * An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data ([PDF](https://arxiv.org/abs/1611.06067))
+* Fast Video Classification via Adaptive Cascading of Deep Models ([PDF](https://arxiv.org/abs/1611.06453))
+* Video Pixel Networks ([PDF](https://arxiv.org/abs/1610.00527))
+* Plug-and-Play CNN for Crowd Motion Analysis: An Application in Abnormal Event Detection ([PDF](https://arxiv.org/abs/1610.00307))
+* EM-Based Mixture Models Applied to Video Event Detection ([PDF](https://arxiv.org/abs/1610.02923))
+* Video Captioning and Retrieval Models with Semantic Attention ([PDF](https://arxiv.org/abs/1610.02947))
+* Title Generation for User Generated Videos ([PDF](https://arxiv.org/abs/1608.07068))
+* Review of Action Recognition and Detection Methods ([PDF](https://arxiv.org/abs/1610.06906))
+* RECURRENT MIXTURE DENSITY NETWORK FOR SPATIOTEMPORAL VISUAL ATTENTION ([PDF](http://openreview.net/pdf?id=SJRpRfKxx))
+* Self-Supervised Video Representation Learning With Odd-One-Out Networks ([PDF](https://arxiv.org/abs/1611.06646))
+* Recurrent Memory Addressing for describing videos ([PDF](https://arxiv.org/abs/1611.06492))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -119,17 +134,9 @@ I am going to maintain this page to record a few things about computer vision th
 * Aggregated Residual Transformations for Deep Neural Networks ([PDF](https://arxiv.org/abs/1611.05431), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-aggregated-residual-transformations-for-deep-neural-networks_162/))
 * PolyNet: A Pursuit of Structural Diversity in Very Deep Networks ([PDF](https://arxiv.org/abs/1611.05725))
 * On the Exploration of Convolutional Fusion Networks for Visual Recognition ([PDF](https://arxiv.org/abs/1611.05503))
-
-### Video ###
-
-* Video Pixel Networks ([PDF](https://arxiv.org/abs/1610.00527))
-* Plug-and-Play CNN for Crowd Motion Analysis: An Application in Abnormal Event Detection ([PDF](https://arxiv.org/abs/1610.00307))
-* EM-Based Mixture Models Applied to Video Event Detection ([PDF](https://arxiv.org/abs/1610.02923))
-* Video Captioning and Retrieval Models with Semantic Attention ([PDF](https://arxiv.org/abs/1610.02947))
-* Title Generation for User Generated Videos ([PDF](https://arxiv.org/abs/1608.07068))
-* Review of Action Recognition and Detection Methods ([PDF](https://arxiv.org/abs/1610.06906))
-* RECURRENT MIXTURE DENSITY NETWORK FOR SPATIOTEMPORAL VISUAL ATTENTION ([PDF](http://openreview.net/pdf?id=SJRpRfKxx))
-
+* ResFeats: Residual Network Based Features for Image Classification ([PDF](https://arxiv.org/abs/1611.06656))
+* Object Recognition with and without Objects ([PDF](https://arxiv.org/abs/1611.06596))
+* LCNN: Lookup-based Convolutional Neural Network ([PDF](https://arxiv.org/abs/1611.06473))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
