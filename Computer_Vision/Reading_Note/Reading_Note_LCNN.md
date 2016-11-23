@@ -8,30 +8,45 @@
 
 ## CONTRIBUTIONS ##
 
-A deep neural network fusion architecture is proposed to address the pedestrian detection problem, called Fused Deep Neural Network (F-DNN).
+LCNN, a lookup-based convolutional neural network is introduced that encodes convolutions by few lookups to a dictionary that is trained to cover the space of weights in CNNs.
 
 ## METHOD ##
 
-The proposed network architecture consists of a pedestrian candidate generator, a classification network, and a pixel-wise semantic segmentation network. The pipeline of the proposed network fusion architecture is shown in the following figure:
+The main idea of the work is decoding the weights of the convolutional layer using a dictionary $D$ and two tensors, $I$ and $C$, like the following figure ilustrated.
 
-<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/FusedDNN.jpg" alt="" width="640"/>
+<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/LCNN_1.jpeg" alt="" width="640"/>
 
-**Pedestrian Candidate Generator** is implemented by SSD. It provides a large pool of pedestrian candidates varying in scales and aspect ratios. Pedestrian candidates generated should cover almost all the ground truth pedestrians, even though many false positives are introduced at the same time. 
+where $k$ is the size of the dictionary $D$, $m$ is the size of input channel. The weight tensor can be constructed by the linear combination of $S$ words in dictionary $D$ as follows:
 
-**Classification Network** consists of multiple binary classification deep neural networks which are trained on the pedestrian candidates from *Pedestrian Candidate Generator*. 
+$$ W_{[:,r,c]}=\sum_{t=1}^{S}C_{[t,r,c]}\cdot D_{[I_{[t,r,c]},:]}  \forall r,c $$
 
-**Soft-rejection based DNN Fusion** works as follows: Consider one pedestrian candidate and one classifier. If the classifier has high confidence about the candidate, we boost its original score from the candidate generator by multiplying with a confidence scaling factor greater than one. Otherwise, we decrease its score by a scaling factor less than one. To fuse all $M$ classifiers, the candidate’s original confidence score is multiplied with the product of the confidence scaling factors from all classifiers in the classification network.
+where $S$ is the size of number of components in the linear combinations. Then the convolution can be computed fast using a shared dictionary. we can convolve the input with all of the dictionary vectors, and then compute the output according to $I$ and $C$. Since the dictionary $D$ is shared among all weight filters in a layer, we can precompute the convolution between the input tensor $\textbf{X}$ and all the dictionary vectors. Given $\textbf{S}$ which is defined as:
 
-$$ S_{FDNN} = S_{SSD} \times \prod_{m=1}^{M} a_{m} $$
+$$ \textbf{S}_{[i,:,:]}=\textbf{X}*\textbf{D}_{[i,:]} \forall 1\leq i \leq k $$
 
-where
+the convolution operation can be computed as 
 
-$$ a_{m} = max(p_{m} \times \frac{1}{a_{c}} , b_{c})  $$
+$$ \textbf{X}*\textbf{W} = \textbf{S}*\textbf{P} $$
 
-and $a_{c}$ and $b_{c}$ are chosen as 0.7 and 0.1 by cross validation.
+where $\textbf{P}$ can be expressed by $I$ and $C$:
 
-**Pixel-wise Semantic Segmentation Network** is trained to get a binary map. DegreeDgreee to which each candidate's BB overlaps with the pedestrian category in the SS activation mask gives a measure of the confidence of the SS network in the candidate generator's results. If the generation pixels occupy at least 20% of the candidate BB area, its score is kept unaltered; Otherw, SNF is applied to scale the original confidence scores.
+$$ P_{j,r,c} = \begin{cases}
+C_{t,r,c}& \exists t:I_{t,r,c}=j\\
+0& \text{otherwise}
+\end{cases} $$
 
-## SOME IDEAS ##
+The idea can be illustrated in the following figure:
 
-The idea of the work is simple. It seems a very tricky implementation of pedestrian detection. Though the author claims that it is efficient, it is hard to say how efficient it is using very complex cnn classifiers.
+<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/LCNN_2.jpeg" alt="" width="640"/>
+
+thus the the dictionary and the lookup parameters can be trained jointly.
+
+## ADVANTAGES ##
+
+1. It speeds up inference.
+2. Few-shot learning. The shared dictionary in LCNN allows a neural network to learn from very few training examples on novel categories
+3. LCNN needs fewer iteration to train.
+
+## DISADVANTAGES ##
+
+1. Performance is hurt because of the estimation of the weights
