@@ -12,7 +12,7 @@ LCNN, a lookup-based convolutional neural network is introduced that encodes con
 
 ## METHOD ##
 
-The main idea of the work is decoding the weights of the convolutional layer using a dictionary $D$ and two tensors, $I$ and $C$, like the following figure ilustrated.
+The main idea of the work is decoding the weights of the convolutional layer using a dictionary $D$ and two tensors, $I$ and $C$, like the following figure illustrated.
 
 <img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/LCNN_1.jpeg" alt="" width="640"/>
 
@@ -26,12 +26,12 @@ $$ \textbf{S}_{[i,:,:]}=\textbf{X}*\textbf{D}_{[i,:]} \forall 1\leq i \leq k $$
 
 the convolution operation can be computed as 
 
-$$ \textbf{X}*\textbf{W} = \textbf{S}*\textbf{P} $$
+$$ \textbf{X} * \textbf{W} = \textbf{S} * \textbf{P} $$
 
 where $\textbf{P}$ can be expressed by $I$ and $C$:
 
 $$ P_{j,r,c} = \begin{cases}
-C_{t,r,c}& \exists t:I_{t,r,c}=j\\
+C_{t,r,c}& \exists t:I_{t,r,c}=j \\
 0& \text{otherwise}
 \end{cases} $$
 
