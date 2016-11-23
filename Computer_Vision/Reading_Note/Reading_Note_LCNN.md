@@ -31,7 +31,7 @@ $$ \textbf{X} * \textbf{W} = \textbf{S} * \textbf{P} $$
 where $\textbf{P}$ can be expressed by $I$ and $C$:
 
 $$ P_{j,r,c} = \begin{cases}
-C_{t,r,c}& \exists t:I_{t,r,c}=j \\
+C_{t,r,c}& \exists t:I_{t,r,c}=j \\\
 0& \text{otherwise}
 \end{cases} $$
 
