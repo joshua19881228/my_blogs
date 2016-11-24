@@ -136,7 +136,7 @@ I am going to maintain this page to record a few things about computer vision th
 * On the Exploration of Convolutional Fusion Networks for Visual Recognition ([PDF](https://arxiv.org/abs/1611.05503))
 * ResFeats: Residual Network Based Features for Image Classification ([PDF](https://arxiv.org/abs/1611.06656))
 * Object Recognition with and without Objects ([PDF](https://arxiv.org/abs/1611.06596))
-* LCNN: Lookup-based Convolutional Neural Network ([PDF](https://arxiv.org/abs/1611.06473))
+* LCNN: Lookup-based Convolutional Neural Network ([PDF](https://arxiv.org/abs/1611.06473), [Reading Note](http://joshua881228.webfactional.com/blog_reading-notelcnn-lookup-based-convolutional-neural-network_167/))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
