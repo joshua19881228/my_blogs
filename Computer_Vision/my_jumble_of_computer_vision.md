@@ -19,6 +19,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Deeply supervised salient object detection with short connections ([PDF](https://arxiv.org/abs/1611.04849))
 * Learning to detect and localize many objects from few examples ([PDF](https://arxiv.org/abs/1611.05664))
 * Multi-Scale Saliency Detection using Dictionary Learning ([PDF](https://arxiv.org/abs/1611.06307))
+* Straight to Shapes: Real-time Detection of Encoded Shapes ([PDF](https://arxiv.org/abs/1611.07932))
+* Fully Convolutional Instance-aware Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.07709), [Projcet/Code](https://github.com/daijifeng001/TA-FCN))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
