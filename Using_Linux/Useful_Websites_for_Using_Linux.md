@@ -21,3 +21,7 @@ Recently I hang much with Ubuntu because I am trying some interesting computer v
 5. [A Great Vim Cheat Sheet](http://vimsheet.com/)
 
     >I’ve compiled a list of essential vim commands that I use every day. I then give a few instructions on how to making vim as great as it should be, because it’s painful without configuration.
+
+6. [climate](https://github.com/adtac/climate)
+
+    The ultimate command line tool for Linux! climate provides a huge number of command line options for developers to automate their Linux system.
