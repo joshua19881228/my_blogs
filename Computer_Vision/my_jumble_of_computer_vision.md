@@ -37,7 +37,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Convolutional Gated Recurrent Networks for Video Segmentation ([PDF](https://arxiv.org/abs/1611.05435))
 * Efficient Convolutional Neural Network with Binary Quantization Layer ([PDF](https://arxiv.org/abs/1611.06764))
 * One-Shot Video Object Segmentation ([PDF](https://arxiv.org/abs/1611.05198))
-* Fully Convolutional Instance-aware Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.07709), [Projcet/Code](https://github.com/daijifeng001/TA-FCN))
+* Fully Convolutional Instance-aware Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.07709), [Projcet/Code](https://github.com/daijifeng001/TA-FCN), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-fully-convolutional-instance-aware-semantic-segmentation_170/))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
