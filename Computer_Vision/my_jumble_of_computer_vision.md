@@ -140,7 +140,7 @@ I am going to maintain this page to record a few things about computer vision th
 * ResFeats: Residual Network Based Features for Image Classification ([PDF](https://arxiv.org/abs/1611.06656))
 * Object Recognition with and without Objects ([PDF](https://arxiv.org/abs/1611.06596))
 * LCNN: Lookup-based Convolutional Neural Network ([PDF](https://arxiv.org/abs/1611.06473), [Reading Note](http://joshua881228.webfactional.com/blog_reading-notelcnn-lookup-based-convolutional-neural-network_167/))
-* Inductive Bias of Deep Convolutional Networks through Pooling Geometry ([PDF](https://arxiv.org/abs/1605.06743))
+* Inductive Bias of Deep Convolutional Networks through Pooling Geometry ([PDF](https://arxiv.org/abs/1605.06743), [Project/Code](https://github.com/HUJI-Deep/inductive-pooling))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
