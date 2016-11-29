@@ -20,6 +20,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning to detect and localize many objects from few examples ([PDF](https://arxiv.org/abs/1611.05664))
 * Multi-Scale Saliency Detection using Dictionary Learning ([PDF](https://arxiv.org/abs/1611.06307))
 * Straight to Shapes: Real-time Detection of Encoded Shapes ([PDF](https://arxiv.org/abs/1611.07932))
+* Weakly Supervised Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1611.08258))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -38,6 +39,10 @@ I am going to maintain this page to record a few things about computer vision th
 * Efficient Convolutional Neural Network with Binary Quantization Layer ([PDF](https://arxiv.org/abs/1611.06764))
 * One-Shot Video Object Segmentation ([PDF](https://arxiv.org/abs/1611.05198))
 * Fully Convolutional Instance-aware Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.07709), [Projcet/Code](https://github.com/daijifeng001/TA-FCN), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-fully-convolutional-instance-aware-semantic-segmentation_170/))
+* Semantic Segmentation using Adversarial Networks ([PDF](https://arxiv.org/abs/1611.08408))
+* Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes ([PDF](https://arxiv.org/abs/1611.08323))
+* Deep Watershed Transform for Instance Segmentation ([PDF](https://arxiv.org/abs/1611.08303))
+* InstanceCut: from Edges to Instances with MultiCut ([PDF](https://arxiv.org/abs/1611.08272))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
