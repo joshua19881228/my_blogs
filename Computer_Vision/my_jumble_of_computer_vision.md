@@ -75,6 +75,7 @@ I am going to maintain this page to record a few things about computer vision th
 * RECURRENT MIXTURE DENSITY NETWORK FOR SPATIOTEMPORAL VISUAL ATTENTION ([PDF](http://openreview.net/pdf?id=SJRpRfKxx))
 * Self-Supervised Video Representation Learning With Odd-One-Out Networks ([PDF](https://arxiv.org/abs/1611.06646))
 * Recurrent Memory Addressing for describing videos ([PDF](https://arxiv.org/abs/1611.06492))
+* Online Real time Multiple Spatiotemporal Action Localisation and Prediction on a Single Platform ([PDF](https://arxiv.org/abs/1611.08563))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
