@@ -43,6 +43,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes ([PDF](https://arxiv.org/abs/1611.08323))
 * Deep Watershed Transform for Instance Segmentation ([PDF](https://arxiv.org/abs/1611.08303))
 * InstanceCut: from Edges to Instances with MultiCut ([PDF](https://arxiv.org/abs/1611.08272))
+* The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.09326))
+* Improving Fully Convolution Network for Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.08986))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -76,6 +78,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Self-Supervised Video Representation Learning With Odd-One-Out Networks ([PDF](https://arxiv.org/abs/1611.06646))
 * Recurrent Memory Addressing for describing videos ([PDF](https://arxiv.org/abs/1611.06492))
 * Online Real time Multiple Spatiotemporal Action Localisation and Prediction on a Single Platform ([PDF](https://arxiv.org/abs/1611.08563))
+* Real-Time Video Highlights for Yahoo Esports ([PDF](https://arxiv.org/abs/1611.08780))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -157,6 +160,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 * Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1609.09671))
 * Comprehensive Evaluation of OpenCL-based Convolutional Neural Network Accelerators in Xilinx and Altera FPGAs  ([PDF](https://arxiv.org/abs/1609.09296))
+* FINN: A Framework for Fast, Scalable Binarized Neural Network Inference ([PDF](http://www.idi.ntnu.no/~yamanu/2017-fpga-finn-preprint.pdf))
 
 ### Other ###
 
@@ -254,6 +258,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [You Only Look Twice — Multi-Scale Object Detection in Satellite Imagery With Convolutional Neural Networks](https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571)
 * [Deep Learning isn’t the brain](https://hackernoon.com/deep-learning-isnt-the-brain-e1d800ebb5a9?gi=1ef40a41a579)
 * [iSee: Using deep learning to remove eyeglasses from faces](https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f#.kmld0zlxz)
+* [Decoding The Thought Vector](http://gabgoh.github.io/ThoughtVectors/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
