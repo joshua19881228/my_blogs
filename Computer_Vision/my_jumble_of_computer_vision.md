@@ -262,6 +262,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [iSee: Using deep learning to remove eyeglasses from faces](https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f#.kmld0zlxz)
 * [Decoding The Thought Vector](http://gabgoh.github.io/ThoughtVectors/)
 * [Algorithmia will help you make your own AI-powered photo filters](http://venturebeat.com/2016/11/29/algorithmia-will-help-you-make-ai-powered-photo-filters/)
+* [Deep Learning Enables You to Hide Screen when Your Boss is Approaching](http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
