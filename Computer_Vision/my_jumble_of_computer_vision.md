@@ -79,6 +79,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Recurrent Memory Addressing for describing videos ([PDF](https://arxiv.org/abs/1611.06492))
 * Online Real time Multiple Spatiotemporal Action Localisation and Prediction on a Single Platform ([PDF](https://arxiv.org/abs/1611.08563))
 * Real-Time Video Highlights for Yahoo Esports ([PDF](https://arxiv.org/abs/1611.08780))
+* Surveillance Video Parsing with Single Frame Supervision ([PDF](https://arxiv.org/abs/1611.09587))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -87,6 +88,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A CNN Cascade for Landmark Guided Semantic Part Segmentation ([PDF](https://arxiv.org/pdf/1609.09642.pdf), [Project/Code](http://www.cs.nott.ac.uk/~psxasj/papers/jackson2016guided/))
 * Kernel Selection using Multiple Kernel Learning and Domain Adaptation in Reproducing Kernel Hilbert Space, for Face Recognition under Surveillance Scenario ([PDF](https://arxiv.org/abs/1610.00660))
 * An All-In-One Convolutional Neural Network for Face Analysis ([PDF](https://arxiv.org/abs/1611.00851))
+* Fast Face-swap Using Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1611.09577))
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
@@ -259,6 +261,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Deep Learning isn’t the brain](https://hackernoon.com/deep-learning-isnt-the-brain-e1d800ebb5a9?gi=1ef40a41a579)
 * [iSee: Using deep learning to remove eyeglasses from faces](https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f#.kmld0zlxz)
 * [Decoding The Thought Vector](http://gabgoh.github.io/ThoughtVectors/)
+* [Algorithmia will help you make your own AI-powered photo filters](http://venturebeat.com/2016/11/29/algorithmia-will-help-you-make-ai-powered-photo-filters/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
