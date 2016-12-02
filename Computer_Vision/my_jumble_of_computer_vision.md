@@ -21,6 +21,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Multi-Scale Saliency Detection using Dictionary Learning ([PDF](https://arxiv.org/abs/1611.06307))
 * Straight to Shapes: Real-time Detection of Encoded Shapes ([PDF](https://arxiv.org/abs/1611.07932))
 * Weakly Supervised Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1611.08258))
+* Speed/accuracy trade-offs for modern convolutional object detectors ([PDF](https://arxiv.org/abs/1611.10012))
 
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
@@ -152,6 +153,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Object Recognition with and without Objects ([PDF](https://arxiv.org/abs/1611.06596))
 * LCNN: Lookup-based Convolutional Neural Network ([PDF](https://arxiv.org/abs/1611.06473), [Reading Note](http://joshua881228.webfactional.com/blog_reading-notelcnn-lookup-based-convolutional-neural-network_167/))
 * Inductive Bias of Deep Convolutional Networks through Pooling Geometry ([PDF](https://arxiv.org/abs/1605.06743), [Project/Code](https://github.com/HUJI-Deep/inductive-pooling))
+* Wider or Deeper: Revisiting the ResNet Model for Visual Recognition ([PDF](https://arxiv.org/abs/1611.10080))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
