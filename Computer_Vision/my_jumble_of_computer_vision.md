@@ -232,6 +232,8 @@ I am going to maintain this page to record a few things about computer vision th
 	Make a photo of a mushroom and see which species it is. Determine over 200 different species. 
 * [Neural Enhance](https://github.com/alexjc/neural-enhance#3-background--research)
     The neural network is hallucinating details based on its training from example images. It's not reconstructing your photo exactly as it would have been if it was HD. That's only possible in Hollywood — but using deep learning as "Creative AI" works and it is just as cool!
+* [tiny dnn](https://github.com/tiny-dnn/tiny-dnn)
+    tiny-dnn is a C++11 implementation of deep learning. It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
