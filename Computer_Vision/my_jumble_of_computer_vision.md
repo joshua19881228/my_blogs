@@ -46,6 +46,8 @@ I am going to maintain this page to record a few things about computer vision th
 * InstanceCut: from Edges to Instances with MultiCut ([PDF](https://arxiv.org/abs/1611.08272))
 * The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.09326))
 * Improving Fully Convolution Network for Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.08986))
+* Video Scene Parsing with Predictive Feature Learning ([PDF](https://arxiv.org/abs/1612.00119))
+* Training Bit Fully Convolutional Network for Fast Semantic Segmentation ([PDF](https://arxiv.org/abs/1612.00212))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -81,6 +83,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Online Real time Multiple Spatiotemporal Action Localisation and Prediction on a Single Platform ([PDF](https://arxiv.org/abs/1611.08563))
 * Real-Time Video Highlights for Yahoo Esports ([PDF](https://arxiv.org/abs/1611.08780))
 * Surveillance Video Parsing with Single Frame Supervision ([PDF](https://arxiv.org/abs/1611.09587))
+* Anomaly Detection in Video Using Predictive Convolutional Long Short-Term Memory Networks ([PDF](https://arxiv.org/abs/1612.00390))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
