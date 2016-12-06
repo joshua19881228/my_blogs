@@ -33,11 +33,6 @@ $$ L_{MIL}(P,y) = - \sum_{i=1}^{C}y_{i}log(P(I, f_i)) $$
 
 Im my understanding, only the boxes with the most confidence in each category will be punished if they are wrong. Besides, the equations in the paper have some mistakes.
 
-
-**Classification Network** consists of multiple binary classification deep neural networks which are trained on the pedestrian candidates from *Pedestrian Candidate Generator*. 
-
-**Soft-rejection based DNN Fusion** works as follows: Consider one pedestrian candidate and one classifier. If the classifier has high confidence about the candidate, we boost its original score from the candidate generator by multiplying with a confidence scaling factor greater than one. Otherwise, we decrease its score by a scaling factor less than one. To fuse all $M$ classifiers, the candidate’s original confidence score is multiplied with the product of the confidence scaling factors from all classifiers in the classification network.
-
 ### Three-stage Cascade ###
 
 The three-stage cascade network structure adds a weak segmentation network between the two stages in the two-stage cascade network. It is illustrated in the following figure.
