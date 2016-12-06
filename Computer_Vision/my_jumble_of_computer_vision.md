@@ -20,10 +20,12 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning to detect and localize many objects from few examples ([PDF](https://arxiv.org/abs/1611.05664))
 * Multi-Scale Saliency Detection using Dictionary Learning ([PDF](https://arxiv.org/abs/1611.06307))
 * Straight to Shapes: Real-time Detection of Encoded Shapes ([PDF](https://arxiv.org/abs/1611.07932))
-* Weakly Supervised Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1611.08258))
+* Weakly Supervised Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1611.08258), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-weakly-supervised-cascaded-convolutional-networks_177/))
 * Speed/accuracy trade-offs for modern convolutional object detectors ([PDF](https://arxiv.org/abs/1611.10012), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-speedaccuracy-trade-offs-for-modern-convolutional-object-detectors_174/))
 * Object Detection via End-to-End Integration of Aspect Ratio and Context Aware Part-based Models and Fully Convolutional Networks ([PDF](https://arxiv.org/abs/1612.00534))
+
 ### Segmentation/Parsing ###
+
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation ([PDF](http://arxiv.org/abs/1606.02147), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-enet-a-deep-neural-network-architecture-for-real-time-semantic-segmentation_134/))
 * Learning Deconvolution Network for Semantic Segmentation ([PDF](http://arxiv.org/abs/1505.04366), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-learning-deconvolution-network-for-semantic-segmentation_119/))
