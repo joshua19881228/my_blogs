@@ -22,7 +22,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Straight to Shapes: Real-time Detection of Encoded Shapes ([PDF](https://arxiv.org/abs/1611.07932))
 * Weakly Supervised Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1611.08258))
 * Speed/accuracy trade-offs for modern convolutional object detectors ([PDF](https://arxiv.org/abs/1611.10012), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-speedaccuracy-trade-offs-for-modern-convolutional-object-detectors_174/))
-
+* Object Detection via End-to-End Integration of Aspect Ratio and Context Aware Part-based Models and Fully Convolutional Networks ([PDF](https://arxiv.org/abs/1612.00534))
 ### Segmentation/Parsing ###
 * Instance-aware Semantic Segmentation via Multi-task Network Cascades ([PDF](http://arxiv.org/abs/1512.04412), [Project/Code](https://github.com/daijifeng001/MNC))
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation ([PDF](http://arxiv.org/abs/1606.02147), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-enet-a-deep-neural-network-architecture-for-real-time-semantic-segmentation_134/))
@@ -84,6 +84,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Real-Time Video Highlights for Yahoo Esports ([PDF](https://arxiv.org/abs/1611.08780))
 * Surveillance Video Parsing with Single Frame Supervision ([PDF](https://arxiv.org/abs/1611.09587))
 * Anomaly Detection in Video Using Predictive Convolutional Long Short-Term Memory Networks ([PDF](https://arxiv.org/abs/1612.00390))
+* Action Recognition with Dynamic Image Networks ([PDF](https://arxiv.org/abs/1612.00738))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
