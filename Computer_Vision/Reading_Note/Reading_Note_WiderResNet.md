@@ -44,4 +44,4 @@ The author designed three kinds of network structure as illustrated in the follo
 
 and the classification performance on ImageNet validation set is shown as below
 
-<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/WiderResNet_2.jpg" alt="" width="640"/>
+<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/WiderResNet_3.jpg" alt="" width="640"/>
