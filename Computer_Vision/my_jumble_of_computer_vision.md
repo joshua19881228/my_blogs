@@ -50,6 +50,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Improving Fully Convolution Network for Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.08986))
 * Video Scene Parsing with Predictive Feature Learning ([PDF](https://arxiv.org/abs/1612.00119))
 * Training Bit Fully Convolutional Network for Fast Semantic Segmentation ([PDF](https://arxiv.org/abs/1612.00212))
+* Pyramid Scene Parsing Network ([PDF](https://arxiv.org/abs/1612.01105))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -240,6 +241,8 @@ I am going to maintain this page to record a few things about computer vision th
     The neural network is hallucinating details based on its training from example images. It's not reconstructing your photo exactly as it would have been if it was HD. That's only possible in Hollywood — but using deep learning as "Creative AI" works and it is just as cool!
 * [tiny dnn](https://github.com/tiny-dnn/tiny-dnn)
     tiny-dnn is a C++11 implementation of deep learning. It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
+* [CNN Models by CVGJ](https://github.com/cvjena/cnn-models)
+    This repository contains convolutional neural network (CNN) models trained on ImageNet by Marcel Simon at the Computer Vision Group Jena (CVGJ) using the Caffe framework. Each model is in a separate subfolder and contains everything needed to reproduce the results. This repository focuses currently contains the batch-normalization-variants of AlexNet and VGG19 as well as the training code for Residual Networks (Resnet). 
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
