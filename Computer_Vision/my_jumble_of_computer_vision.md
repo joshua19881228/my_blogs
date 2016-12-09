@@ -51,6 +51,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Video Scene Parsing with Predictive Feature Learning ([PDF](https://arxiv.org/abs/1612.00119))
 * Training Bit Fully Convolutional Network for Fast Semantic Segmentation ([PDF](https://arxiv.org/abs/1612.00212))
 * Pyramid Scene Parsing Network ([PDF](https://arxiv.org/abs/1612.01105))
+* Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels ([PDF](https://arxiv.org/abs/1612.02101))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -246,6 +247,9 @@ I am going to maintain this page to record a few things about computer vision th
 * [YOLO2](http://pjreddie.com/darknet/yolo/)
 
     >YOLOv2 uses a few tricks to improve training and increase performance. Like Overfeat and SSD we use a fully-convolutional model, but we still train on whole images, not hard negatives. Like Faster R-CNN we adjust priors on bounding boxes instead of predicting the width and height outright. However, we still predict the x and y coordinates directly. The full details are in our paper soon to be released on Arxiv, stay tuned!
+    
+* [Lightened CNN for Deep Face Representation](https://github.com/AlfredXiangWu/face_verification_experiment)
+    The Deep Face Representation Experiment is based on Convolution Neural Network to learn a robust feature for face verification task.
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
