@@ -284,6 +284,11 @@ I am going to maintain this page to record a few things about computer vision th
 * [Algorithmia will help you make your own AI-powered photo filters](http://venturebeat.com/2016/11/29/algorithmia-will-help-you-make-ai-powered-photo-filters/)
 * [Deep Learning Enables You to Hide Screen when Your Boss is Approaching](http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/)
 * [研究|对偶学习：一种新的机器学习范式](http://weibo.com/ttarticle/p/show?id=2309404050111117306404)
+* [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
+
+    >While research in Generative Adversarial Networks (GANs) continues to improve the fundamental stability of these models, we use a bunch of tricks to train them and make them stable day to day.
+    
+    
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
