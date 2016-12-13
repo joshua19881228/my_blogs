@@ -251,7 +251,9 @@ I am going to maintain this page to record a few things about computer vision th
     >YOLOv2 uses a few tricks to improve training and increase performance. Like Overfeat and SSD we use a fully-convolutional model, but we still train on whole images, not hard negatives. Like Faster R-CNN we adjust priors on bounding boxes instead of predicting the width and height outright. However, we still predict the x and y coordinates directly. The full details are in our paper soon to be released on Arxiv, stay tuned!
     
 * [Lightened CNN for Deep Face Representation](https://github.com/AlfredXiangWu/face_verification_experiment)
-    The Deep Face Representation Experiment is based on Convolution Neural Network to learn a robust feature for face verification task.
+    The Deep Face Representation Experiment is based on Convolution Neural Network to learn a robust feature for face verification task.    
+* [Recurrent dreams and filling in](http://blog.piekniewski.info/2016/12/05/recurrent-dreams-and-filling-in/)
+
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
