@@ -24,6 +24,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Speed/accuracy trade-offs for modern convolutional object detectors ([PDF](https://arxiv.org/abs/1611.10012), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-speedaccuracy-trade-offs-for-modern-convolutional-object-detectors_174/))
 * Object Detection via End-to-End Integration of Aspect Ratio and Context Aware Part-based Models and Fully Convolutional Networks ([PDF](https://arxiv.org/abs/1612.00534))
 * Feature Pyramid Networks for Object Detection ([PDF](https://arxiv.org/abs/1612.03144))
+* COCO-Stuff: Thing and Stuff Classes in Context ([PDF](https://arxiv.org/abs/1612.03716))
 
 ### Segmentation/Parsing ###
 
@@ -186,6 +187,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Universal Correspondence Network ([PDF](http://cvgl.stanford.edu/projects/ucn/choy_nips16.pdf), [Project/Code](http://cvgl.stanford.edu/projects/ucn/))
 * Judging a Book By its Cover ([PDF](https://arxiv.org/abs/1610.09204))
 * Generalisation and Sharing in Triplet Convnets for Sketch based Visual Search ([PDF](https://arxiv.org/abs/1611.05301))
+* Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification ([PDF](https://arxiv.org/abs/1612.03663))
 
 ## Interesting Finds ##
 
