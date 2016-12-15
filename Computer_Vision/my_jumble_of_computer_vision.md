@@ -166,6 +166,10 @@ I am going to maintain this page to record a few things about computer vision th
 * Inductive Bias of Deep Convolutional Networks through Pooling Geometry ([PDF](https://arxiv.org/abs/1605.06743), [Project/Code](https://github.com/HUJI-Deep/inductive-pooling))
 * Wider or Deeper: Revisiting the ResNet Model for Visual Recognition ([PDF](https://arxiv.org/abs/1611.10080), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-wider-or-deeper-revisiting-the-resnet-model-for-visual-recognition_178/))
 
+### GAN ###
+
+* Stacked Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.04357))
+
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
 * [计算机视觉与机器学习 【深度学习中的激活函数】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-shen-du-xue-xi-zhong-de-ji-huo-han-shu_128/)
