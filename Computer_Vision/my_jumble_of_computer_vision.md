@@ -52,7 +52,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Improving Fully Convolution Network for Semantic Segmentation ([PDF](https://arxiv.org/abs/1611.08986))
 * Video Scene Parsing with Predictive Feature Learning ([PDF](https://arxiv.org/abs/1612.00119))
 * Training Bit Fully Convolutional Network for Fast Semantic Segmentation ([PDF](https://arxiv.org/abs/1612.00212))
-* Pyramid Scene Parsing Network ([PDF](https://arxiv.org/abs/1612.01105))
+* Pyramid Scene Parsing Network ([PDF](https://arxiv.org/abs/1612.01105), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-feature-pyramid-networks-for-object-detection_181/))
 * Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels ([PDF](https://arxiv.org/abs/1612.02101))
 
 ### Tracking ###
@@ -168,6 +168,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 ### GAN ###
 
+* Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1406.2661))
 * Stacked Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.04357))
 
 ### Machine Learning ###
@@ -259,6 +260,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Lightened CNN for Deep Face Representation](https://github.com/AlfredXiangWu/face_verification_experiment)
     The Deep Face Representation Experiment is based on Convolution Neural Network to learn a robust feature for face verification task.    
 * [Recurrent dreams and filling in](http://blog.piekniewski.info/2016/12/05/recurrent-dreams-and-filling-in/)
+* [MTCNN in MXnet](https://github.com/Seanlinx/mtcnn)
 
 
 ### News/Blogs ###
