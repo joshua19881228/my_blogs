@@ -300,7 +300,7 @@ I am going to maintain this page to record a few things about computer vision th
 
     >While research in Generative Adversarial Networks (GANs) continues to improve the fundamental stability of these models, we use a bunch of tricks to train them and make them stable day to day.
     
-    
+* [Highlights of IEEE Big Data 2016: Nearest Neighbours, Outliers and Deep Learning](https://medium.com/seldon-open-source-machine-learning/highlights-of-ieee-big-data-2016-nearest-neighbours-outliers-and-deep-learning-696d014d8cdf#.8xnfbuofv)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
