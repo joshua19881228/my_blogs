@@ -261,6 +261,10 @@ I am going to maintain this page to record a few things about computer vision th
     The Deep Face Representation Experiment is based on Convolution Neural Network to learn a robust feature for face verification task.    
 * [Recurrent dreams and filling in](http://blog.piekniewski.info/2016/12/05/recurrent-dreams-and-filling-in/)
 * [MTCNN in MXnet](https://github.com/Seanlinx/mtcnn)
+* [openai-gemm](https://github.com/openai/openai-gemm)
+
+    Open single and half precision gemm implementations. The main speedups over cublas are with small minibatch and in fp16 data formats.
+    
 
 
 ### News/Blogs ###
