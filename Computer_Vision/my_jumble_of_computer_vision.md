@@ -92,6 +92,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Anomaly Detection in Video Using Predictive Convolutional Long Short-Term Memory Networks ([PDF](https://arxiv.org/abs/1612.00390))
 * Action Recognition with Dynamic Image Networks ([PDF](https://arxiv.org/abs/1612.00738))
 * ActionFlowNet: Learning Motion Representation for Action Recognition ([PDF](https://arxiv.org/abs/1612.03052))
+* Video Propagation Networks ([PDF](https://arxiv.org/abs/1612.05478))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -170,6 +171,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 * Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1406.2661))
 * Stacked Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.04357))
+* Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.05424))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
@@ -193,6 +195,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Judging a Book By its Cover ([PDF](https://arxiv.org/abs/1610.09204))
 * Generalisation and Sharing in Triplet Convnets for Sketch based Visual Search ([PDF](https://arxiv.org/abs/1611.05301))
 * Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification ([PDF](https://arxiv.org/abs/1612.03663))
+* Automatic generation of large-scale handwriting fonts via style learning ([PDF](http://delivery.acm.org/10.1145/3010000/3005371/a12-lian.pdf?ip=101.36.73.155&id=3005371&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=878397374&CFTOKEN=60453893&__acm__=1482192254_e947f14035db372a97d831530a7c05b1))
 
 ## Interesting Finds ##
 
