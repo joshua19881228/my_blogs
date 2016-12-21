@@ -26,6 +26,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Feature Pyramid Networks for Object Detection ([PDF](https://arxiv.org/abs/1612.03144), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-feature-pyramid-networks-for-object-detection_181/))
 * COCO-Stuff: Thing and Stuff Classes in Context ([PDF](https://arxiv.org/abs/1612.03716))
 * Finding Tiny Faces ([PDF](https://arxiv.org/abs/1612.04402v1))
+* Beyond Skip Connections: Top-Down Modulation for Object Detection ([PDF](https://arxiv.org/abs/1612.06851))
 
 ### Segmentation/Parsing ###
 
