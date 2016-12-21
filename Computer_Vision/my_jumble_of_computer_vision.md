@@ -65,6 +65,7 @@ I am going to maintain this page to record a few things about computer vision th
 * SANet: Structure-Aware Network for Visual Tracking ([PDF](https://arxiv.org/abs/1611.06878))
 * Semantic tracking: Single-target tracking with inter-supervised convolutional networks ([PDF](https://arxiv.org/abs/1611.06395))
 * On The Stability of Video Detection and Tracking ([PDF](https://arxiv.org/abs/1611.06467))
+* Dual Deep Network for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06053))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -114,6 +115,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Pixel Recurrent Neural Networks ([PDF](https://arxiv.org/abs/1601.06759))
 * Conditional Image Generation with PixelCNN Decoders ([PDF](https://arxiv.org/abs/1606.05328), [Project/Code](https://github.com/dritchie/pixelCNN))
 * RAISR: Rapid and Accurate Image Super Resolution ([PDF](https://arxiv.org/abs/1606.01299))
+* Photo-Quality Evaluation based on Computational Aesthetics: Review of Feature Extraction Techniques ([PDF](https://arxiv.org/abs/1612.06259))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -197,6 +199,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Generalisation and Sharing in Triplet Convnets for Sketch based Visual Search ([PDF](https://arxiv.org/abs/1611.05301))
 * Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification ([PDF](https://arxiv.org/abs/1612.03663))
 * Automatic generation of large-scale handwriting fonts via style learning ([PDF](http://delivery.acm.org/10.1145/3010000/3005371/a12-lian.pdf?ip=101.36.73.155&id=3005371&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=878397374&CFTOKEN=60453893&__acm__=1482192254_e947f14035db372a97d831530a7c05b1))
+* Image Retrieval with Deep Local Features and Attention-based Keypoints ([PDF](https://arxiv.org/abs/1612.06321))
 
 ## Interesting Finds ##
 
