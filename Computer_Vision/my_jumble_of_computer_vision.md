@@ -25,6 +25,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Object Detection via End-to-End Integration of Aspect Ratio and Context Aware Part-based Models and Fully Convolutional Networks ([PDF](https://arxiv.org/abs/1612.00534))
 * Feature Pyramid Networks for Object Detection ([PDF](https://arxiv.org/abs/1612.03144), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-feature-pyramid-networks-for-object-detection_181/))
 * COCO-Stuff: Thing and Stuff Classes in Context ([PDF](https://arxiv.org/abs/1612.03716))
+* Finding Tiny Faces ([PDF](https://arxiv.org/abs/1612.04402v1))
 
 ### Segmentation/Parsing ###
 
