@@ -274,7 +274,10 @@ I am going to maintain this page to record a few things about computer vision th
 * [openai-gemm](https://github.com/openai/openai-gemm)
 
     Open single and half precision gemm implementations. The main speedups over cublas are with small minibatch and in fp16 data formats.
-    
+
+* [Neural Style](https://github.com/zhaw/neural_style)
+
+    style transfer with mxnet
 
 
 ### News/Blogs ###
