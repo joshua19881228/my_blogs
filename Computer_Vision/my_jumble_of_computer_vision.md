@@ -279,6 +279,8 @@ I am going to maintain this page to record a few things about computer vision th
 
     style transfer with mxnet
 
+* [Can Convolutional Neural Networks Crack Sudoku Puzzles?](https://github.com/Kyubyong/sudoku)
+
 
 ### News/Blogs ###
 * [MIT Technology Review](https://www.technologyreview.com/)
