@@ -27,6 +27,7 @@ I am going to maintain this page to record a few things about computer vision th
 * COCO-Stuff: Thing and Stuff Classes in Context ([PDF](https://arxiv.org/abs/1612.03716))
 * Finding Tiny Faces ([PDF](https://arxiv.org/abs/1612.04402v1))
 * Beyond Skip Connections: Top-Down Modulation for Object Detection ([PDF](https://arxiv.org/abs/1612.06851), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-beyond-skip-connections-top-down-modulation-for-object-detection_184/))
+* YOLO9000: Better, Faster, Stronger ([PDF](https://arxiv.org/abs/1612.08242))
 
 ### Segmentation/Parsing ###
 
