@@ -182,6 +182,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Stacked Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.04357))
 * Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.05424))
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1511.06434))
+* Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks ([PDF](https://arxiv.org/abs/1506.05751))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
