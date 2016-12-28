@@ -99,6 +99,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Action Recognition with Dynamic Image Networks ([PDF](https://arxiv.org/abs/1612.00738))
 * ActionFlowNet: Learning Motion Representation for Action Recognition ([PDF](https://arxiv.org/abs/1612.03052))
 * Video Propagation Networks ([PDF](https://arxiv.org/abs/1612.05478))
+* Detecting events and key actors in multi-person videos ([PDF](https://arxiv.org/abs/1511.02917))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -180,6 +181,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1406.2661))
 * Stacked Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.04357))
 * Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1612.05424))
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1511.06434))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
