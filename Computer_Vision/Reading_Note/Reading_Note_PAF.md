@@ -21,9 +21,9 @@ Similar with previous work, the network works as sequence learning scheme. One o
 
 ### Confidence Maps for Part Detection ###
 
-At each location $\mathbf{P}$, the value of the confidence $ S_{j}^{*}(\mathbf{P}) $ for a part type $j$ is defined as
+At each location $\mathbf{P}$, the value of the confidence $ S_{j}^{\ast}(\mathbf{P}) $ for a part type $j$ is defined as
 
-$$ S_{j}^{*}(\mathbf{P}) = \max \limits_{k} S_{j,k}^{*}(\mathbf{P}) $$
+$$ S_{j}^{\ast}(\mathbf{P}) = \max \limits_{k} S_{j,k}^{\ast}(\mathbf{P}) $$
 
 It means that for every type of part, a heatmap is predicted with multiple highlight areas, indicating the emergence of a part instance.
 
@@ -31,14 +31,14 @@ It means that for every type of part, a heatmap is predicted with multiple highl
 
 If we consider a single limb, let $ \mathbf{x}_{j_{1},k} $ and $\mathbf{x}_{j_{2},k}$ be the position of body parts $j_{1}$ and $j_{2}$ from the limb class $c$ for a person $k$ on the image. $l_{c,k} = \Vert \mathbf{x}_{j_{2},k} − \mathbf{x}_{j_{1},k} \Vert_{2} is the length of the limb, and $\mathbf{v} = l^{−1}_{c,k}(\mathbf{x}_{j_{2},k} − \mathbf{x}_{j_{1},k}) is the unit vector in the direction of the limb. The ideal part affinity vector field, $L^{∗}_{c,k}, at an image point $\mathbf{P}$ as
 
-$$ \mathbf{L}^{∗}_{c,k}(\mathbf{P}) = \begin{cases}
-\mathbf{v}& \text{if } \mathbf{P} \text{on limb} c,k \\\
+$$ \mathbf{L}^{\ast}_{c,k}(\mathbf{P}) = \begin{cases}
+\mathbf{v}& \text{if } \mathbf{P} \text{ on limb} c,k \\\
 \mathbf{0}& \text{otherwise}
 \end{cases} $$
 
 Similar to confidence maps for part detection, part affinity fields are also predicted for all persons
 
-$$ \mathbf{L}^{∗}_{c}(\mathbf{P}) = \frac{1}{n_{p}} \sum_{k} \mathbf{L}^{∗}_{c,k}(\mathbf{P}) $$
+$$ \mathbf{L}^{\ast}_{c}(\mathbf{P}) = \frac{1}{n_{p}} \sum_{k} \mathbf{L}^{\ast}_{c,k}(\mathbf{P}) $$
 
 where $n_{p}$ is the number of non-zero vectos at point $\mathbf{P}$. The confidence score of each limb candidate is measured by 
 
