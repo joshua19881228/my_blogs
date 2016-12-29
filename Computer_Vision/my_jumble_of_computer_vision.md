@@ -176,6 +176,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Inductive Bias of Deep Convolutional Networks through Pooling Geometry ([PDF](https://arxiv.org/abs/1605.06743), [Project/Code](https://github.com/HUJI-Deep/inductive-pooling))
 * Wider or Deeper: Revisiting the ResNet Model for Visual Recognition ([PDF](https://arxiv.org/abs/1611.10080), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-wider-or-deeper-revisiting-the-resnet-model-for-visual-recognition_178/))
 * Multi-Scale Context Aggregation by Dilated Convolutions ([PDF](https://arxiv.org/abs/1511.07122), [Project/Code](https://github.com/fyu/dilation))
+* Large-Margin Softmax Loss for Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1612.02295), [mxnet Code](https://github.com/luoyetx/mx-lsoftmax))
 
 ### GAN ###
 
