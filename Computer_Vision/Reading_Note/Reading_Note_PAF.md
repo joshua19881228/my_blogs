@@ -32,7 +32,7 @@ It means that for every type of part, a heatmap is predicted with multiple highl
 If we consider a single limb, let $ \mathbf{x}_{j_{1},k} $ and $ \mathbf{x}_{j_{2},k} $ be the position of body parts $j_{1}$ and $j_{2}$ from the limb class $c$ for a person $k$ on the image. $l_{c,k} = \Vert \mathbf{x}_{j_{2},k} − \mathbf{x}_{j_{1},k} \Vert_{2}$ is the length of the limb, and $\mathbf{v} = l^{−1}_{c,k}(\mathbf{x}_{j_{2},k} − \mathbf{x}_{j_{1},k})$ is the unit vector in the direction of the limb. The ideal part affinity vector field, $L^{∗}_{c,k}$, at an image point $\mathbf{P}$ as
 
 $$ \mathbf{L}^{\ast}_{c,k}(\mathbf{P}) = \begin{cases}
-\mathbf{v}& \text{if } \mathbf{P} \text{ on limb} c,k \\\
+\mathbf{v}& \text{if } \mathbf{P} \text{ on limb } c,k \\\
 \mathbf{0}& \text{otherwise}
 \end{cases} $$
 
