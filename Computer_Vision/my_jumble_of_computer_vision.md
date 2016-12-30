@@ -57,6 +57,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Training Bit Fully Convolutional Network for Fast Semantic Segmentation ([PDF](https://arxiv.org/abs/1612.00212))
 * Pyramid Scene Parsing Network ([PDF](https://arxiv.org/abs/1612.01105), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-feature-pyramid-networks-for-object-detection_181/))
 * Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels ([PDF](https://arxiv.org/abs/1612.02101))
+* FastMask: Segment Object Multi-scale Candidates in One Shot ([PDF](https://arxiv.org/abs/1612.08843))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -123,6 +124,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Conditional Image Generation with PixelCNN Decoders ([PDF](https://arxiv.org/abs/1606.05328), [Project/Code](https://github.com/dritchie/pixelCNN))
 * RAISR: Rapid and Accurate Image Super Resolution ([PDF](https://arxiv.org/abs/1606.01299))
 * Photo-Quality Evaluation based on Computational Aesthetics: Review of Feature Extraction Techniques ([PDF](https://arxiv.org/abs/1612.06259))
+* Fast color transfer from multiple images ([PDF](https://arxiv.org/abs/1612.08927))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -177,6 +179,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Wider or Deeper: Revisiting the ResNet Model for Visual Recognition ([PDF](https://arxiv.org/abs/1611.10080), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-wider-or-deeper-revisiting-the-resnet-model-for-visual-recognition_178/))
 * Multi-Scale Context Aggregation by Dilated Convolutions ([PDF](https://arxiv.org/abs/1511.07122), [Project/Code](https://github.com/fyu/dilation))
 * Large-Margin Softmax Loss for Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1612.02295), [mxnet Code](https://github.com/luoyetx/mx-lsoftmax))
+* Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics ([PDF](https://arxiv.org/abs/1612.07767))
 
 ### GAN ###
 
