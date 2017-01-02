@@ -333,6 +333,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Some CNN visualization tools and techniques](http://www.erogol.com/cnn-visualization-tools-techniques/)
     
     Besides this post, the others written by the author are also worthy of reading.
+* [Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
