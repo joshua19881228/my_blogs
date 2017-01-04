@@ -335,6 +335,7 @@ I am going to maintain this page to record a few things about computer vision th
     
     Besides this post, the others written by the author are also worthy of reading.
 * [Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
+* [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca#.uod2m7gpp)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
