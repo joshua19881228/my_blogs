@@ -71,6 +71,7 @@ I am going to maintain this page to record a few things about computer vision th
 * On The Stability of Video Detection and Tracking ([PDF](https://arxiv.org/abs/1611.06467))
 * Dual Deep Network for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06053))
 * Deep Motion Features for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06615))
+* Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation ([PDF](https://arxiv.org/abs/1701.00561))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -200,6 +201,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1609.09671))
 * Comprehensive Evaluation of OpenCL-based Convolutional Neural Network Accelerators in Xilinx and Altera FPGAs  ([PDF](https://arxiv.org/abs/1609.09296))
 * FINN: A Framework for Fast, Scalable Binarized Neural Network Inference ([PDF](http://www.idi.ntnu.no/~yamanu/2017-fpga-finn-preprint.pdf))
+* Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices ([PDF](https://arxiv.org/abs/1701.00485))
 
 ### Other ###
 
