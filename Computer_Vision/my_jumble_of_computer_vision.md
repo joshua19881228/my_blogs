@@ -198,6 +198,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
 * [计算机视觉与机器学习 【深度学习中的激活函数】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-shen-du-xue-xi-zhong-de-ji-huo-han-shu_128/)
 * [我爱机器学习](https://www.52ml.net/) 机器学习干货站
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 
 ### Embedded ###
 
