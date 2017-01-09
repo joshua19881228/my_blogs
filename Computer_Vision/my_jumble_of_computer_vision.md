@@ -298,6 +298,9 @@ I am going to maintain this page to record a few things about computer vision th
     style transfer with mxnet
 
 * [Can Convolutional Neural Networks Crack Sudoku Puzzles?](https://github.com/Kyubyong/sudoku)
+* [cleverhans](https://github.com/openai/cleverhans)
+
+    This repository contains the source code for  cleverhans , a Python library to benchmark machine learning systems' vulnerability to adversarial examples.
 
 
 ### News/Blogs ###
