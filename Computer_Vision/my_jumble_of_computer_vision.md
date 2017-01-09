@@ -113,7 +113,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Kernel Selection using Multiple Kernel Learning and Domain Adaptation in Reproducing Kernel Hilbert Space, for Face Recognition under Surveillance Scenario ([PDF](https://arxiv.org/abs/1610.00660))
 * An All-In-One Convolutional Neural Network for Face Analysis ([PDF](https://arxiv.org/abs/1611.00851))
 * Fast Face-swap Using Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1611.09577))
-* Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval ([project/Code](http://bcsiriuschen.github.io/CARC/))
+* Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval ([Project/Code](http://bcsiriuschen.github.io/CARC/))
+* CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection ([Project/Code]https://arxiv.org/abs/1606.05413)
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
