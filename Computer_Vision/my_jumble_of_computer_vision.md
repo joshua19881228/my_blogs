@@ -27,7 +27,7 @@ I am going to maintain this page to record a few things about computer vision th
 * COCO-Stuff: Thing and Stuff Classes in Context ([PDF](https://arxiv.org/abs/1612.03716))
 * Finding Tiny Faces ([PDF](https://arxiv.org/abs/1612.04402v1))
 * Beyond Skip Connections: Top-Down Modulation for Object Detection ([PDF](https://arxiv.org/abs/1612.06851), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-beyond-skip-connections-top-down-modulation-for-object-detection_184/))
-* YOLO9000: Better, Faster, Stronger ([PDF](https://arxiv.org/abs/1612.08242))
+* YOLO9000: Better, Faster, Stronger ([PDF](https://arxiv.org/abs/1612.08242), [Project/Code](http://pjreddie.com/darknet/yolo/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-yolo9000-better-faster-stronger_193/))
 * SalGAN: Visual Saliency Prediction with Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1701.01081), [Project/Code](https://github.com/imatge-upc/saliency-salgan-2017))
 * Quantitative Analysis of Automatic Image Cropping Algorithms: A Dataset and Comparative Study ([PDF](https://arxiv.org/abs/1701.01480))
 * To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection ([PDF](https://arxiv.org/abs/1701.01692))
