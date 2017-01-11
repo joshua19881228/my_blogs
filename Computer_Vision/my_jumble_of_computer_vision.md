@@ -81,6 +81,7 @@ I am going to maintain this page to record a few things about computer vision th
 * CRF-CNN: Modeling Structured Information in Human Pose Estimation ([PDF](https://arxiv.org/abs/1611.00468))
 * Convolutional Pose Machines ([PDF](https://arxiv.org/abs/1602.00134), [Project/Code](https://github.com/shihenw/convolutional-pose-machines-release), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-convolutional-pose-machines_187/))
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ([PDF](https://arxiv.org/abs/1611.08050), [Project/Code](https://github.com/ZheC/Multi-Person-Pose-Estimation), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields_188/))
+* Towards Accurate Multi-person Pose Estimation in the Wild ([PDF](https://arxiv.org/abs/1701.01779))
 
 ### Action Recognition/Event Detection/Video
 * Pooling the Convolutional Layers in Deep ConvNets for Action Recognition ([PDF](http://arxiv.org/abs/1511.02126), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pooling-the-convolutional-layers-in-deep-convnets-for-action-recognition_73/))
