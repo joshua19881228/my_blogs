@@ -50,7 +50,7 @@ The authors summarize the work as a **better**, **faster** and **Stronger** vers
 
 ### Faster ###
 
-Instead of using VGG-16, The YOLO framework uses a custom network Darnet-19, which has has 19 convolutional layers and 5 maxpooling layers.
+1. Instead of using VGG-16, The YOLO framework uses a custom network Darnet-19, which has has 19 convolutional layers and 5 maxpooling layers.
 
 ### Stronger ###
 
