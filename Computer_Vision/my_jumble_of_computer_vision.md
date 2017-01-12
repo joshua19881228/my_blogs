@@ -351,6 +351,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
 * [GANs will change the world](https://medium.com/@Moscow25/gans-will-change-the-world-7ed6ae8515ca#.uod2m7gpp)
 * [colah's blog](http://colah.github.io/)
+* [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
