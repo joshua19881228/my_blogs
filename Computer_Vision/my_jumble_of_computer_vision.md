@@ -246,6 +246,7 @@ I am going to maintain this page to record a few things about computer vision th
     A place to find latest work's codes.
 * [OTB Results](https://github.com/foolwood/benchmark_results)
     Object tracking benchmark
+* [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
 ### Projects ###
 
@@ -418,7 +419,9 @@ I am going to maintain this page to record a few things about computer vision th
 * [What are the differences between Random Forest and Gradient Tree Boosting algorithms](https://www.quora.com/What-are-the-differences-between-Random-Forest-and-Gradient-Tree-Boosting-algorithms)
 * [为什么现在的CNN模型都是在GoogleNet、VGGNet或者AlexNet上调整的](https://www.zhihu.com/question/43370067)
 * [神经网络与深度学习](https://nndl.github.io/)
-* [ILSVRC2016目标检测任务回顾（上）--图像目标检测（DET)](http://mp.weixin.qq.com/s/t3U_gUfe5KekrH-jDSDk_w)
+* [ILSVRC2016目标检测任务回顾(上)——图像目标检测(DET)](http://mp.weixin.qq.com/s/t3U_gUfe5KekrH-jDSDk_w)
+* [ILSVRC2016目标检测任务回顾(下)——视频目标检测(VID)](http://mp.weixin.qq.com/s/mQ78KNuaHUTox3ql6rU-Nw)
+* [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
 
 ## Skills ##
 
