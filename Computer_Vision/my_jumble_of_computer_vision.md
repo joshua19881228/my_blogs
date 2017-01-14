@@ -281,8 +281,6 @@ I am going to maintain this page to record a few things about computer vision th
 	Make a photo of a mushroom and see which species it is. Determine over 200 different species. 
 * [Neural Enhance](https://github.com/alexjc/neural-enhance#3-background--research)
     The neural network is hallucinating details based on its training from example images. It's not reconstructing your photo exactly as it would have been if it was HD. That's only possible in Hollywood — but using deep learning as "Creative AI" works and it is just as cool!
-* [tiny dnn](https://github.com/tiny-dnn/tiny-dnn)
-    tiny-dnn is a C++11 implementation of deep learning. It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
 * [CNN Models by CVGJ](https://github.com/cvjena/cnn-models)
     This repository contains convolutional neural network (CNN) models trained on ImageNet by Marcel Simon at the Computer Vision Group Jena (CVGJ) using the Caffe framework. Each model is in a separate subfolder and contains everything needed to reproduce the results. This repository focuses currently contains the batch-normalization-variants of AlexNet and VGG19 as well as the training code for Residual Networks (Resnet). 
 * [YOLO2](http://pjreddie.com/darknet/yolo/)
@@ -305,6 +303,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [cleverhans](https://github.com/openai/cleverhans)
 
     This repository contains the source code for  cleverhans , a Python library to benchmark machine learning systems' vulnerability to adversarial examples.
+
+* [A deep learning traffic light detector using dlib and a few images from Google street view](https://sagivtech.com/2016/11/10/post-2/)
 
 
 ### News/Blogs ###
@@ -390,6 +390,10 @@ I am going to maintain this page to record a few things about computer vision th
     OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, C, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications.
 * [CNNdroid](https://github.com/ENCP/CNNdroid)
 	CNNdroid is an open source library for execution of trained convolutional neural networks on Android devices. 
+* [tiny dnn](https://github.com/tiny-dnn/tiny-dnn)
+    tiny-dnn is a C++11 implementation of deep learning. It is suitable for deep learning on limited computational resource, embedded systems and IoT devices.
+
+    An introduction to this toolkit at《[Deep learning with C++ - an introduction to tiny-dnn》by Taiga Nomi](http://www.slideshare.net/ssuser756ec5/deep-learning-with-c-an-introduction-to-tinydnn)
 
 ### Learning/Tricks ###
 * [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
