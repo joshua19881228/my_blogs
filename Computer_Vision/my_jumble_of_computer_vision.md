@@ -188,6 +188,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Large-Margin Softmax Loss for Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1612.02295), [mxnet Code](https://github.com/luoyetx/mx-lsoftmax))
 * Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics ([PDF](https://arxiv.org/abs/1612.07767))
 * Feedback Networks ([PDF](https://arxiv.org/abs/1612.09508))
+* Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
 
 ### GAN ###
 
