@@ -189,7 +189,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics ([PDF](https://arxiv.org/abs/1612.07767))
 * Feedback Networks ([PDF](https://arxiv.org/abs/1612.09508))
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
-* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size ([PDF](https://arxiv.org/abs/1602.07360))
+* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size ([PDF](https://arxiv.org/abs/1602.07360), [Project/Code](https://github.com/DeepScale/SqueezeNet))
 
 ### GAN ###
 
