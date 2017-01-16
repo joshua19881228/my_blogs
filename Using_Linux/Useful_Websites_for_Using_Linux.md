@@ -25,3 +25,7 @@ Recently I hang much with Ubuntu because I am trying some interesting computer v
 6. [climate](https://github.com/adtac/climate)
 
     The ultimate command line tool for Linux! climate provides a huge number of command line options for developers to automate their Linux system.
+
+7. [Mastering Bash and Terminal](https://www.blockloop.io/mastering-bash-and-terminal)
+
+    >If there is one tool that every developer uses regardless of language, platform, or framework it's the terminal. If we are not compiling code, executing git commands, or scp-ing ssl certificates to some remote server, we are finding a new version of cowsay to entertain ourselves while we wait on one of the former. As much as we use the terminal it is important that we are efficient with it. Here are some ways I make my time in the terminal efficient and effective.
