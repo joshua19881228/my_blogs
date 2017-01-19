@@ -189,7 +189,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics ([PDF](https://arxiv.org/abs/1612.07767))
 * Feedback Networks ([PDF](https://arxiv.org/abs/1612.09508))
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
-* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size ([PDF](https://arxiv.org/abs/1602.07360), [Project/Code](https://github.com/DeepScale/SqueezeNet))
+* Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
 
 ### GAN ###
 
@@ -212,6 +212,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Comprehensive Evaluation of OpenCL-based Convolutional Neural Network Accelerators in Xilinx and Altera FPGAs  ([PDF](https://arxiv.org/abs/1609.09296))
 * FINN: A Framework for Fast, Scalable Binarized Neural Network Inference ([PDF](http://www.idi.ntnu.no/~yamanu/2017-fpga-finn-preprint.pdf))
 * Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices ([PDF](https://arxiv.org/abs/1701.00485))
+* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size ([PDF](https://arxiv.org/abs/1602.07360), [Project/Code](https://github.com/DeepScale/SqueezeNet))
 
 ### Other ###
 
