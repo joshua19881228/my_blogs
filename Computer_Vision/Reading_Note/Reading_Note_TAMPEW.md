@@ -1,4 +1,4 @@
-**TITLE**:  Towards Accurate Multi-person Pose Estimation in the Wild
+**TITLE**: Towards Accurate Multi-person Pose Estimation in the Wild
 
 **AUTHOR**: George Papandreou, Tyler Zhu, Nori Kanazawa, Alexander Toshev, Jonathan Tompson, Chris Bregler, Kevin Murphy
 
