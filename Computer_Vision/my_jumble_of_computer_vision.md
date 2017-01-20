@@ -117,7 +117,8 @@ I am going to maintain this page to record a few things about computer vision th
 * An All-In-One Convolutional Neural Network for Face Analysis ([PDF](https://arxiv.org/abs/1611.00851))
 * Fast Face-swap Using Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1611.09577))
 * Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval ([Project/Code](http://bcsiriuschen.github.io/CARC/))
-* CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection ([Project/Code]https://arxiv.org/abs/1606.05413)
+* CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection ([Project/Code](https://arxiv.org/abs/1606.05413))
+* Face Synthesis from Facial Identity Features ([PDF](https://arxiv.org/abs/1701.04851))
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
@@ -132,6 +133,7 @@ I am going to maintain this page to record a few things about computer vision th
 * RAISR: Rapid and Accurate Image Super Resolution ([PDF](https://arxiv.org/abs/1606.01299))
 * Photo-Quality Evaluation based on Computational Aesthetics: Review of Feature Extraction Techniques ([PDF](https://arxiv.org/abs/1612.06259))
 * Fast color transfer from multiple images ([PDF](https://arxiv.org/abs/1612.08927))
+* Bringing Impressionism to Life with Neural Style Transfer in Come Swim ([PDF](https://arxiv.org/abs/1701.04928))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
