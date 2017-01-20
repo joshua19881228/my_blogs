@@ -193,6 +193,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Feedback Networks ([PDF](https://arxiv.org/abs/1612.09508))
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
+*FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos ([PDF](https://arxiv.org/abs/1701.05384))
 
 ### GAN ###
 
