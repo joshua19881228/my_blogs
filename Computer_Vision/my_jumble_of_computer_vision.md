@@ -31,7 +31,7 @@ I am going to maintain this page to record a few things about computer vision th
 * SalGAN: Visual Saliency Prediction with Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1701.01081), [Project/Code](https://github.com/imatge-upc/saliency-salgan-2017))
 * Quantitative Analysis of Automatic Image Cropping Algorithms: A Dataset and Comparative Study ([PDF](https://arxiv.org/abs/1701.01480))
 * To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection ([PDF](https://arxiv.org/abs/1701.01692))
-* Pixel Objectness ([PDF](https://arxiv.org/abs/1701.05349))
+* Pixel Objectness ([PDF](https://arxiv.org/abs/1701.05349), [Project/Code](http://vision.cs.utexas.edu/projects/pixelobjectness/))
 
 ### Segmentation/Parsing ###
 
@@ -135,7 +135,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Photo-Quality Evaluation based on Computational Aesthetics: Review of Feature Extraction Techniques ([PDF](https://arxiv.org/abs/1612.06259))
 * Fast color transfer from multiple images ([PDF](https://arxiv.org/abs/1612.08927))
 * Bringing Impressionism to Life with Neural Style Transfer in Come Swim ([PDF](https://arxiv.org/abs/1701.04928))
-*  PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications ([PDF](https://arxiv.org/abs/1701.05517), (Project/CODE)[https://github.com/openai/pixel-cnn])
+* PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications ([PDF](https://arxiv.org/abs/1701.05517), (Project/CODE)[https://github.com/openai/pixel-cnn])
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -194,7 +194,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Feedback Networks ([PDF](https://arxiv.org/abs/1612.09508))
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
-*FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos ([PDF](https://arxiv.org/abs/1701.05384))
+* FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos ([PDF](https://arxiv.org/abs/1701.05384))
 
 ### GAN ###
 
