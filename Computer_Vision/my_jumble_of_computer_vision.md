@@ -120,6 +120,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval ([Project/Code](http://bcsiriuschen.github.io/CARC/))
 * CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection ([Project/Code](https://arxiv.org/abs/1606.05413))
 * Face Synthesis from Facial Identity Features ([PDF](https://arxiv.org/abs/1701.04851))
+* DeepFace: Face Generation using Deep Learning ([PDF](https://arxiv.org/abs/1701.01876))
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
