@@ -62,6 +62,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Pyramid Scene Parsing Network ([PDF](https://arxiv.org/abs/1612.01105), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-feature-pyramid-networks-for-object-detection_181/))
 * Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels ([PDF](https://arxiv.org/abs/1612.02101))
 * FastMask: Segment Object Multi-scale Candidates in One Shot ([PDF](https://arxiv.org/abs/1612.08843))
+* A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction ([PDF](https://arxiv.org/abs/1701.06190))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -190,7 +191,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Inductive Bias of Deep Convolutional Networks through Pooling Geometry ([PDF](https://arxiv.org/abs/1605.06743), [Project/Code](https://github.com/HUJI-Deep/inductive-pooling))
 * Wider or Deeper: Revisiting the ResNet Model for Visual Recognition ([PDF](https://arxiv.org/abs/1611.10080), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-wider-or-deeper-revisiting-the-resnet-model-for-visual-recognition_178/))
 * Multi-Scale Context Aggregation by Dilated Convolutions ([PDF](https://arxiv.org/abs/1511.07122), [Project/Code](https://github.com/fyu/dilation))
-* Large-Margin Softmax Loss for Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1612.02295), [mxnet Code](https://github.com/luoyetx/mx-lsoftmax))
+* Large-Margin Softmax Loss for Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1612.02295), [mxnet Code](https://github.com/luoyetx/mx-lsoftmax), [Caffe Code](https://github.com/wy1iu/LargeMargin_Softmax_Loss))
 * Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics ([PDF](https://arxiv.org/abs/1612.07767))
 * Feedback Networks ([PDF](https://arxiv.org/abs/1612.09508))
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
@@ -377,6 +378,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [MS COCO](http://mscoco.org)
 * [UMDFaces Dataset](http://umdfaces.io/)
 	UMDFaces is a face dataset which has 367,920 faces of 8,501 subjects. From this page you can download the entire dataset and the trained model for predicting the localization of the 21 keypoints. 
+* [VideoNet](http://videonet.team/)
+    VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks. 
 
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
