@@ -61,7 +61,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Training Bit Fully Convolutional Network for Fast Semantic Segmentation ([PDF](https://arxiv.org/abs/1612.00212))
 * Pyramid Scene Parsing Network ([PDF](https://arxiv.org/abs/1612.01105), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-feature-pyramid-networks-for-object-detection_181/))
 * Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels ([PDF](https://arxiv.org/abs/1612.02101))
-* FastMask: Segment Object Multi-scale Candidates in One Shot ([PDF](https://arxiv.org/abs/1612.08843))
+* FastMask: Segment Object Multi-scale Candidates in One Shot ([PDF](https://arxiv.org/abs/1612.08843), [Project/Code](https://github.com/voidrank/FastMask))
 * A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction ([PDF](https://arxiv.org/abs/1701.06190))
 
 ### Tracking ###
