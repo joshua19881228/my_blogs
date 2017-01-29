@@ -140,6 +140,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Bringing Impressionism to Life with Neural Style Transfer in Come Swim ([PDF](https://arxiv.org/abs/1701.04928))
 * PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications ([PDF](https://arxiv.org/abs/1701.05517), (Project/CODE)[https://github.com/openai/pixel-cnn])
 
+
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
 * What makes ImageNet good for transfer learning? ([PDF](http://arxiv.org/abs/1608.08614), [Project/Code](http://minyounghuh.com/papers/analysis/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-what-makes-imagenet-good-for-transfer-learning_138/))
@@ -316,6 +317,7 @@ I am going to maintain this page to record a few things about computer vision th
     This repository contains the source code for  cleverhans , a Python library to benchmark machine learning systems' vulnerability to adversarial examples.
 
 * [A deep learning traffic light detector using dlib and a few images from Google street view](https://sagivtech.com/2016/11/10/post-2/)
+* [Paints Chainer](https://github.com/taizan/PaintsChainer)
 
 
 ### News/Blogs ###
