@@ -45,6 +45,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Structured Features for Semantic Segmentation ([PDF](http://arxiv.org/abs/1609.07916v1))
 
     >We propose a highly structured neural network architecture for semantic segmentation of images that combines i) a Haar wavelet-based tree-like convolutional neural network (CNN), ii) a random layer realizing a radial basis function kernel approximation, and iii) a linear classifier. While stages i) and ii) are completely pre-specified, only the linear classifier is learned from data. Thanks to its high degree of structure, our architecture has a very small memory footprint and thus fits onto low-power embedded and mobile platforms. We apply the proposed architecture to outdoor scene and aerial image semantic segmentation and show that the accuracy of our architecture is competitive with conventional pixel classification CNNs. Furthermore, we demonstrate that the proposed architecture is data efficient in the sense of matching the accuracy of pixel classification CNNs when trained on a much smaller data set. 
+
 * CNN-aware Binary Map for General Semantic Segmentation ([PDF](https://arxiv.org/abs/1609.09220))
 * Learning to Refine Object Segments ([PDF](https://arxiv.org/abs/1603.08695))
 * Clockwork Convnets for Video Semantic Segmentation([PDF](https://arxiv.org/abs/1608.03609), [Project/Code](https://github.com/shelhamer/clockwork-fcn))
@@ -64,6 +65,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Mining Pixels: Weakly Supervised Semantic Segmentation Using Image Labels ([PDF](https://arxiv.org/abs/1612.02101))
 * FastMask: Segment Object Multi-scale Candidates in One Shot ([PDF](https://arxiv.org/abs/1612.08843), [Project/Code](https://github.com/voidrank/FastMask))
 * A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction ([PDF](https://arxiv.org/abs/1701.06190), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-a-new-convolutional-network-in-network-structure-and-its-applications-in-skin-detection-semantic-segmentation-and-artifact-reduction_198/))
+* FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos ([PDF](https://arxiv.org/abs/1701.05384))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -78,6 +80,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Dual Deep Network for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06053))
 * Deep Motion Features for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06615))
 * Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation ([PDF](https://arxiv.org/abs/1701.00561), [Project/Code](https://bitbucket.org/xinke_wang/msdat/src))
+* A Fast and Compact Salient Score Regression Network Based on Fully Convolutional Network ([PDF](https://arxiv.org/abs/1702.00615))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -198,7 +201,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Feedback Networks ([PDF](https://arxiv.org/abs/1612.09508))
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
-* FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos ([PDF](https://arxiv.org/abs/1701.05384))
+* Understanding trained CNNs by indexing neuron selectivity ([PDF](https://arxiv.org/abs/1702.00382))
 
 ### GAN ###
 
