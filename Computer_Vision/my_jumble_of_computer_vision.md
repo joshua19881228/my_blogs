@@ -33,6 +33,7 @@ I am going to maintain this page to record a few things about computer vision th
 * To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection ([PDF](https://arxiv.org/abs/1701.01692))
 * Pixel Objectness ([PDF](https://arxiv.org/abs/1701.05349), [Project/Code](http://vision.cs.utexas.edu/projects/pixelobjectness/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pixel-objectness_196/))
 * DSSD : Deconvolutional Single Shot Detector ([PDF](https://arxiv.org/abs/1701.06659))
+* A Fast and Compact Salient Score Regression Network Based on Fully Convolutional Network ([PDF](https://arxiv.org/abs/1702.00615))
 
 ### Segmentation/Parsing ###
 
@@ -80,7 +81,6 @@ I am going to maintain this page to record a few things about computer vision th
 * Dual Deep Network for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06053))
 * Deep Motion Features for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06615))
 * Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation ([PDF](https://arxiv.org/abs/1701.00561), [Project/Code](https://bitbucket.org/xinke_wang/msdat/src))
-* A Fast and Compact Salient Score Regression Network Based on Fully Convolutional Network ([PDF](https://arxiv.org/abs/1702.00615))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
