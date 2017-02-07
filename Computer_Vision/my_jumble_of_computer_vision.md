@@ -144,7 +144,6 @@ I am going to maintain this page to record a few things about computer vision th
 * Bringing Impressionism to Life with Neural Style Transfer in Come Swim ([PDF](https://arxiv.org/abs/1701.04928))
 * PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications ([PDF](https://arxiv.org/abs/1701.05517), (Project/CODE)[https://github.com/openai/pixel-cnn])
 
-
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
 * What makes ImageNet good for transfer learning? ([PDF](http://arxiv.org/abs/1608.08614), [Project/Code](http://minyounghuh.com/papers/analysis/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-what-makes-imagenet-good-for-transfer-learning_138/))
@@ -203,6 +202,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
 * Understanding trained CNNs by indexing neuron selectivity ([PDF](https://arxiv.org/abs/1702.00382))
+* Benchmarking State-of-the-Art Deep Learning Software Tools ([PDF](https://arxiv.org/abs/1608.07249))
 
 ### GAN ###
 
@@ -388,6 +388,7 @@ I am going to maintain this page to record a few things about computer vision th
 	UMDFaces is a face dataset which has 367,920 faces of 8,501 subjects. From this page you can download the entire dataset and the trained model for predicting the localization of the 21 keypoints. 
 * [VideoNet](http://videonet.team/)
     VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks. 
+* [YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video](https://arxiv.org/abs/1702.00824)
 
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
