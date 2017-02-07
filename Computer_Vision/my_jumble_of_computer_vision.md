@@ -127,6 +127,7 @@ I am going to maintain this page to record a few things about computer vision th
 * CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection ([Project/Code](https://arxiv.org/abs/1606.05413))
 * Face Synthesis from Facial Identity Features ([PDF](https://arxiv.org/abs/1701.04851))
 * DeepFace: Face Generation using Deep Learning ([PDF](https://arxiv.org/abs/1701.01876))
+* Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns ([PDF](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf), [Project/Code](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/))
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
