@@ -34,6 +34,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Pixel Objectness ([PDF](https://arxiv.org/abs/1701.05349), [Project/Code](http://vision.cs.utexas.edu/projects/pixelobjectness/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pixel-objectness_196/))
 * DSSD : Deconvolutional Single Shot Detector ([PDF](https://arxiv.org/abs/1701.06659))
 * A Fast and Compact Salient Score Regression Network Based on Fully Convolutional Network ([PDF](https://arxiv.org/abs/1702.00615))
+* Wide-Residual-Inception Networks for Real-time Object Detection ([PDF](https://arxiv.org/abs/1702.01243))
 
 ### Segmentation/Parsing ###
 
