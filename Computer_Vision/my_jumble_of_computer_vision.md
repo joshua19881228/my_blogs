@@ -265,6 +265,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [OTB Results](https://github.com/foolwood/benchmark_results)
     Object tracking benchmark
 * [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+* [Creating Human-Level AI](https://www.youtube.com/watch?v=ZHYXp3gJCaI)
 
 ### Projects ###
 
@@ -374,6 +375,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [NIPS 2016 Review](https://gab41.lab41.org/nips-2016-review-day-1-6e504bcf1451#.g2wwg6g6a)
 * [【榜单】GitHub 最受欢迎深度学习应用项目 Top 16（持续更新）](http://mp.weixin.qq.com/s/-JxpVh_sAIXWueSBfzxbsA)
 * [Why use SVM?](http://blog.yhat.com/posts/why-support-vector-machine.html)
+* [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
