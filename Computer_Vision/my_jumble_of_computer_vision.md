@@ -424,7 +424,7 @@ I am going to maintain this page to record a few things about computer vision th
 ### Learning/Tricks ###
 * [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
     A website that explain how Backpropagation Algorithm works.
-* [Deep Learning ( textbook authored by Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org/)
+* [Deep Learning (textbook authored by Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org/)
     The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. 
 * [Neural Networks and Deep Learning (online book authored by Michael Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)
     Neural Networks and Deep Learning is a free online book. The book will teach you about 1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data and 2) Deep learning, a powerful set of techniques for learning in neural networks. Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning.
