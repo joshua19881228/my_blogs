@@ -214,6 +214,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1511.06434))
 * Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks ([PDF](https://arxiv.org/abs/1506.05751))
 * NIPS 2016 Tutorial: Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1701.00160))
+* Wasserstein GAN ([PDF](https://arxiv.org/abs/1701.07875))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
