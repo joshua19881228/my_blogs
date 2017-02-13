@@ -132,6 +132,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
+* Guided Optical Flow Learning ([PDF](https://arxiv.org/abs/1702.02295))
 
 ### Image Processing
 * Learning Recursive Filter for Low-Level Vision via a Hybrid Neural Network ([PDF](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf), [Project/Code](https://github.com/Liusifei/caffe-lowlevel))
