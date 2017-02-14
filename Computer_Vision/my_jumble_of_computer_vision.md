@@ -328,6 +328,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 * [A deep learning traffic light detector using dlib and a few images from Google street view](https://sagivtech.com/2016/11/10/post-2/)
 * [Paints Chainer](https://github.com/taizan/PaintsChainer)
+* [Calculate deep convolution neurAl network on Cell Unit](https://github.com/luhaofang/CACU)
 
 
 ### News/Blogs ###
@@ -396,6 +397,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [VideoNet](http://videonet.team/)
     VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks. 
 * [YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video](https://arxiv.org/abs/1702.00824)
+* [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php)
 
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
