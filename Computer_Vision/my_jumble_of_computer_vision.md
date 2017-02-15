@@ -380,6 +380,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [【榜单】GitHub 最受欢迎深度学习应用项目 Top 16（持续更新）](http://mp.weixin.qq.com/s/-JxpVh_sAIXWueSBfzxbsA)
 * [Why use SVM?](http://blog.yhat.com/posts/why-support-vector-machine.html)
 * [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/)
+* [Building Your Own Deep Learning Box](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.gabyza8vg)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
