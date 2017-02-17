@@ -207,6 +207,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Understanding trained CNNs by indexing neuron selectivity ([PDF](https://arxiv.org/abs/1702.00382))
 * Benchmarking State-of-the-Art Deep Learning Software Tools ([PDF](https://arxiv.org/abs/1608.07249))
 * Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models ([PDF](https://arxiv.org/abs/1702.03275))
+* Visualizing Deep Neural Network Decisions: Prediction Difference Analysis ([PDF](https://arxiv.org/abs/1702.04595), [Project/Code](https://github.com/lmzintgraf/DeepVis-PredDiff))
 
 ### GAN ###
 
@@ -245,6 +246,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification ([PDF](https://arxiv.org/abs/1612.03663))
 * Automatic generation of large-scale handwriting fonts via style learning ([PDF](http://delivery.acm.org/10.1145/3010000/3005371/a12-lian.pdf?ip=101.36.73.155&id=3005371&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=878397374&CFTOKEN=60453893&__acm__=1482192254_e947f14035db372a97d831530a7c05b1))
 * Image Retrieval with Deep Local Features and Attention-based Keypoints ([PDF](https://arxiv.org/abs/1612.06321))
+* Visual Discovery at Pinterest ([PDF](https://arxiv.org/abs/1702.04680))
 
 ## Interesting Finds ##
 
