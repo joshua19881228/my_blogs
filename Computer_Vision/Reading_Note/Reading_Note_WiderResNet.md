@@ -9,7 +9,7 @@
 ## CONTRIBUTIONS ##
 
 1. A further developed intuitive view of ResNets is introduced, which helps to understand their behaviours and find possible directions to further improvements.
-2. A group of relatively shallow convolutional networks is proposed based on our new understanding. Some of them achieve the state-of-the-art results on the ImageNet classification datase.
+2. A group of relatively shallow convolutional networks is proposed based on our new understanding. Some of them achieve the state-of-the-art results on the ImageNet classification dataset.
 3. The impact of using different networks is evaluated on the performance of semantic image segmentation, and these networks, as pre-trained features, can boost existing algorithms a lot.
 
 ## SUMMARY ##
