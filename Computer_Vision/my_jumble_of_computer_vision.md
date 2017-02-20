@@ -205,7 +205,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Visualizing Residual Networks ([PDF](https://arxiv.org/abs/1701.02362))
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
 * Understanding trained CNNs by indexing neuron selectivity ([PDF](https://arxiv.org/abs/1702.00382))
-* Benchmarking State-of-the-Art Deep Learning Software Tools ([PDF](https://arxiv.org/abs/1608.07249))
+* Benchmarking State-of-the-Art Deep Learning Software Tools ([PDF](https://arxiv.org/abs/1608.07249), [Project/Code](http://dlbench.comp.hkbu.edu.hk/))
 * Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models ([PDF](https://arxiv.org/abs/1702.03275))
 * Visualizing Deep Neural Network Decisions: Prediction Difference Analysis ([PDF](https://arxiv.org/abs/1702.04595), [Project/Code](https://github.com/lmzintgraf/DeepVis-PredDiff))
 
