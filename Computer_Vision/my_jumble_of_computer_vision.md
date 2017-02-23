@@ -69,6 +69,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction ([PDF](https://arxiv.org/abs/1701.06190), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-a-new-convolutional-network-in-network-structure-and-its-applications-in-skin-detection-semantic-segmentation-and-artifact-reduction_198/))
 * FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos ([PDF](https://arxiv.org/abs/1701.05384))
 * Visual Saliency Prediction Using a Mixture of Deep Neural Networks ([PDF](https://arxiv.org/abs/1702.00372))
+* PixelNet: Representation of the pixels, by the pixels, and for the pixels ([PDF](https://arxiv.org/abs/1702.06506), [Project/Code](http://www.cs.cmu.edu/~aayushb/pixelNet/))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -248,6 +249,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Automatic generation of large-scale handwriting fonts via style learning ([PDF](http://delivery.acm.org/10.1145/3010000/3005371/a12-lian.pdf?ip=101.36.73.155&id=3005371&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=878397374&CFTOKEN=60453893&__acm__=1482192254_e947f14035db372a97d831530a7c05b1))
 * Image Retrieval with Deep Local Features and Attention-based Keypoints ([PDF](https://arxiv.org/abs/1612.06321))
 * Visual Discovery at Pinterest ([PDF](https://arxiv.org/abs/1702.04680))
+* Learning to Detect Human-Object Interactions ([PDF](https://arxiv.org/abs/1702.05448), [Project/Code](http://www-personal.umich.edu/~ywchao/hico/))
 
 ## Interesting Finds ##
 
