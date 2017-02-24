@@ -250,6 +250,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Image Retrieval with Deep Local Features and Attention-based Keypoints ([PDF](https://arxiv.org/abs/1612.06321))
 * Visual Discovery at Pinterest ([PDF](https://arxiv.org/abs/1702.04680))
 * Learning to Detect Human-Object Interactions ([PDF](https://arxiv.org/abs/1702.05448), [Project/Code](http://www-personal.umich.edu/~ywchao/hico/))
+* Learning Deep Features via Congenerous Cosine Loss for Person Recognition ([PDF](https://arxiv.org/abs/1702.06890))
 
 ## Interesting Finds ##
 
@@ -432,6 +433,9 @@ I am going to maintain this page to record a few things about computer vision th
 
     An introduction to this toolkit at《[Deep learning with C++ - an introduction to tiny-dnn》by Taiga Nomi](http://www.slideshare.net/ssuser756ec5/deep-learning-with-c-an-introduction-to-tinydnn)
 
+* [CaffeMex](https://github.com/sciencefans/CaffeMex_v2)
+    A multi-GPU & memory-reduced MAT-Caffe on LINUX and WINDOWS
+
 ### Learning/Tricks ###
 * [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
     A website that explain how Backpropagation Algorithm works.
@@ -477,3 +481,4 @@ I am going to maintain this page to record a few things about computer vision th
 ### Setting Up ###
 * [Installation of NVIDIA GPU Driver and CUDA Toolkit](http://joshua881228.webfactional.com/blog_installation-of-nvidia-gpu-driver-and-cuda-toolkit_54/)
 * [Tensorflow v0.10 installed from scratch on Ubuntu 16.04, CUDA 8.0RC+Patch, cuDNN v5.1 with a 1080GTX](https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/)
+* [DL小钢炮攒机心得 | 帮你踩坑](https://mp.weixin.qq.com/s?__biz=MzIzMzI0NjkwMw==&mid=2652210076&idx=1&sn=f7150cc62d68eb9fc29d3a65f9834104)
