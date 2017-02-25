@@ -335,6 +335,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [A deep learning traffic light detector using dlib and a few images from Google street view](https://sagivtech.com/2016/11/10/post-2/)
 * [Paints Chainer](https://github.com/taizan/PaintsChainer)
 * [Calculate deep convolution neurAl network on Cell Unit](https://github.com/luhaofang/CACU)
+* [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+    Deep Video Analytics provides a platform for indexing and extracting information from videos and images. Deep learning detection and recognition algorithms are used for indexing individual frames / images along with detected objects. The goal of Deep Video analytics is to become a quickly customizable platform for developing visual & video analytics applications, while benefiting from seamless integration with state or the art models released by the vision research community.
 
 
 ### News/Blogs ###
