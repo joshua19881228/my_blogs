@@ -390,6 +390,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Why use SVM?](http://blog.yhat.com/posts/why-support-vector-machine.html)
 * [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/)
 * [Building Your Own Deep Learning Box](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.gabyza8vg)
+* [Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.b6215aaoi)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
