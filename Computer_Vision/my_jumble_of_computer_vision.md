@@ -250,7 +250,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Automatic generation of large-scale handwriting fonts via style learning ([PDF](http://delivery.acm.org/10.1145/3010000/3005371/a12-lian.pdf?ip=101.36.73.155&id=3005371&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=878397374&CFTOKEN=60453893&__acm__=1482192254_e947f14035db372a97d831530a7c05b1))
 * Image Retrieval with Deep Local Features and Attention-based Keypoints ([PDF](https://arxiv.org/abs/1612.06321))
 * Visual Discovery at Pinterest ([PDF](https://arxiv.org/abs/1702.04680))
-* Learning to Detect Human-Object Interactions ([PDF](https://arxiv.org/abs/1702.05448), [Project/Code](http://www-personal.umich.edu/~ywchao/hico/))
+* Learning to Detect Human-Object Interactions ([PDF](https://arxiv.org/abs/1702.05448), [Project/Code](http://www-personal.umich.edu/~ywchao/hico/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-learning-to-detect-human-object-interactions_209/))
 * Learning Deep Features via Congenerous Cosine Loss for Person Recognition ([PDF](https://arxiv.org/abs/1702.06890))
 
 ## Interesting Finds ##
