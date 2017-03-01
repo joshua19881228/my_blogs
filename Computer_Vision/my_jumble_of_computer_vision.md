@@ -71,6 +71,8 @@ I am going to maintain this page to record a few things about computer vision th
 * FusionSeg: Learning to combine motion and appearance for fully automatic segmention of generic objects in videos ([PDF](https://arxiv.org/abs/1701.05384))
 * Visual Saliency Prediction Using a Mixture of Deep Neural Networks ([PDF](https://arxiv.org/abs/1702.00372))
 * PixelNet: Representation of the pixels, by the pixels, and for the pixels ([PDF](https://arxiv.org/abs/1702.06506), [Project/Code](http://www.cs.cmu.edu/~aayushb/pixelNet/))
+* Super-Trajectory for Video Segmentation ([PDF](https://arxiv.org/abs/1702.08634))
+* Understanding Convolution for Semantic Segmentation ([PDF](https://arxiv.org/abs/1702.08502))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -210,6 +212,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Benchmarking State-of-the-Art Deep Learning Software Tools ([PDF](https://arxiv.org/abs/1608.07249), [Project/Code](http://dlbench.comp.hkbu.edu.hk/))
 * Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models ([PDF](https://arxiv.org/abs/1702.03275))
 * Visualizing Deep Neural Network Decisions: Prediction Difference Analysis ([PDF](https://arxiv.org/abs/1702.04595), [Project/Code](https://github.com/lmzintgraf/DeepVis-PredDiff))
+* ShaResNet: reducing residual network parameter number by sharing weights ([PDF](https://arxiv.org/abs/1702.08782))
 
 ### GAN ###
 
