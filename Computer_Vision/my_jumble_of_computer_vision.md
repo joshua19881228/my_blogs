@@ -36,6 +36,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Fast and Compact Salient Score Regression Network Based on Fully Convolutional Network ([PDF](https://arxiv.org/abs/1702.00615))
 * Wide-Residual-Inception Networks for Real-time Object Detection ([PDF](https://arxiv.org/abs/1702.01243))
 * Zoom Out-and-In Network with Recursive Training for Object Proposal ([PDF](https://arxiv.org/abs/1702.05711), [Project/Code](https://github.com/hli2020/zoom_network))
+* Improving Object Detection with Region Similarity Learning ([PDF](https://arxiv.org/abs/1703.00234))
 
 ### Segmentation/Parsing ###
 
