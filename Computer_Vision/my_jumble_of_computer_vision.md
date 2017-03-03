@@ -214,6 +214,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models ([PDF](https://arxiv.org/abs/1702.03275))
 * Visualizing Deep Neural Network Decisions: Prediction Difference Analysis ([PDF](https://arxiv.org/abs/1702.04595), [Project/Code](https://github.com/lmzintgraf/DeepVis-PredDiff))
 * ShaResNet: reducing residual network parameter number by sharing weights ([PDF](https://arxiv.org/abs/1702.08782))
+* Deep Forest: Towards An Alternative to Deep Neural Networks ([PDF](https://arxiv.org/abs/1702.08835))
 
 ### GAN ###
 
