@@ -74,6 +74,7 @@ I am going to maintain this page to record a few things about computer vision th
 * PixelNet: Representation of the pixels, by the pixels, and for the pixels ([PDF](https://arxiv.org/abs/1702.06506), [Project/Code](http://www.cs.cmu.edu/~aayushb/pixelNet/))
 * Super-Trajectory for Video Segmentation ([PDF](https://arxiv.org/abs/1702.08634))
 * Understanding Convolution for Semantic Segmentation ([PDF](https://arxiv.org/abs/1702.08502), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-understanding-convolution-for-semantic-segmentation_211/))
+* Adversarial Examples for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1703.01101))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -88,6 +89,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Dual Deep Network for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06053))
 * Deep Motion Features for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06615))
 * Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation ([PDF](https://arxiv.org/abs/1701.00561), [Project/Code](https://bitbucket.org/xinke_wang/msdat/src))
+* Instance Flow Based Online Multiple Object Tracking ([PDF](https://arxiv.org/abs/1703.01289))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -134,6 +136,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Face Synthesis from Facial Identity Features ([PDF](https://arxiv.org/abs/1701.04851))
 * DeepFace: Face Generation using Deep Learning ([PDF](https://arxiv.org/abs/1701.01876))
 * Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns ([PDF](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf), [Project/Code](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/))
+* EmotioNet Challenge: Recognition of facial expressions of emotion in the wild ([PDF](https://arxiv.org/abs/1703.01210))
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
