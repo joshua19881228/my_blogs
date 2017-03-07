@@ -487,6 +487,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [ILSVRC2016目标检测任务回顾(下)——视频目标检测(VID)](http://mp.weixin.qq.com/s/mQ78KNuaHUTox3ql6rU-Nw)
 * [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
 * [令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
+* [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 ## Skills ##
 
