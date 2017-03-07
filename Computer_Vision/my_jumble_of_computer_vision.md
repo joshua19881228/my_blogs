@@ -218,6 +218,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Visualizing Deep Neural Network Decisions: Prediction Difference Analysis ([PDF](https://arxiv.org/abs/1702.04595), [Project/Code](https://github.com/lmzintgraf/DeepVis-PredDiff))
 * ShaResNet: reducing residual network parameter number by sharing weights ([PDF](https://arxiv.org/abs/1702.08782))
 * Deep Forest: Towards An Alternative to Deep Neural Networks ([PDF](https://arxiv.org/abs/1702.08835))
+* All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation ([PDF](https://arxiv.org/abs/1703.01827))
+* Genetic CNN ([PDF](https://arxiv.org/abs/1703.01513))
 
 ### GAN ###
 
@@ -229,6 +231,7 @@ I am going to maintain this page to record a few things about computer vision th
 * NIPS 2016 Tutorial: Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1701.00160))
 * Wasserstein GAN ([PDF](https://arxiv.org/abs/1701.07875))
 * Adversarial Discriminative Domain Adaptation ([PDF](https://arxiv.org/abs/1702.05464), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-adversarial-discriminative-domain-adaptation_206/))
+* Generative Adversarial Nets with Labeled Data by Activation Maximization ([PDF](https://arxiv.org/abs/1703.02000))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
