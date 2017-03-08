@@ -263,6 +263,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Visual Discovery at Pinterest ([PDF](https://arxiv.org/abs/1702.04680))
 * Learning to Detect Human-Object Interactions ([PDF](https://arxiv.org/abs/1702.05448), [Project/Code](http://www-personal.umich.edu/~ywchao/hico/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-learning-to-detect-human-object-interactions_209/))
 * Learning Deep Features via Congenerous Cosine Loss for Person Recognition ([PDF](https://arxiv.org/abs/1702.06890))
+* Large-Scale Evolution of Image Classifiers ([PDF](https://arxiv.org/abs/1703.01041))
 
 ## Interesting Finds ##
 
@@ -404,6 +405,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/)
 * [Building Your Own Deep Learning Box](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.gabyza8vg)
 * [Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.b6215aaoi)
+* [Understanding, generalisation, and transfer learning in deep neural networks](https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
