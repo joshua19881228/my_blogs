@@ -90,6 +90,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Motion Features for Visual Tracking ([PDF](https://arxiv.org/abs/1612.06615))
 * Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation ([PDF](https://arxiv.org/abs/1701.00561), [Project/Code](https://bitbucket.org/xinke_wang/msdat/src))
 * Instance Flow Based Online Multiple Object Tracking ([PDF](https://arxiv.org/abs/1703.01289))
+* PathTrack: Fast Trajectory Annotation with Path Supervision ([PDF](https://arxiv.org/abs/1703.02437))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -232,6 +233,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Wasserstein GAN ([PDF](https://arxiv.org/abs/1701.07875))
 * Adversarial Discriminative Domain Adaptation ([PDF](https://arxiv.org/abs/1702.05464), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-adversarial-discriminative-domain-adaptation_206/))
 * Generative Adversarial Nets with Labeled Data by Activation Maximization ([PDF](https://arxiv.org/abs/1703.02000))
+* Triple Generative Adversarial Nets ([PDF](https://arxiv.org/abs/1703.02291))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
