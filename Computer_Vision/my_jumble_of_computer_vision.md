@@ -37,6 +37,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Wide-Residual-Inception Networks for Real-time Object Detection ([PDF](https://arxiv.org/abs/1702.01243))
 * Zoom Out-and-In Network with Recursive Training for Object Proposal ([PDF](https://arxiv.org/abs/1702.05711), [Project/Code](https://github.com/hli2020/zoom_network))
 * Improving Object Detection with Region Similarity Learning ([PDF](https://arxiv.org/abs/1703.00234))
+* Tree-Structured Reinforcement Learning for Sequential Object Localization ([PDF](https://arxiv.org/abs/1703.02710))
 
 ### Segmentation/Parsing ###
 
@@ -75,6 +76,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Super-Trajectory for Video Segmentation ([PDF](https://arxiv.org/abs/1702.08634))
 * Understanding Convolution for Semantic Segmentation ([PDF](https://arxiv.org/abs/1702.08502), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-understanding-convolution-for-semantic-segmentation_211/))
 * Adversarial Examples for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1703.01101))
+* Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network ([PDF](https://arxiv.org/abs/1703.02719))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -123,6 +125,7 @@ I am going to maintain this page to record a few things about computer vision th
 * ActionFlowNet: Learning Motion Representation for Action Recognition ([PDF](https://arxiv.org/abs/1612.03052))
 * Video Propagation Networks ([PDF](https://arxiv.org/abs/1612.05478))
 * Detecting events and key actors in multi-person videos ([PDF](https://arxiv.org/abs/1511.02917))
+* A Pursuit of Temporal Accuracy in General Activity Detection ([PDF](https://arxiv.org/abs/1703.02716))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -408,6 +411,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Building Your Own Deep Learning Box](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.gabyza8vg)
 * [Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.b6215aaoi)
 * [Understanding, generalisation, and transfer learning in deep neural networks](https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/)
+* [NVIDIA Announces The Jetson TX2, Powered By NVIDIA's "Denver 2" CPU & Pascal Graphics](http://www.phoronix.com/scan.php?page=article&item=nvidia-jtx2-denver&num=1)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
