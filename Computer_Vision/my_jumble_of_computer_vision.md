@@ -269,6 +269,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning to Detect Human-Object Interactions ([PDF](https://arxiv.org/abs/1702.05448), [Project/Code](http://www-personal.umich.edu/~ywchao/hico/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-learning-to-detect-human-object-interactions_209/))
 * Learning Deep Features via Congenerous Cosine Loss for Person Recognition ([PDF](https://arxiv.org/abs/1702.06890))
 * Large-Scale Evolution of Image Classifiers ([PDF](https://arxiv.org/abs/1703.01041))
+* Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection ([PDF](https://arxiv.org/abs/1703.03054))
 
 ## Interesting Finds ##
 
