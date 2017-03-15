@@ -126,7 +126,7 @@ I am going to maintain this page to record a few things about computer vision th
 * ActionFlowNet: Learning Motion Representation for Action Recognition ([PDF](https://arxiv.org/abs/1612.03052))
 * Video Propagation Networks ([PDF](https://arxiv.org/abs/1612.05478))
 * Detecting events and key actors in multi-person videos ([PDF](https://arxiv.org/abs/1511.02917))
-* A Pursuit of Temporal Accuracy in General Activity Detection ([PDF](https://arxiv.org/abs/1703.02716))
+* A Pursuit of Temporal Accuracy in General Activity Detection ([PDF](https://arxiv.org/abs/1703.02716), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-a-pursuit-of-temporal-accuracy-in-general-activity-detection_216/))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
