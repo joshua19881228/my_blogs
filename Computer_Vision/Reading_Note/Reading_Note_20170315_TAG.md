@@ -17,7 +17,7 @@ The proposed action detection framework starts with evaluating the actionness of
 
 <img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/Reading_Note_20170315_TAG_0.jpg" alt="" width="640"/>
 
-###Temporal Region proposals###
+### Temporal Region proposals ###
 
 The temporal region proposals are generated with a bottom-up procedure, which consists of three steps: extract snippets, evaluate snippet-wise actionness, and finally group them into region proposals. 
 
@@ -33,7 +33,7 @@ Note that this scheme is controlled by two design parameters: the **actionness t
 2. Action fragments are sensitive to temporal transitions. Hence, as a bottom-up method that relies on merging action fragments, it often yields proposals with more accurate temporal boundaries.
 3. With the multi-threshold design, it can cover a broad range of actions without the need of case-specific parameter tuning. With these properties, the proposed method can achieve high recall with just a moderate number of proposals. This also benefits the training of the classifiers in the next stage.
 
-###Detecting Action Instances###
+### Detecting Action Instances ###
 
 this is accomplished by a cascaded pipeline with two steps: *activity classification* and *completeness filtering*.
 
