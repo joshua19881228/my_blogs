@@ -432,6 +432,8 @@ I am going to maintain this page to record a few things about computer vision th
     VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks. 
 * [YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video](https://arxiv.org/abs/1702.00824)
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php)
+* [Duke: A New Large-scale Person Re-identification Dataset derived from DukeMTMC](https://github.com/layumi/Duke_evaluation)
+    Duke is a subset of the DukeMTMC for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available.
 
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
