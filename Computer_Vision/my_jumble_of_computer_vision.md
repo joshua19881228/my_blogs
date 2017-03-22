@@ -78,6 +78,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial Examples for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1703.01101))
 * Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network ([PDF](https://arxiv.org/abs/1703.02719))
 * Deep Image Matting ([PDF](https://arxiv.org/abs/1703.03872), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-deep-image-matting_217/))
+* Mask R-CNN ([PDF](https://arxiv.org/abs/1703.06870))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -271,6 +272,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning Deep Features via Congenerous Cosine Loss for Person Recognition ([PDF](https://arxiv.org/abs/1702.06890))
 * Large-Scale Evolution of Image Classifiers ([PDF](https://arxiv.org/abs/1703.01041))
 * Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection ([PDF](https://arxiv.org/abs/1703.03054))
+* Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval ([PDF](https://arxiv.org/abs/1703.06618), [Project/Code](https://github.com/huyt16/Twitter100k/))
 
 ## Interesting Finds ##
 
