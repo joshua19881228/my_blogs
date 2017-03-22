@@ -239,6 +239,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial Discriminative Domain Adaptation ([PDF](https://arxiv.org/abs/1702.05464), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-adversarial-discriminative-domain-adaptation_206/))
 * Generative Adversarial Nets with Labeled Data by Activation Maximization ([PDF](https://arxiv.org/abs/1703.02000))
 * Triple Generative Adversarial Nets ([PDF](https://arxiv.org/abs/1703.02291))
+* On the Quantative Evaluation of Deep Generative Models ([PDF](http://www.cs.cmu.edu/~rsalakhu/talk_Eval.pdf))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
