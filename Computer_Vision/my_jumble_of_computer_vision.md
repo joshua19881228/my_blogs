@@ -418,6 +418,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.b6215aaoi)
 * [Understanding, generalisation, and transfer learning in deep neural networks](https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/)
 * [NVIDIA Announces The Jetson TX2, Powered By NVIDIA's "Denver 2" CPU & Pascal Graphics](http://www.phoronix.com/scan.php?page=article&item=nvidia-jtx2-denver&num=1)
+* [Can FPGAs Beat GPUs in Accelerating Next-Generation Deep Learning?](https://www.nextplatform.com/2017/03/21/can-fpgas-beat-gpus-accelerating-next-generation-deep-learning/)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
