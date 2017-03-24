@@ -38,6 +38,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Zoom Out-and-In Network with Recursive Training for Object Proposal ([PDF](https://arxiv.org/abs/1702.05711), [Project/Code](https://github.com/hli2020/zoom_network))
 * Improving Object Detection with Region Similarity Learning ([PDF](https://arxiv.org/abs/1703.00234))
 * Tree-Structured Reinforcement Learning for Sequential Object Localization ([PDF](https://arxiv.org/abs/1703.02710))
+* Weakly Supervised Object Localization Using Things and Stuff Transfer ([PDF](https://arxiv.org/abs/1703.08000))
 
 ### Segmentation/Parsing ###
 
