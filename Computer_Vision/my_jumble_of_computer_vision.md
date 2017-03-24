@@ -79,6 +79,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network ([PDF](https://arxiv.org/abs/1703.02719))
 * Deep Image Matting ([PDF](https://arxiv.org/abs/1703.03872), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-deep-image-matting_217/))
 * Mask R-CNN ([PDF](https://arxiv.org/abs/1703.06870))
+* Predicting Deeper into the Future of Semantic Segmentation ([PDF](https://arxiv.org/abs/1703.07684))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
