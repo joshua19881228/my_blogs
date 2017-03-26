@@ -508,6 +508,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
 * [令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+* [生成式对抗网络 GAN 的研究进展与展望 ](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651995256&idx=1&sn=f508a61ebd4792b4b407ac7418c4f1ab)
 
 ## Skills ##
 
