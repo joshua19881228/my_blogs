@@ -230,6 +230,7 @@ I am going to maintain this page to record a few things about computer vision th
 * All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation ([PDF](https://arxiv.org/abs/1703.01827))
 * Genetic CNN ([PDF](https://arxiv.org/abs/1703.01513))
 * Deformable Convolutional Networks ([PDF](https://arxiv.org/abs/1703.06211))
+* Quality Resilient Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.08119))
 
 ### GAN ###
 
