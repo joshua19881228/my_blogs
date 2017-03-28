@@ -231,6 +231,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Genetic CNN ([PDF](https://arxiv.org/abs/1703.01513))
 * Deformable Convolutional Networks ([PDF](https://arxiv.org/abs/1703.06211))
 * Quality Resilient Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.08119))
+* How ConvNets model Non-linear Transformations ([PDF](https://arxiv.org/abs/1702.07664))
 
 ### GAN ###
 
