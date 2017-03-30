@@ -232,6 +232,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Deformable Convolutional Networks ([PDF](https://arxiv.org/abs/1703.06211))
 * Quality Resilient Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.08119))
 * How ConvNets model Non-linear Transformations ([PDF](https://arxiv.org/abs/1702.07664))
+* Active Convolution: Learning the Shape of Convolution for Image Classification ([PDF](https://arxiv.org/abs/1703.09076))
 
 ### GAN ###
 
@@ -246,6 +247,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Generative Adversarial Nets with Labeled Data by Activation Maximization ([PDF](https://arxiv.org/abs/1703.02000))
 * Triple Generative Adversarial Nets ([PDF](https://arxiv.org/abs/1703.02291))
 * On the Quantative Evaluation of Deep Generative Models ([PDF](http://www.cs.cmu.edu/~rsalakhu/talk_Eval.pdf))
+* Adversarial Transformation Networks: Learning to Generate Adversarial Examples ([PDF](https://arxiv.org/abs/1703.09387))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
@@ -368,6 +370,7 @@ I am going to maintain this page to record a few things about computer vision th
     Deep Video Analytics provides a platform for indexing and extracting information from videos and images. Deep learning detection and recognition algorithms are used for indexing individual frames / images along with detected objects. The goal of Deep Video analytics is to become a quickly customizable platform for developing visual & video analytics applications, while benefiting from seamless integration with state or the art models released by the vision research community.
 * [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) 
     Windows GUI for marking bounded boxes of objects in images for training Yolo v2
+* [Yolo-Windows v2 - Windows version of Yolo Convolutional Neural Networks](https://github.com/AlexeyAB/darknet)
 
 
 ### News/Blogs ###
@@ -425,6 +428,9 @@ I am going to maintain this page to record a few things about computer vision th
 * [NVIDIA Announces The Jetson TX2, Powered By NVIDIA's "Denver 2" CPU & Pascal Graphics](http://www.phoronix.com/scan.php?page=article&item=nvidia-jtx2-denver&num=1)
 * [Can FPGAs Beat GPUs in Accelerating Next-Generation Deep Learning?](https://www.nextplatform.com/2017/03/21/can-fpgas-beat-gpus-accelerating-next-generation-deep-learning/)
 * [Flexible Image Tagging with Fast0Tag](https://gab41.lab41.org/flexible-image-tagging-with-fast0tag-681c6283c9b7)
+* [Eye Fidelity: How Deep Learning Will Help Your Smartphone Track Your Gaze](https://blogs.nvidia.com/blog/2016/08/30/eye-tracking-deep-learning/)
+* [Using Deep Learning to Find Similar Dresses](https://www.slideshare.net/HJvanVeen/using-deep-learning-to-find-similar-dresses)
+* [Rules of Machine Learning: Best Practices for ML Engineering](http://211.136.65.144/cache/martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf?ich_args2=63-30201313013522_2c061a5e256a1540143166bdb81879f4_10001002_9c886d2cdfc4f4d89e3e518939a83798_1fc45e3ebbbb5d0180278ba0111aceaf)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
