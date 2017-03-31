@@ -81,6 +81,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Image Matting ([PDF](https://arxiv.org/abs/1703.03872), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-deep-image-matting_217/))
 * Mask R-CNN ([PDF](https://arxiv.org/abs/1703.06870))
 * Predicting Deeper into the Future of Semantic Segmentation ([PDF](https://arxiv.org/abs/1703.07684))
+* Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
+* One-Shot Video Object Segmentation ([PDF](https://arxiv.org/abs/1611.05198), [Project/Code](https://github.com/kmaninis/OSVOS-caffe))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -145,6 +147,7 @@ I am going to maintain this page to record a few things about computer vision th
 * DeepFace: Face Generation using Deep Learning ([PDF](https://arxiv.org/abs/1701.01876))
 * Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns ([PDF](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf), [Project/Code](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/))
 * EmotioNet Challenge: Recognition of facial expressions of emotion in the wild ([PDF](https://arxiv.org/abs/1703.01210))
+* Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation ([PDF](https://arxiv.org/abs/1703.10131))
 
 ### Optical Flow 
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
@@ -163,6 +166,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Bringing Impressionism to Life with Neural Style Transfer in Come Swim ([PDF](https://arxiv.org/abs/1701.04928))
 * PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications ([PDF](https://arxiv.org/abs/1701.05517), (Project/CODE)[https://github.com/openai/pixel-cnn])
 * Deep Photo Style Transfer ([PDF](https://arxiv.org/abs/1703.07511))
+* GP-GAN: Towards Realistic High-Resolution Image Blending ([PDF](https://arxiv.org/abs/1703.07195), [Project/Code](https://github.com/wuhuikai/GP-GAN))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -233,6 +237,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Quality Resilient Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.08119))
 * How ConvNets model Non-linear Transformations ([PDF](https://arxiv.org/abs/1702.07664))
 * Active Convolution: Learning the Shape of Convolution for Image Classification ([PDF](https://arxiv.org/abs/1703.09076))
+* Multi-Scale Dense Convolutional Networks for Efficient Prediction ([PDF](https://arxiv.org/abs/1703.09844), [Project/Code](https://github.com/gaohuang/MSDNet))
 
 ### GAN ###
 
