@@ -23,7 +23,7 @@ The method is illustrated in the following figure.
 
 ### Matting encoder-decoder stage ###
 
-The first network leverages two losses. One is **alpha-prediction loss** and the other one is **compositional lss**.
+The first network leverages two losses. One is **alpha-prediction loss** and the other one is **compositional loss**.
 
 **Alpha-prediction loss** is the absolute difference between the ground truth alpha values and the predicted alpha values at each pixel, which defines as
 
