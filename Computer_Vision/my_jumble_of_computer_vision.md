@@ -83,6 +83,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Predicting Deeper into the Future of Semantic Segmentation ([PDF](https://arxiv.org/abs/1703.07684))
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
 * One-Shot Video Object Segmentation ([PDF](https://arxiv.org/abs/1611.05198), [Project/Code](https://github.com/kmaninis/OSVOS-caffe))
+* Semantic Instance Segmentation via Deep Metric Learning ([PDF](https://arxiv.org/abs/1703.10277))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -376,6 +377,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) 
     Windows GUI for marking bounded boxes of objects in images for training Yolo v2
 * [Yolo-Windows v2 - Windows version of Yolo Convolutional Neural Networks](https://github.com/AlexeyAB/darknet)
+* [An Unsupervised Distance Learning Framework for Multimedia Retrieva](https://github.com/lucasPV/UDLF)
 
 
 ### News/Blogs ###
