@@ -39,6 +39,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Improving Object Detection with Region Similarity Learning ([PDF](https://arxiv.org/abs/1703.00234))
 * Tree-Structured Reinforcement Learning for Sequential Object Localization ([PDF](https://arxiv.org/abs/1703.02710))
 * Weakly Supervised Object Localization Using Things and Stuff Transfer ([PDF](https://arxiv.org/abs/1703.08000))
+* Unsupervised learning from video to detect foreground objects in single images ([PDF](https://arxiv.org/abs/1703.10901))
 
 ### Segmentation/Parsing ###
 
@@ -133,6 +134,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Video Propagation Networks ([PDF](https://arxiv.org/abs/1612.05478))
 * Detecting events and key actors in multi-person videos ([PDF](https://arxiv.org/abs/1511.02917))
 * A Pursuit of Temporal Accuracy in General Activity Detection ([PDF](https://arxiv.org/abs/1703.02716), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-a-pursuit-of-temporal-accuracy-in-general-activity-detection_216/))
+* Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos ([PDF](https://arxiv.org/abs/1703.10664))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -169,6 +171,7 @@ I am going to maintain this page to record a few things about computer vision th
 * PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications ([PDF](https://arxiv.org/abs/1701.05517), (Project/CODE)[https://github.com/openai/pixel-cnn])
 * Deep Photo Style Transfer ([PDF](https://arxiv.org/abs/1703.07511))
 * GP-GAN: Towards Realistic High-Resolution Image Blending ([PDF](https://arxiv.org/abs/1703.07195), [Project/Code](https://github.com/wuhuikai/GP-GAN))
+* BEGAN: Boundary Equilibrium Generative Adversarial Networks ([PDF](https://www.arxiv.org/abs/1703.10717))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -313,6 +316,7 @@ I am going to maintain this page to record a few things about computer vision th
     Object tracking benchmark
 * [Adversarial Nets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 * [Creating Human-Level AI](https://www.youtube.com/watch?v=ZHYXp3gJCaI)
+* [Adversarial Nets Papers](https://github.com/chihyaoma/AdversarialNetsPapers)
 
 ### Projects ###
 
