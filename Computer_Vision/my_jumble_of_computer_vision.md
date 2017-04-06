@@ -85,6 +85,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
 * One-Shot Video Object Segmentation ([PDF](https://arxiv.org/abs/1611.05198), [Project/Code](https://github.com/kmaninis/OSVOS-caffe))
 * Semantic Instance Segmentation via Deep Metric Learning ([PDF](https://arxiv.org/abs/1703.10277))
+* Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade ([PDF](https://arxiv.org/abs/1704.01344))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -136,6 +137,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Pursuit of Temporal Accuracy in General Activity Detection ([PDF](https://arxiv.org/abs/1703.02716), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-a-pursuit-of-temporal-accuracy-in-general-activity-detection_216/))
 * Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos ([PDF](https://arxiv.org/abs/1703.10664))
 * Deceiving Google's Cloud Video Intelligence API Built for Summarizing Videos ([PDF](https://arxiv.org/abs/1703.09793))
+* Incremental Tube Construction for Human Action Detection ([PDF](https://arxiv.org/abs/1704.01358))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
@@ -245,6 +247,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Active Convolution: Learning the Shape of Convolution for Image Classification ([PDF](https://arxiv.org/abs/1703.09076))
 * Multi-Scale Dense Convolutional Networks for Efficient Prediction ([PDF](https://arxiv.org/abs/1703.09844), [Project/Code](https://github.com/gaohuang/MSDNet))
 * Coordinating Filters for Faster Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.09746), [Project/Code](https://github.com/wenwei202/caffe/tree/sfm))
+* A Genetic Programming Approach to Designing Convolutional Neural Network Architectures ([PDF](https://arxiv.org/abs/1704.00764))
 
 ### GAN ###
 
@@ -260,6 +263,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Triple Generative Adversarial Nets ([PDF](https://arxiv.org/abs/1703.02291))
 * On the Quantative Evaluation of Deep Generative Models ([PDF](http://www.cs.cmu.edu/~rsalakhu/talk_Eval.pdf))
 * Adversarial Transformation Networks: Learning to Generate Adversarial Examples ([PDF](https://arxiv.org/abs/1703.09387))
+* Improved Training of Wasserstein GANs ([PDF](https://arxiv.org/abs/1704.00028), [Project/Code](https://github.com/igul222/improved_wgan_trainin))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
