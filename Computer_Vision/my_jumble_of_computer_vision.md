@@ -140,7 +140,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Incremental Tube Construction for Human Action Detection ([PDF](https://arxiv.org/abs/1704.01358))
 
 ### Face 
-* Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
+* Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
 * Deep Architectures for Face Attributes ([PDF](http://arxiv.org/abs/1609.09018))
 * Face Detection with End-to-End Integration of a ConvNet and a 3D Model ([PDF](https://www.arxiv.org/abs/1606.00850), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-face-detection-with-end-to-end-integration-of-a-convnet-and-a-3d-model_145/), [Project/Code](https://github.com/tfwu/FaceDetection-ConvNet-3D))
 * A CNN Cascade for Landmark Guided Semantic Part Segmentation ([PDF](https://arxiv.org/pdf/1609.09642.pdf), [Project/Code](http://www.cs.nott.ac.uk/~psxasj/papers/jackson2016guided/))
@@ -248,6 +248,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Multi-Scale Dense Convolutional Networks for Efficient Prediction ([PDF](https://arxiv.org/abs/1703.09844), [Project/Code](https://github.com/gaohuang/MSDNet))
 * Coordinating Filters for Faster Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.09746), [Project/Code](https://github.com/wenwei202/caffe/tree/sfm))
 * A Genetic Programming Approach to Designing Convolutional Neural Network Architectures ([PDF](https://arxiv.org/abs/1704.00764))
+* On Generalization and Regularization in Deep Learning ([PDF](https://arxiv.org/abs/1704.01312))
 
 ### GAN ###
 
@@ -537,6 +538,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 * [生成式对抗网络 GAN 的研究进展与展望 ](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651995256&idx=1&sn=f508a61ebd4792b4b407ac7418c4f1ab)
+* [A guide to receptive field arithmetic for Convolutional Neural Networks](https://www.medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 
 ## Skills ##
 
