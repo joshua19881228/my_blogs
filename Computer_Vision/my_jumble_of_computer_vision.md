@@ -86,6 +86,7 @@ I am going to maintain this page to record a few things about computer vision th
 * One-Shot Video Object Segmentation ([PDF](https://arxiv.org/abs/1611.05198), [Project/Code](https://github.com/kmaninis/OSVOS-caffe))
 * Semantic Instance Segmentation via Deep Metric Learning ([PDF](https://arxiv.org/abs/1703.10277))
 * Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade ([PDF](https://arxiv.org/abs/1704.01344))
+* Semantically-Guided Video Object Segmentation ([PDF](https://arxiv.org/abs/1704.01926))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -248,6 +249,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Multi-Scale Dense Convolutional Networks for Efficient Prediction ([PDF](https://arxiv.org/abs/1703.09844), [Project/Code](https://github.com/gaohuang/MSDNet))
 * Coordinating Filters for Faster Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.09746), [Project/Code](https://github.com/wenwei202/caffe/tree/sfm))
 * A Genetic Programming Approach to Designing Convolutional Neural Network Architectures ([PDF](https://arxiv.org/abs/1704.00764))
+* On Generalization and Regularization in Deep Learning ([PDF](https://arxiv.org/abs/1704.01312))
 * On Generalization and Regularization in Deep Learning ([PDF](https://arxiv.org/abs/1704.01312))
 
 ### GAN ###
