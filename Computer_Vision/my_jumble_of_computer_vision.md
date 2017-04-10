@@ -87,6 +87,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Semantic Instance Segmentation via Deep Metric Learning ([PDF](https://arxiv.org/abs/1703.10277))
 * Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade ([PDF](https://arxiv.org/abs/1704.01344))
 * Semantically-Guided Video Object Segmentation ([PDF](https://arxiv.org/abs/1704.01926))
+* Recurrent Multimodal Interaction for Referring Image Segmentation ([PDF](https://arxiv.org/abs/1703.07939))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -139,6 +140,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos ([PDF](https://arxiv.org/abs/1703.10664))
 * Deceiving Google's Cloud Video Intelligence API Built for Summarizing Videos ([PDF](https://arxiv.org/abs/1703.09793))
 * Incremental Tube Construction for Human Action Detection ([PDF](https://arxiv.org/abs/1704.01358))
+* Unsupervised Action Proposal Ranking through Proposal Recombination ([PDF](https://arxiv.org/abs/1704.00758))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
@@ -267,6 +269,7 @@ I am going to maintain this page to record a few things about computer vision th
 * On the Quantative Evaluation of Deep Generative Models ([PDF](http://www.cs.cmu.edu/~rsalakhu/talk_Eval.pdf))
 * Adversarial Transformation Networks: Learning to Generate Adversarial Examples ([PDF](https://arxiv.org/abs/1703.09387))
 * Improved Training of Wasserstein GANs ([PDF](https://arxiv.org/abs/1704.00028), [Project/Code](https://github.com/igul222/improved_wgan_trainin))
+* Generate To Adapt: Aligning Domains using Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.01705))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
@@ -301,6 +304,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Large-Scale Evolution of Image Classifiers ([PDF](https://arxiv.org/abs/1703.01041))
 * Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection ([PDF](https://arxiv.org/abs/1703.03054))
 * Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval ([PDF](https://arxiv.org/abs/1703.06618), [Project/Code](https://github.com/huyt16/Twitter100k/))
+* Mixture of Counting CNNs: Adaptive Integration of CNNs Specialized to Specific Appearance for Crowd Counting ([PDF](https://arxiv.org/abs/1703.09393))
 
 ## Interesting Finds ##
 
@@ -541,6 +545,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 * [生成式对抗网络 GAN 的研究进展与展望 ](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651995256&idx=1&sn=f508a61ebd4792b4b407ac7418c4f1ab)
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://www.medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+* [见微知著：细粒度图像分析进展](http://geek.csdn.net/news/detail/191718)
 
 ## Skills ##
 
