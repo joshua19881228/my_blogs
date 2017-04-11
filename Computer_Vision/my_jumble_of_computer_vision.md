@@ -270,6 +270,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial Transformation Networks: Learning to Generate Adversarial Examples ([PDF](https://arxiv.org/abs/1703.09387))
 * Improved Training of Wasserstein GANs ([PDF](https://arxiv.org/abs/1704.00028), [Project/Code](https://github.com/igul222/improved_wgan_trainin))
 * Generate To Adapt: Aligning Domains using Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.01705))
+* Adversarial Generator-Encoder Networks ([PDF](https://arxiv.org/abs/1704.02304), [Project/Code](https://github.com/DmitryUlyanov/AGE))
+* Training Triplet Networks with GAN ([PDF](https://arxiv.org/abs/1704.02227))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
