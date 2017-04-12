@@ -40,6 +40,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Tree-Structured Reinforcement Learning for Sequential Object Localization ([PDF](https://arxiv.org/abs/1703.02710))
 * Weakly Supervised Object Localization Using Things and Stuff Transfer ([PDF](https://arxiv.org/abs/1703.08000))
 * Unsupervised learning from video to detect foreground objects in single images ([PDF](https://arxiv.org/abs/1703.10901))
+* A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection ([PDF](http://www.cs.cmu.edu/~xiaolonw/papers/CVPR2017_Adversarial_Det.pdf), [Project/Code](https://github.com/xiaolonw/adversarial-frcnn))
 
 ### Segmentation/Parsing ###
 
@@ -88,6 +89,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade ([PDF](https://arxiv.org/abs/1704.01344))
 * Semantically-Guided Video Object Segmentation ([PDF](https://arxiv.org/abs/1704.01926))
 * Recurrent Multimodal Interaction for Referring Image Segmentation ([PDF](https://arxiv.org/abs/1703.07939))
+* Loss Max-Pooling for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1704.02966)) 
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -272,6 +274,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Generate To Adapt: Aligning Domains using Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.01705))
 * Adversarial Generator-Encoder Networks ([PDF](https://arxiv.org/abs/1704.02304), [Project/Code](https://github.com/DmitryUlyanov/AGE))
 * Training Triplet Networks with GAN ([PDF](https://arxiv.org/abs/1704.02227))
+* Multi-Agent Diverse Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.02906))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
