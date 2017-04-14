@@ -90,6 +90,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Semantically-Guided Video Object Segmentation ([PDF](https://arxiv.org/abs/1704.01926))
 * Recurrent Multimodal Interaction for Referring Image Segmentation ([PDF](https://arxiv.org/abs/1703.07939))
 * Loss Max-Pooling for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1704.02966)) 
+* Reformulating Level Sets as Deep Recurrent Neural Network Approach to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.03593))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -143,6 +144,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Deceiving Google's Cloud Video Intelligence API Built for Summarizing Videos ([PDF](https://arxiv.org/abs/1703.09793))
 * Incremental Tube Construction for Human Action Detection ([PDF](https://arxiv.org/abs/1704.01358))
 * Unsupervised Action Proposal Ranking through Proposal Recombination ([PDF](https://arxiv.org/abs/1704.00758))
+* CERN: Confidence-Energy Recurrent Network for Group Activity Recognition ([PDF](https://arxiv.org/abs/1704.03058))
+* Forecasting Human Dynamics from Static Images ([PDF](https://arxiv.org/abs/1704.03432))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
@@ -178,8 +181,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Bringing Impressionism to Life with Neural Style Transfer in Come Swim ([PDF](https://arxiv.org/abs/1701.04928))
 * PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications ([PDF](https://arxiv.org/abs/1701.05517), (Project/CODE)[https://github.com/openai/pixel-cnn])
 * Deep Photo Style Transfer ([PDF](https://arxiv.org/abs/1703.07511))
-* GP-GAN: Towards Realistic High-Resolution Image Blending ([PDF](https://arxiv.org/abs/1703.07195), [Project/Code](https://github.com/wuhuikai/GP-GAN))
-* BEGAN: Boundary Equilibrium Generative Adversarial Networks ([PDF](https://www.arxiv.org/abs/1703.10717))
+* A Neural Representation of Sketch Drawings ([PDF](https://arxiv.org/abs/1704.03477))
 
 ### CNN and Deep Learning ###
 * UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
@@ -254,7 +256,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Coordinating Filters for Faster Deep Neural Networks ([PDF](https://arxiv.org/abs/1703.09746), [Project/Code](https://github.com/wenwei202/caffe/tree/sfm))
 * A Genetic Programming Approach to Designing Convolutional Neural Network Architectures ([PDF](https://arxiv.org/abs/1704.00764))
 * On Generalization and Regularization in Deep Learning ([PDF](https://arxiv.org/abs/1704.01312))
-* On Generalization and Regularization in Deep Learning ([PDF](https://arxiv.org/abs/1704.01312))
+* Interpretable Explanations of Black Boxes by Meaningful Perturbation ([PDF](https://arxiv.org/abs/1704.03296))
+* Energy Propagation in Deep Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.03636))
 
 ### GAN ###
 
@@ -275,6 +278,9 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial Generator-Encoder Networks ([PDF](https://arxiv.org/abs/1704.02304), [Project/Code](https://github.com/DmitryUlyanov/AGE))
 * Training Triplet Networks with GAN ([PDF](https://arxiv.org/abs/1704.02227))
 * Multi-Agent Diverse Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.02906))
+* GP-GAN: Towards Realistic High-Resolution Image Blending ([PDF](https://arxiv.org/abs/1703.07195), [Project/Code](https://github.com/wuhuikai/GP-GAN))
+* BEGAN: Boundary Equilibrium Generative Adversarial Networks ([PDF](https://www.arxiv.org/abs/1703.10717))
+* MAGAN: Margin Adaptation for Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.03817))
 
 ### Machine Learning ###
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
@@ -401,6 +407,7 @@ I am going to maintain this page to record a few things about computer vision th
     Windows GUI for marking bounded boxes of objects in images for training Yolo v2
 * [Yolo-Windows v2 - Windows version of Yolo Convolutional Neural Networks](https://github.com/AlexeyAB/darknet)
 * [An Unsupervised Distance Learning Framework for Multimedia Retrieva](https://github.com/lucasPV/UDLF)
+* [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 
 
 ### News/Blogs ###
