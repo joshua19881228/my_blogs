@@ -258,6 +258,7 @@ I am going to maintain this page to record a few things about computer vision th
 * On Generalization and Regularization in Deep Learning ([PDF](https://arxiv.org/abs/1704.01312))
 * Interpretable Explanations of Black Boxes by Meaningful Perturbation ([PDF](https://arxiv.org/abs/1704.03296))
 * Energy Propagation in Deep Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.03636))
+* Beyond triplet loss: a deep quadruplet network for person re-identification ([PDF](https://arxiv.org/abs/1704.01719))
 
 ### GAN ###
 
