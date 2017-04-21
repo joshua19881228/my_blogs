@@ -91,6 +91,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Recurrent Multimodal Interaction for Referring Image Segmentation ([PDF](https://arxiv.org/abs/1703.07939))
 * Loss Max-Pooling for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1704.02966)) 
 * Reformulating Level Sets as Deep Recurrent Neural Network Approach to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.03593))
+* Learning Video Object Segmentation with Visual Memory ([PDF](https://arxiv.org/abs/1704.05737))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -184,7 +185,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Neural Representation of Sketch Drawings ([PDF](https://arxiv.org/abs/1704.03477))
 
 ### CNN and Deep Learning ###
-* UberNet: Training a `Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
+* UberNet: Training a 'Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
 * What makes ImageNet good for transfer learning? ([PDF](http://arxiv.org/abs/1608.08614), [Project/Code](http://minyounghuh.com/papers/analysis/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-what-makes-imagenet-good-for-transfer-learning_138/))
 
     >The tremendous success of features learnt using the ImageNet classification task on a wide range of transfer tasks begs the question: what are the intrinsic properties of the ImageNet dataset that are critical for learning good, general-purpose features? This work provides an empirical investigation of various facets of this question: Is more pre-training data always better? How does feature quality depend on the number of training examples per class? Does adding more object classes improve performance? For the same data budget, how should the data be split into classes? Is fine-grained recognition necessary for learning good features? Given the same number of training classes, is it better to have coarse classes or fine-grained classes? Which is better: more classes or more examples per class?
@@ -318,6 +319,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection ([PDF](https://arxiv.org/abs/1703.03054))
 * Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval ([PDF](https://arxiv.org/abs/1703.06618), [Project/Code](https://github.com/huyt16/Twitter100k/))
 * Mixture of Counting CNNs: Adaptive Integration of CNNs Specialized to Specific Appearance for Crowd Counting ([PDF](https://arxiv.org/abs/1703.09393))
+* Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art ([PDF](https://arxiv.org/abs/1704.05519), [Project/Code](http://www.cvlibs.net/projects/autonomous_vision_survey/))
 
 ## Interesting Finds ##
 
