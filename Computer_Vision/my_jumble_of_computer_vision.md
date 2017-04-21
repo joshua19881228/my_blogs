@@ -260,6 +260,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Interpretable Explanations of Black Boxes by Meaningful Perturbation ([PDF](https://arxiv.org/abs/1704.03296))
 * Energy Propagation in Deep Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.03636))
 * Beyond triplet loss: a deep quadruplet network for person re-identification ([PDF](https://arxiv.org/abs/1704.01719))
+* Introspection: Accelerating Neural Network Training By Learning Weight Evolution ([PDF](https://arxiv.org/abs/1704.04959))
 
 ### GAN ###
 
@@ -289,6 +290,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [计算机视觉与机器学习 【深度学习中的激活函数】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-shen-du-xue-xi-zhong-de-ji-huo-han-shu_128/)
 * [我爱机器学习](https://www.52ml.net/) 机器学习干货站
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* Stochastic Gradient Descent as Approximate Bayesian Inference ([PDF](https://arxiv.org/abs/1704.04289))
 
 ### Embedded ###
 
@@ -497,6 +499,8 @@ I am going to maintain this page to record a few things about computer vision th
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
     Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and by community contributors. Yangqing Jia created the project during his PhD at UC Berkeley. Caffe is released under the BSD 2-Clause license.
+* [Caffe2](https://github.com/caffe2/caffe2)
+    Caffe2 is a deep learning framework made with expression, speed, and modularity in mind. It is an experimental refactoring of Caffe, and allows a more flexible way to organize computation.
 * [Caffe on Intel](https://github.com/intel/caffe)
     This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in particular Intel® Xeon processors (HSW+) and Intel® Xeon Phi processors
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
