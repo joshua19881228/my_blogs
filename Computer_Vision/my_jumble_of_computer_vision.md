@@ -147,6 +147,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Unsupervised Action Proposal Ranking through Proposal Recombination ([PDF](https://arxiv.org/abs/1704.00758))
 * CERN: Confidence-Energy Recurrent Network for Group Activity Recognition ([PDF](https://arxiv.org/abs/1704.03058))
 * Forecasting Human Dynamics from Static Images ([PDF](https://arxiv.org/abs/1704.03432))
+* Interpretable 3D Human Action Analysis with Temporal Convolutional Networks ([PDF](https://arxiv.org/abs/1704.04516))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
