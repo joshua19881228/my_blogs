@@ -108,6 +108,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Robust and Real-time Deep Tracking Via Multi-Scale Domain Adaptation ([PDF](https://arxiv.org/abs/1701.00561), [Project/Code](https://bitbucket.org/xinke_wang/msdat/src))
 * Instance Flow Based Online Multiple Object Tracking ([PDF](https://arxiv.org/abs/1703.01289))
 * PathTrack: Fast Trajectory Annotation with Path Supervision ([PDF](https://arxiv.org/abs/1703.02437))
+* Good Features to Correlate for Visual Tracking ([PDF](https://arxiv.org/abs/1704.06326))
 
 ### Pose Estimation ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
@@ -148,6 +149,7 @@ I am going to maintain this page to record a few things about computer vision th
 * CERN: Confidence-Energy Recurrent Network for Group Activity Recognition ([PDF](https://arxiv.org/abs/1704.03058))
 * Forecasting Human Dynamics from Static Images ([PDF](https://arxiv.org/abs/1704.03432))
 * Interpretable 3D Human Action Analysis with Temporal Convolutional Networks ([PDF](https://arxiv.org/abs/1704.04516))
+* Training object class detectors with click supervision ([PDF](https://arxiv.org/abs/1704.06228))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
