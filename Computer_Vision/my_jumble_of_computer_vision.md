@@ -92,6 +92,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Loss Max-Pooling for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1704.02966)) 
 * Reformulating Level Sets as Deep Recurrent Neural Network Approach to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.03593))
 * Learning Video Object Segmentation with Visual Memory ([PDF](https://arxiv.org/abs/1704.05737))
+* A Review on Deep Learning Techniques Applied to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.06857))
 
 ### Tracking ###
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
@@ -150,6 +151,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Forecasting Human Dynamics from Static Images ([PDF](https://arxiv.org/abs/1704.03432))
 * Interpretable 3D Human Action Analysis with Temporal Convolutional Networks ([PDF](https://arxiv.org/abs/1704.04516))
 * Training object class detectors with click supervision ([PDF](https://arxiv.org/abs/1704.06228))
+* Skeleton-based Action Recognition with Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.07595))
 
 ### Face 
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
@@ -264,6 +266,10 @@ I am going to maintain this page to record a few things about computer vision th
 * Energy Propagation in Deep Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.03636))
 * Beyond triplet loss: a deep quadruplet network for person re-identification ([PDF](https://arxiv.org/abs/1704.01719))
 * Introspection: Accelerating Neural Network Training By Learning Weight Evolution ([PDF](https://arxiv.org/abs/1704.04959))
+* Deeply-Supervised Nets ([PDF](https://arxiv.org/abs/1409.5185))
+* Speeding up Convolutional Neural Networks By Exploiting the Sparsity of Rectifier Units ([PDF](https://arxiv.org/abs/1704.07724))
+* Inception Recurrent Convolutional Neural Network for Object Recognition ([PDF](https://arxiv.org/abs/1704.07709))
+* Residual Attention Network for Image Classification ([PDF](https://arxiv.org/abs/1704.06904))
 
 ### GAN ###
 
