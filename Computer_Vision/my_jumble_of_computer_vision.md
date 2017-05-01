@@ -484,6 +484,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Using Deep Learning to Find Similar Dresses](https://www.slideshare.net/HJvanVeen/using-deep-learning-to-find-similar-dresses)
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://211.136.65.144/cache/martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf?ich_args2=63-30201313013522_2c061a5e256a1540143166bdb81879f4_10001002_9c886d2cdfc4f4d89e3e518939a83798_1fc45e3ebbbb5d0180278ba0111aceaf)
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
+* [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
