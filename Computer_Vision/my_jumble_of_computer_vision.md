@@ -81,7 +81,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial Examples for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1703.01101))
 * Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network ([PDF](https://arxiv.org/abs/1703.02719))
 * Deep Image Matting ([PDF](https://arxiv.org/abs/1703.03872), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-deep-image-matting_217/))
-* Mask R-CNN ([PDF](https://arxiv.org/abs/1703.06870))
+* Mask R-CNN ([PDF](https://arxiv.org/abs/1703.06870), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-mask-r-cnn_226/))
 * Predicting Deeper into the Future of Semantic Segmentation ([PDF](https://arxiv.org/abs/1703.07684))
 * Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks ([PDF](https://arxiv.org/abs/1701.04658), [Project/Code](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/))
 * One-Shot Video Object Segmentation ([PDF](https://arxiv.org/abs/1611.05198), [Project/Code](https://github.com/kmaninis/OSVOS-caffe))
