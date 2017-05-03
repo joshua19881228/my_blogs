@@ -4,4 +4,4 @@ Using VIM is always a geek thing. However, it seems to be exausting to remember 
 
 * To automatically complete the code, a tool called [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) is one of the most popular tools. And to use this tool for C-family languages, another tool [Bear](https://github.com/rizsotto/Bear) is needed. Both of these two projects have detailed document.
 
-* A very useful website to find useful vim plugins is [Vim Awesome](http://vimawesome.com/) 
+* A very useful website to find useful vim plugins is [Vim Awesome](http://vimawesome.com/). 
