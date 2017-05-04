@@ -506,6 +506,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php)
 * [Duke: A New Large-scale Person Re-identification Dataset derived from DukeMTMC](https://github.com/layumi/Duke_evaluation)
     Duke is a subset of the DukeMTMC for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available.
+* [Releasing the World’s Largest Street-level Imagery Dataset for Teaching Machines to See](http://blog.mapillary.com/product/2017/05/03/mapillary-vistas-dataset.html)
+	>Today we present the Mapillary Vistas Dataset—the world’s largest and most diverse publicly available, pixel-accurately and instance-specifically annotated street-level imagery dataset for empowering autonomous mobility and transport at the global scale.
 
 ### Toolkits ###
 * [Caffe](http://caffe.berkeleyvision.org/)
