@@ -41,6 +41,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Weakly Supervised Object Localization Using Things and Stuff Transfer ([PDF](https://arxiv.org/abs/1703.08000))
 * Unsupervised learning from video to detect foreground objects in single images ([PDF](https://arxiv.org/abs/1703.10901))
 * A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection ([PDF](http://www.cs.cmu.edu/~xiaolonw/papers/CVPR2017_Adversarial_Det.pdf), [Project/Code](https://github.com/xiaolonw/adversarial-frcnn))
+* A Learning non-maximum suppression ([PDF](https://arxiv.org/abs/1705.02950))
 
 ### Segmentation/Parsing ###
 
