@@ -426,6 +426,9 @@ I am going to maintain this page to record a few things about computer vision th
 * [Yolo-Windows v2 - Windows version of Yolo Convolutional Neural Networks](https://github.com/AlexeyAB/darknet)
 * [An Unsupervised Distance Learning Framework for Multimedia Retrieva](https://github.com/lucasPV/UDLF)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
+* [Mini Caffe](https://github.com/luoyetx/mini-caffe)
+	Minimal runtime core of Caffe, Forward only, GPU support and Memory efficiency.
+
 
 
 ### News/Blogs ###
