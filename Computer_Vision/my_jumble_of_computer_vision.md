@@ -334,6 +334,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval ([PDF](https://arxiv.org/abs/1703.06618), [Project/Code](https://github.com/huyt16/Twitter100k/))
 * Mixture of Counting CNNs: Adaptive Integration of CNNs Specialized to Specific Appearance for Crowd Counting ([PDF](https://arxiv.org/abs/1703.09393))
 * Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art ([PDF](https://arxiv.org/abs/1704.05519), [Project/Code](http://www.cvlibs.net/projects/autonomous_vision_survey/))
+* Learning Features by Watching Objects Move ([PDF](https://arxiv.org/abs/1612.06370), [Project/Code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/))
+
 
 ## Interesting Finds ##
 
@@ -492,6 +494,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [晓雷机器学习笔记](https://zhuanlan.zhihu.com/xiaoleimlnote)
+* [Image Classification with 5 methods](https://github.com/Fdevmsy/Image_Classification_with_5_methods)
 	
 ### Benchmark/Leaderboard/Dataset ###
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
