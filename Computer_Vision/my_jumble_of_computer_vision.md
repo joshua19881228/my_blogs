@@ -430,7 +430,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Mini Caffe](https://github.com/luoyetx/mini-caffe)
 	Minimal runtime core of Caffe, Forward only, GPU support and Memory efficiency.
-
+* [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
+    Picasso is a free open-source (Eclipse Public License) DNN visualization tool that gives you partial occlusion and saliency maps with minimal fuss.
 
 
 ### News/Blogs ###
