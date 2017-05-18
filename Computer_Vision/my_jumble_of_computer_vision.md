@@ -155,7 +155,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Training object class detectors with click supervision ([PDF](https://arxiv.org/abs/1704.06228))
 * Skeleton-based Action Recognition with Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.07595))
 
-### FACE ### 
+### FACE ###
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
 * Deep Architectures for Face Attributes ([PDF](http://arxiv.org/abs/1609.09018))
 * Face Detection with End-to-End Integration of a ConvNet and a 3D Model ([PDF](https://www.arxiv.org/abs/1606.00850), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-face-detection-with-end-to-end-integration-of-a-convnet-and-a-3d-model_145/), [Project/Code](https://github.com/tfwu/FaceDetection-ConvNet-3D))
@@ -172,7 +172,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation ([PDF](https://arxiv.org/abs/1703.10131))
 * Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network ([PDF](https://arxiv.org/abs/1703.09695))
 
-### OPTICAL FLOW ### 
+### OPTICAL FLOW ###
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
 * Guided Optical Flow Learning ([PDF](https://arxiv.org/abs/1702.02295))
 
