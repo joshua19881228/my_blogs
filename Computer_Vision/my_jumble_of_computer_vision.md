@@ -111,6 +111,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Instance Flow Based Online Multiple Object Tracking ([PDF](https://arxiv.org/abs/1703.01289))
 * PathTrack: Fast Trajectory Annotation with Path Supervision ([PDF](https://arxiv.org/abs/1703.02437))
 * Good Features to Correlate for Visual Tracking ([PDF](https://arxiv.org/abs/1704.06326))
+* Re3 : Real-Time Recurrent Regression Networks for Object Tracking ([PDF](https://arxiv.org/abs/1705.06368))
 
 ### POSE ESTIMATION ###
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
