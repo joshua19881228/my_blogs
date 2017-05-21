@@ -520,6 +520,10 @@ I am going to maintain this page to record a few things about computer vision th
 	>Today we present the Mapillary Vistas Dataset—the world’s largest and most diverse publicly available, pixel-accurately and instance-specifically annotated street-level imagery dataset for empowering autonomous mobility and transport at the global scale.
 * [WEBVISION DATASET](http://www.vision.ee.ethz.ch/webvision/) 
     >The WebVision dataset is designed to facilitate the research on learning visual representation from noisy web data. Our goal is to disentangle the deep learning techniques from huge human labor on annotating large-scale vision dataset. We release this large scale web images dataset as a benchmark to advance the research on learning from web data, including weakly supervised visual representation learning, visual transfer learning, text and vision, etc. 
+* [DukeMTMC4ReID](https://github.com/NEU-Gou/DukeReID)
+    >DukeMTMC4ReID dataset is new large-scale real-world person re-id dataset based on DukeMTMC.
+* [Person Re-identification Datasets](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)
+    >Person re-identification has drawn intensive attention in the computer vision society in recent decades. As far as we know, this page collects all public datasets that have been tested by person re-identification algorithms. 
 
 ### TOOLKITS ###
 * [Caffe](http://caffe.berkeleyvision.org/)
