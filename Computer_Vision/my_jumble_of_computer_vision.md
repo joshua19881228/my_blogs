@@ -96,6 +96,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Review on Deep Learning Techniques Applied to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.06857))
 
 ### TRACKING ###
+
 * Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking ([PDF](http://arxiv.org/abs/1607.05781), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-spatially-supervised-recurrent-convolutional-neural-networks-for-visual-object-tracking_125/))
 * Joint Tracking and Segmentation of Multiple Targets ([PDF](http://milanton.de/files/cvpr2015/cvpr2015-ext-abstr-anton.pdf), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-joint-tracking-and-segmentation-of-multiple-targets_70/))
 * Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks ([PDF](https://arxiv.org/abs/1609.09365))
@@ -114,6 +115,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Re3 : Real-Time Recurrent Regression Networks for Object Tracking ([PDF](https://arxiv.org/abs/1705.06368))
 
 ### POSE ESTIMATION ###
+
 * Chained Predictions Using Convolutional Neural Networks ([PDF](http://arxiv.org/abs/1605.02346), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-chained-predictions-using-convolutional-neural-networks_108/))
 * CRF-CNN: Modeling Structured Information in Human Pose Estimation ([PDF](https://arxiv.org/abs/1611.00468))
 * Convolutional Pose Machines ([PDF](https://arxiv.org/abs/1602.00134), [Project/Code](https://github.com/shihenw/convolutional-pose-machines-release), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-convolutional-pose-machines_187/))
@@ -122,6 +124,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation ([PDF](https://arxiv.org/abs/1705.00389))
 
 ### ACTION RECOGNITION/EVENT DETECTION/VIDEO ###
+
 * Pooling the Convolutional Layers in Deep ConvNets for Action Recognition ([PDF](http://arxiv.org/abs/1511.02126), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-pooling-the-convolutional-layers-in-deep-convnets-for-action-recognition_73/))
 * Two-Stream Convolutional Networks for Action Recognition in Videos ([PDF](http://arxiv.org/abs/1406.2199), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-two-stream-convolutional-networks-for-action-recognition-in-videos_71/))
 * YouTube-8M: A Large-Scale Video Classification Benchmark ([PDF](https://arxiv.org/abs/1609.08675), [Project/Code](http://research.google.com/youtube8m))
@@ -157,6 +160,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Skeleton-based Action Recognition with Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.07595))
 
 ### FACE ###
+
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
 * Deep Architectures for Face Attributes ([PDF](http://arxiv.org/abs/1609.09018))
 * Face Detection with End-to-End Integration of a ConvNet and a 3D Model ([PDF](https://www.arxiv.org/abs/1606.00850), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-face-detection-with-end-to-end-integration-of-a-convnet-and-a-3d-model_145/), [Project/Code](https://github.com/tfwu/FaceDetection-ConvNet-3D))
@@ -174,10 +178,12 @@ I am going to maintain this page to record a few things about computer vision th
 * Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network ([PDF](https://arxiv.org/abs/1703.09695))
 
 ### OPTICAL FLOW ###
+
 * DeepFlow: Large displacement optical flow with deep matching ([PDF](https://hal.inria.fr/hal-00873592), [Project/Code](http://lear.inrialpes.fr/src/deepflow/))
 * Guided Optical Flow Learning ([PDF](https://arxiv.org/abs/1702.02295))
 
 ### IMAGE PROCESSING ###
+
 * Learning Recursive Filter for Low-Level Vision via a Hybrid Neural Network ([PDF](http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf), [Project/Code](https://github.com/Liusifei/caffe-lowlevel))
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding([PDF](https://arxiv.org/abs/1510.00149), [Project/Code](https://github.com/songhan/Deep-Compression-AlexNet))
 * A Learned Representation For Artistic Style([PDF](https://arxiv.org/abs/1610.07629))
@@ -194,6 +200,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Visual Attribute Transfer through Deep Image Analogy ([PDF](https://arxiv.org/abs/1705.01088))
 
 ### CNN AND DEEP LEARNING ###
+
 * UberNet: Training a 'Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
 * What makes ImageNet good for transfer learning? ([PDF](http://arxiv.org/abs/1608.08614), [Project/Code](http://minyounghuh.com/papers/analysis/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-what-makes-imagenet-good-for-transfer-learning_138/))
 
@@ -299,6 +306,7 @@ I am going to maintain this page to record a few things about computer vision th
 * MAGAN: Margin Adaptation for Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.03817))
 
 ### MACHINE LEARNING ###
+
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
 * [计算机视觉与机器学习 【深度学习中的激活函数】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-shen-du-xue-xi-zhong-de-ji-huo-han-shu_128/)
 * [我爱机器学习](https://www.52ml.net/) 机器学习干货站
@@ -340,7 +348,8 @@ I am going to maintain this page to record a few things about computer vision th
 
 ## INTERESTING FINDS ##
 
-### RESOURCES/PERSPECTIVES ### 
+### RESOURCES/PERSPECTIVES ###
+
 * [arXiv(Computer Vision and Pattern Recognition)](http://arxiv.org/list/cs.CV/recent) 
     A good place to explore latest papers.
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -435,6 +444,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 
 ### NEWS/BLOGS ###
+
 * [MIT Technology Review](https://www.technologyreview.com/)
     A good place to keep up the trends.
 * [LAB41](https://gab41.lab41.org/)
@@ -498,6 +508,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Image Classification with 5 methods](https://github.com/Fdevmsy/Image_Classification_with_5_methods)
 	
 ### BENCHMARK/LEADERBOARD/DATASET ###
+
 * [Visual Tracker Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html)
     This website contains data and code of the benchmark evaluation of online visual tracking algorithms. Join visual-tracking Google groups for further updates, discussions, or QnAs.
 * [Multiple Object Tracking Benchmark](https://motchallenge.net/)
@@ -526,6 +537,7 @@ I am going to maintain this page to record a few things about computer vision th
     >Person re-identification has drawn intensive attention in the computer vision society in recent decades. As far as we know, this page collects all public datasets that have been tested by person re-identification algorithms. 
 
 ### TOOLKITS ###
+
 * [Caffe](http://caffe.berkeleyvision.org/)
     Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and by community contributors. Yangqing Jia created the project during his PhD at UC Berkeley. Caffe is released under the BSD 2-Clause license.
 * [Caffe2](https://github.com/caffe2/caffe2)
@@ -558,6 +570,7 @@ I am going to maintain this page to record a few things about computer vision th
     A multi-GPU & memory-reduced MAT-Caffe on LINUX and WINDOWS
 
 ### LEARNING/TRICKS ###
+
 * [Backpropagation Algorithm](http://deeplearning.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
     A website that explain how Backpropagation Algorithm works.
 * [Deep Learning (textbook authored by Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org/)
@@ -599,11 +612,13 @@ I am going to maintain this page to record a few things about computer vision th
 ## SKILLS ##
 
 ### ABOUT CAFFE ###
+
 * [Set Up Caffe on Ubuntu14.04 64bit+NVIDIA GTX970M+CUDA7.0](http://joshua881228.webfactional.com/blog_set-up-caffe-on-ubuntu1404-64bitnvidia-gtx970mcuda70_55/)
 * [VS2013配置Caffe卷积神经网络工具（64位Windows 7）——建立工程](http://blog.csdn.net/joshua_1988/article/details/45048871)
 * [VS2013配置Caffe卷积神经网络工具（64位Windows 7）——准备依赖库](http://blog.csdn.net/joshua_1988/article/details/45036993)
 
 ### SETTING UP ###
+
 * [Installation of NVIDIA GPU Driver and CUDA Toolkit](http://joshua881228.webfactional.com/blog_installation-of-nvidia-gpu-driver-and-cuda-toolkit_54/)
 * [Tensorflow v0.10 installed from scratch on Ubuntu 16.04, CUDA 8.0RC+Patch, cuDNN v5.1 with a 1080GTX](https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/)
 * [DL小钢炮攒机心得 | 帮你踩坑](https://mp.weixin.qq.com/s?__biz=MzIzMzI0NjkwMw==&mid=2652210076&idx=1&sn=f7150cc62d68eb9fc29d3a65f9834104)
