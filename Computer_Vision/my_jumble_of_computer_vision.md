@@ -281,6 +281,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Speeding up Convolutional Neural Networks By Exploiting the Sparsity of Rectifier Units ([PDF](https://arxiv.org/abs/1704.07724))
 * Inception Recurrent Convolutional Neural Network for Object Recognition ([PDF](https://arxiv.org/abs/1704.07709))
 * Residual Attention Network for Image Classification ([PDF](https://arxiv.org/abs/1704.06904))
+* The Landscape of Deep Learning Algorithms ([PDF](https://arxiv.org/abs/1705.07038))
+* Pixel Deconvolutional Networks ([PDF](https://arxiv.org/abs/1705.06820))
 
 ### GAN ###
 
