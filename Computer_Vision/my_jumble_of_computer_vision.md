@@ -42,6 +42,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Unsupervised learning from video to detect foreground objects in single images ([PDF](https://arxiv.org/abs/1703.10901))
 * A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection ([PDF](http://www.cs.cmu.edu/~xiaolonw/papers/CVPR2017_Adversarial_Det.pdf), [Project/Code](https://github.com/xiaolonw/adversarial-frcnn))
 * A Learning non-maximum suppression ([PDF](https://arxiv.org/abs/1705.02950))
+* Real Time Image Saliency for Black Box Classifiers ([PDF](https://arxiv.org/abs/1705.07857))
 
 ### SEGMENTATION/PARSING ###
 
@@ -346,6 +347,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Mixture of Counting CNNs: Adaptive Integration of CNNs Specialized to Specific Appearance for Crowd Counting ([PDF](https://arxiv.org/abs/1703.09393))
 * Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art ([PDF](https://arxiv.org/abs/1704.05519), [Project/Code](http://www.cvlibs.net/projects/autonomous_vision_survey/))
 * Learning Features by Watching Objects Move ([PDF](https://arxiv.org/abs/1612.06370), [Project/Code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/))
+* GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence ([PDF](http://jwbian.net/Papers/GMS_CVPR17.pdf), [Project/Code](http://jwbian.net/gms))
 
 
 ## INTERESTING FINDS ##
