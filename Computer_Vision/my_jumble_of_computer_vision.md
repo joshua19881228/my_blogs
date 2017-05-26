@@ -159,6 +159,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Interpretable 3D Human Action Analysis with Temporal Convolutional Networks ([PDF](https://arxiv.org/abs/1704.04516))
 * Training object class detectors with click supervision ([PDF](https://arxiv.org/abs/1704.06228))
 * Skeleton-based Action Recognition with Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.07595))
+* Online growing neural gas for anomaly detection in changing surveillance scenes ([PDF](https://www.researchgate.net/publication/309101586_Online_growing_neural_gas_for_anomaly_detection_in_changing_surveillance_scenes))
 
 ### FACE ###
 
