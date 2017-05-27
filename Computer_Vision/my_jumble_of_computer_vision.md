@@ -446,7 +446,7 @@ I am going to maintain this page to record a few things about computer vision th
 	Minimal runtime core of Caffe, Forward only, GPU support and Memory efficiency.
 * [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
     Picasso is a free open-source (Eclipse Public License) DNN visualization tool that gives you partial occlusion and saliency maps with minimal fuss.
-
+* [pix2code: Generating Code from a Graphical User Interface Screenshot](https://uizard.io/research#pix2code)
 
 ### NEWS/BLOGS ###
 
