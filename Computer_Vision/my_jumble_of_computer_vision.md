@@ -350,7 +350,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning Features by Watching Objects Move ([PDF](https://arxiv.org/abs/1612.06370), [Project/Code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/))
 * GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence ([PDF](http://jwbian.net/Papers/GMS_CVPR17.pdf), [Project/Code](http://jwbian.net/gms))
 * Person Re-identification by Local Maximal Occurrence Representation and Metric Learning ([PDF](http://www.cbsr.ia.ac.cn/users/scliao/papers/Liao-CVPR15-LOMO-XQDA.pdf), [Project/Code](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/))
-
+*  Person Re-identification: Past, Present and Future ([PDF](https://arxiv.org/abs/1610.02984))
 
 ## INTERESTING FINDS ##
 
