@@ -349,6 +349,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art ([PDF](https://arxiv.org/abs/1704.05519), [Project/Code](http://www.cvlibs.net/projects/autonomous_vision_survey/))
 * Learning Features by Watching Objects Move ([PDF](https://arxiv.org/abs/1612.06370), [Project/Code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/))
 * GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence ([PDF](http://jwbian.net/Papers/GMS_CVPR17.pdf), [Project/Code](http://jwbian.net/gms))
+* Person Re-identification by Local Maximal Occurrence Representation and Metric Learning ([PDF](http://www.cbsr.ia.ac.cn/users/scliao/papers/Liao-CVPR15-LOMO-XQDA.pdf), [Project/Code](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/))
 
 
 ## INTERESTING FINDS ##
