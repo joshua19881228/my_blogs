@@ -285,6 +285,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Residual Attention Network for Image Classification ([PDF](https://arxiv.org/abs/1704.06904))
 * The Landscape of Deep Learning Algorithms ([PDF](https://arxiv.org/abs/1705.07038))
 * Pixel Deconvolutional Networks ([PDF](https://arxiv.org/abs/1705.06820))
+* Dilated Residual Networks ([PDF](https://arxiv.org/abs/1705.09914))
 
 ### GAN ###
 
