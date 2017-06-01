@@ -114,6 +114,7 @@ I am going to maintain this page to record a few things about computer vision th
 * PathTrack: Fast Trajectory Annotation with Path Supervision ([PDF](https://arxiv.org/abs/1703.02437))
 * Good Features to Correlate for Visual Tracking ([PDF](https://arxiv.org/abs/1704.06326))
 * Re3 : Real-Time Recurrent Regression Networks for Object Tracking ([PDF](https://arxiv.org/abs/1705.06368))
+* Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning ([PDF](https://drive.google.com/file/d/0B34VXh5mZ22cZUs2Umc1cjlBMFU/view), [Project/Code](https://sites.google.com/view/cvpr2017-adnet))
 
 ### POSE ESTIMATION ###
 
@@ -286,6 +287,7 @@ I am going to maintain this page to record a few things about computer vision th
 * The Landscape of Deep Learning Algorithms ([PDF](https://arxiv.org/abs/1705.07038))
 * Pixel Deconvolutional Networks ([PDF](https://arxiv.org/abs/1705.06820))
 * Dilated Residual Networks ([PDF](https://arxiv.org/abs/1705.09914))
+* A Kernel Redundancy Removing Policy for Convolutional Neural Network ([PDF](https://arxiv.org/abs/1705.10748))
 
 ### GAN ###
 
@@ -309,6 +311,7 @@ I am going to maintain this page to record a few things about computer vision th
 * GP-GAN: Towards Realistic High-Resolution Image Blending ([PDF](https://arxiv.org/abs/1703.07195), [Project/Code](https://github.com/wuhuikai/GP-GAN))
 * BEGAN: Boundary Equilibrium Generative Adversarial Networks ([PDF](https://www.arxiv.org/abs/1703.10717))
 * MAGAN: Margin Adaptation for Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.03817))
+* Pose Guided Person Image Generation ([PDF](https://arxiv.org/abs/1705.09368))
 
 ### MACHINE LEARNING ###
 
@@ -351,7 +354,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning Features by Watching Objects Move ([PDF](https://arxiv.org/abs/1612.06370), [Project/Code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/))
 * GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence ([PDF](http://jwbian.net/Papers/GMS_CVPR17.pdf), [Project/Code](http://jwbian.net/gms))
 * Person Re-identification by Local Maximal Occurrence Representation and Metric Learning ([PDF](http://www.cbsr.ia.ac.cn/users/scliao/papers/Liao-CVPR15-LOMO-XQDA.pdf), [Project/Code](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/))
-*  Person Re-identification: Past, Present and Future ([PDF](https://arxiv.org/abs/1610.02984))
+* Person Re-identification: Past, Present and Future ([PDF](https://arxiv.org/abs/1610.02984))
+* ResnetCrowd: A Residual Deep Learning Architecture for Crowd Counting, Violent Behaviour Detection and Crowd Density Level Classification ([PDF](https://arxiv.org/abs/1705.10698))
 
 ## INTERESTING FINDS ##
 
@@ -449,6 +453,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [Picasso: A free open-source visualizer for Convolutional Neural Networks](https://medium.com/merantix/picasso-a-free-open-source-visualizer-for-cnns-d8ed3a35cfc5)
     Picasso is a free open-source (Eclipse Public License) DNN visualization tool that gives you partial occlusion and saliency maps with minimal fuss.
 * [pix2code: Generating Code from a Graphical User Interface Screenshot](https://uizard.io/research#pix2code)
+* [MTCNN-light](https://github.com/AlphaQi/MTCNN-light)
+    this repository is the implementation of MTCNN with no framework, Just need opencv and openblas. "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with C++，no framework
 
 ### NEWS/BLOGS ###
 
