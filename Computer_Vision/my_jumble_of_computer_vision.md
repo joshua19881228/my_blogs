@@ -265,7 +265,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models ([PDF](https://arxiv.org/abs/1702.03275))
 * Visualizing Deep Neural Network Decisions: Prediction Difference Analysis ([PDF](https://arxiv.org/abs/1702.04595), [Project/Code](https://github.com/lmzintgraf/DeepVis-PredDiff))
 * ShaResNet: reducing residual network parameter number by sharing weights ([PDF](https://arxiv.org/abs/1702.08782))
-* Deep Forest: Towards An Alternative to Deep Neural Networks ([PDF](https://arxiv.org/abs/1702.08835))
+* Deep Forest: Towards An Alternative to Deep Neural Networks ([PDF](https://arxiv.org/abs/1702.08835), [Project/Code](https://github.com/kingfengji/gcForest))
 * All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation ([PDF](https://arxiv.org/abs/1703.01827))
 * Genetic CNN ([PDF](https://arxiv.org/abs/1703.01513))
 * Deformable Convolutional Networks ([PDF](https://arxiv.org/abs/1703.06211))
@@ -312,6 +312,7 @@ I am going to maintain this page to record a few things about computer vision th
 * BEGAN: Boundary Equilibrium Generative Adversarial Networks ([PDF](https://www.arxiv.org/abs/1703.10717))
 * MAGAN: Margin Adaptation for Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.03817))
 * Pose Guided Person Image Generation ([PDF](https://arxiv.org/abs/1705.09368))
+* On the Effects of Batch and Weight Normalization in Generative Adversarial Networks ([PDF](https://arxiv.org/abs/1704.03971), [Project/Code](https://github.com/stormraiser/GAN-weight-norm))
 
 ### MACHINE LEARNING ###
 
