@@ -520,6 +520,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [晓雷机器学习笔记](https://zhuanlan.zhihu.com/xiaoleimlnote)
 * [Image Classification with 5 methods](https://github.com/Fdevmsy/Image_Classification_with_5_methods)
+* [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 	
 ### BENCHMARK/LEADERBOARD/DATASET ###
 
