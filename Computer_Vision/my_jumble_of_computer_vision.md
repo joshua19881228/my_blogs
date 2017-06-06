@@ -161,6 +161,8 @@ I am going to maintain this page to record a few things about computer vision th
 * Training object class detectors with click supervision ([PDF](https://arxiv.org/abs/1704.06228))
 * Skeleton-based Action Recognition with Convolutional Neural Networks ([PDF](https://arxiv.org/abs/1704.07595))
 * Online growing neural gas for anomaly detection in changing surveillance scenes ([PDF](https://www.researchgate.net/publication/309101586_Online_growing_neural_gas_for_anomaly_detection_in_changing_surveillance_scenes))
+* Learning Person Trajectory Representations for Team Activity Analysis ([PDF](https://arxiv.org/abs/1706.00893))
+* Concurrence-Aware Long Short-Term Sub-Memories for Person-Person Action Recognition ([PDF](https://arxiv.org/abs/1706.00931))
 
 ### FACE ###
 
