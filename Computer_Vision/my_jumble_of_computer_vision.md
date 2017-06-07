@@ -622,9 +622,10 @@ I am going to maintain this page to record a few things about computer vision th
 * [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
 * [令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
-* [生成式对抗网络 GAN 的研究进展与展望 ](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651995256&idx=1&sn=f508a61ebd4792b4b407ac7418c4f1ab)
+* [生成式对抗网络 GAN 的研究进展与展望](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651995256&idx=1&sn=f508a61ebd4792b4b407ac7418c4f1ab)
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://www.medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 * [见微知著：细粒度图像分析进展](http://geek.csdn.net/news/detail/191718)
+* [目标跟踪相关资源](https://zhuanlan.zhihu.com/p/27292838)
 
 ## SKILLS ##
 
