@@ -95,6 +95,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Reformulating Level Sets as Deep Recurrent Neural Network Approach to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.03593))
 * Learning Video Object Segmentation with Visual Memory ([PDF](https://arxiv.org/abs/1704.05737))
 * A Review on Deep Learning Techniques Applied to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.06857))
+* BiSeg: Simultaneous Instance Segmentation and Semantic Segmentation with Fully Convolutional Networks ([PDF](https://arxiv.org/abs/1706.02135))
 
 ### TRACKING ###
 
@@ -523,6 +524,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [晓雷机器学习笔记](https://zhuanlan.zhihu.com/xiaoleimlnote)
 * [Image Classification with 5 methods](https://github.com/Fdevmsy/Image_Classification_with_5_methods)
 * [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+* [基于深度卷积神经网络进行人脸识别的原理是什么](https://www.zhihu.com/question/60759296/answer/180176680)
 	
 ### BENCHMARK/LEADERBOARD/DATASET ###
 
