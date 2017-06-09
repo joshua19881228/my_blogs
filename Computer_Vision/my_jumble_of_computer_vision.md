@@ -43,6 +43,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection ([PDF](http://www.cs.cmu.edu/~xiaolonw/papers/CVPR2017_Adversarial_Det.pdf), [Project/Code](https://github.com/xiaolonw/adversarial-frcnn))
 * A Learning non-maximum suppression ([PDF](https://arxiv.org/abs/1705.02950))
 * Real Time Image Saliency for Black Box Classifiers ([PDF](https://arxiv.org/abs/1705.07857))
+* An Efficient Approach for Object Detection and Tracking of Objects in a Video with Variable Background ([PDF](https://arxiv.org/abs/1706.02672))
 
 ### SEGMENTATION/PARSING ###
 
@@ -291,6 +292,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Pixel Deconvolutional Networks ([PDF](https://arxiv.org/abs/1705.06820))
 * Dilated Residual Networks ([PDF](https://arxiv.org/abs/1705.09914))
 * A Kernel Redundancy Removing Policy for Convolutional Neural Network ([PDF](https://arxiv.org/abs/1705.10748))
+* Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour ([PDF](https://arxiv.org/abs/1706.02677))
 
 ### GAN ###
 
