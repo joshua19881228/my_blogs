@@ -183,6 +183,7 @@ I am going to maintain this page to record a few things about computer vision th
 * EmotioNet Challenge: Recognition of facial expressions of emotion in the wild ([PDF](https://arxiv.org/abs/1703.01210))
 * Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation ([PDF](https://arxiv.org/abs/1703.10131))
 * Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network ([PDF](https://arxiv.org/abs/1703.09695))
+* Deep Alignment Network: A convolutional neural network for robust face alignment ([PDF](https://arxiv.org/abs/1706.01789), [Project/Code](https://github.com/MarekKowalski/DeepAlignmentNetwork))
 
 ### OPTICAL FLOW ###
 
