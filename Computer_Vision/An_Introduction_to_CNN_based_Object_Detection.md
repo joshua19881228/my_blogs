@@ -20,4 +20,15 @@
 
 ![Goal of Object Detection](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/Goal_of_Detection.png "Goal of Object Detection =480")
 
-# 2.
+# 2. Brief Revisit to the "Ancient" Algorithm #
+
+## 2.1 Histograms of Gradients (HOG) ##
+
+![Goal of Object Detection](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/HOG.png "Goal of Object Detection =640")
+
+* Calculate gradient for each pixel
+* For each **Cell**, a histogram of gradient is computed
+* For each **Block**, a HOG feature is extracted by concatenating histograms of each Cell
+
+If Block size = 16\*16, Block stride = 8, Cell size = 8\*8, Bin size = 9, Slide-window size = 128\*64, then HOG feature is a 3780-d feature. #Block=((64-16)/8+1)\*((128-16)/8+1)=105, #Cell=(16/8)\*(16/8)=4, 105\*4\*9=3780
+
