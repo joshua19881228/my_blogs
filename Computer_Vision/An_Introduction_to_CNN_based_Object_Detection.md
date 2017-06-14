@@ -31,3 +31,10 @@
 * For each **Block**, a HOG feature is extracted by concatenating histograms of each Cell
 
 If Block size = 16\*16, Block stride = 8, Cell size = 8\*8, Bin size = 9, Slide-window size = 128\*64, then HOG feature is a 3780-d feature. #Block=((64-16)/8+1)\*((128-16)/8+1)=105, #Cell=(16/8)\*(16/8)=4, 105\*4\*9=3780
+
+## 2.2 Deformable Part Models (DPM) ##
+
+![DPM](raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/DPM.png "DPM =640")
+
+$$ D__{_i,l}(x,y) = \max \limits__{dx,dy} (R_{i,l}(x+dx, y+dy)-d_{i}\cdot \phi_{d}(dx,dy)) _$$
+
