@@ -34,7 +34,10 @@ If Block size = 16\*16, Block stride = 8, Cell size = 8\*8, Bin size = 9, Slide-
 
 ## 2.2 Deformable Part Models (DPM) ##
 
-![DPM](raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/DPM.png "DPM =640")
+![DPM](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/DPM.png "DPM =640")
 
-$$ D__{_i,l}(x,y) = \max \limits__{dx,dy} (R_{i,l}(x+dx, y+dy)-d_{i}\cdot \phi_{d}(dx,dy)) _$$
+$$ D_{i,l}(x,y) = \max \limits_{dx,dy} (R_{i,l}(x+dx, y+dy)-d_{i}\cdot \phi_{d}(dx,dy)) $$
+
+This transformation spreads high filter scores to nearby locations, taking into account the deformation costs.
+
 
