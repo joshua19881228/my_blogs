@@ -34,10 +34,13 @@ If Block size = 16\*16, Block stride = 8, Cell size = 8\*8, Bin size = 9, Slide-
 
 ## 2.2 Deformable Part Models (DPM) ##
 
-![DPM](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/DPM.png "DPM =640")
+![DPM](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/DPM.png "DPM =480")
 
 $$ D_{i,l}(x,y) = \max \limits_{dx,dy} (R_{i,l}(x+dx, y+dy)-d_{i}\cdot \phi_{d}(dx,dy)) $$
 
 This transformation spreads high filter scores to nearby locations, taking into account the deformation costs.
 
+$$ score(x_{0},y_{0},l_{0}) = R-{0,l_{0}}(x_{0},y_{0})+ \sum_{i=1}^{n} D_{i, l_{0}-\lamda}(2(x_{0},y_{0})+v_{i})+b $$
+
+The overall root scores at each level can be expressed by the sum of the root filter response at that level, plus shifted versions of transformed and sub-sampled part responses.
 
