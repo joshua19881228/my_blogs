@@ -83,7 +83,7 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ## 3.4 Interesting Details – FP Error Types ##
 
-* Loc: poor localization, 0.1<IOU<0.5
+* Loc: poor localization, 0.1 < IOU < 0.5
 * Sim: confusion with a similar category
 * Oth: confusion with a dissimilar object category
 * BG: a FP that fired on background
