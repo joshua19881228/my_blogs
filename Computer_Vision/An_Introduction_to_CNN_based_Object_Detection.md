@@ -94,23 +94,49 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.2.1 What's Wrong with RCNN  ###
     
-* Training is a multi-stage pipeline
-    
-    Proposal, Fine-tune, SVMs, Regressors
+* Training is a multi-stage pipeline (Proposal, Fine-tune, SVMs, Regressors)
+* Training is expensive in space and time (Extract feature from every proposal, Need to save to disk)
+* Oject detection is slow (47 s/img on K40)
 
-* Training is expensive in space and time
-    
-    Extract feature from every proposal, Need to save to disk
-
-* Oject detection is slow
-    
-    47 s/img on K40
-
-### 3.2.2 R-CNN with ROI Pooling
+### 3.2.2 R-CNN with ROI Pooling ###
 
 * Region proposals (Selective Search, ~2k)
 * CNN features (AlexNet, VGG-16, ROI in feature map)
 * Classifier (sub-network softmax)
 * Bounding box (sub-network regressor)
 * Run-time speed (VGG-16, 0.32 s/img on single K40 GPU)
+
+### 3.2.3 ROI Pooling ###
+
+* Inspired by Spatial Pyramid Pooling (SPPNet)
+* Convert arbitrary input size to fixed length
+
+    1. The input is an ROI area in feature map
+    2. The input is divided into grids
+    3. In each grid, pooling is used to extract features
+
+### 3.2.4 Experiment Result (VGG16) ###
+
+### 3.2.5 Interesting Details – Training ###
+
+*Pre-trained on ILSVRC2012 classification task
+*Fine-tuned with N+1 classes and two sibling layers
+
+    1. Fine-tune the whole network
+    2. Each mini-batch has 2 images and 64 ROIs from each images
+    3. 25% of the ROIs have IOU>0.5 with ground-truth as positive samples
+    4. The rest of the ROIs have IOU [0.1, 0.5) with ground-truth as background samples
+    5. Multi-task loss, one loss for classification and one for bounding box regression
+    6. ROI pooling back-propagation is similar with max-pooling
+
+* Accelerate using truncated SVD
+
+    Implemented by using two FCs without non-linear activation
+
+* Training time
+
+    1. 146x faster than R-CNN
+    2. If accelerated with truncated SVD, 213x faster than R-CNN
+
+### 3.2.6 Interesting Details – Design evaluation ###
 
