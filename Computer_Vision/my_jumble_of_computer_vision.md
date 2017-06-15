@@ -165,6 +165,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Online growing neural gas for anomaly detection in changing surveillance scenes ([PDF](https://www.researchgate.net/publication/309101586_Online_growing_neural_gas_for_anomaly_detection_in_changing_surveillance_scenes))
 * Learning Person Trajectory Representations for Team Activity Analysis ([PDF](https://arxiv.org/abs/1706.00893))
 * Concurrence-Aware Long Short-Term Sub-Memories for Person-Person Action Recognition ([PDF](https://arxiv.org/abs/1706.00931))
+* Video Imagination from a Single Image with Transformation Generation ([PDF](https://arxiv.org/abs/1706.04124), [Project/Code](https://github.com/gitpub327/VideoImagination))
 
 ### FACE ###
 
@@ -294,6 +295,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Dilated Residual Networks ([PDF](https://arxiv.org/abs/1705.09914))
 * A Kernel Redundancy Removing Policy for Convolutional Neural Network ([PDF](https://arxiv.org/abs/1705.10748))
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour ([PDF](https://arxiv.org/abs/1706.02677))
+* Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification ([PDF](https://arxiv.org/abs/1702.05891), [Project/Code](https://github.com/zhufengx/SRN_multilabel/))
 
 ### GAN ###
 
