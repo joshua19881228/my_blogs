@@ -44,9 +44,11 @@ $$ score(x_{0},y_{0},l_{0}) = R-{0,l_{0}}(x_{0},y_{0})+ \sum_{i=1}^{n} D_{i, l_{
 
 The overall root scores at each level can be expressed by the sum of the root filter response at that level, plus shifted versions of transformed and sub-sampled part responses.
 
-# 3. Epochal Evolution of R-CNN: RCNN #
+# 3. Epochal Evolution of R-CNN
 
-## 3.1 Regions with CNN Features ##
+## 3.1 RCNN ##
+
+### 3.1.1 Regions with CNN Features ###
 
 * Region proposals (Selective Search, ~2k)
 * CNN features (AlexNet, VGG-16, warped region in image)
@@ -54,13 +56,13 @@ The overall root scores at each level can be expressed by the sum of the root fi
 * Bounding box (Class-specific regressor)
 * Run-time speed (VGG-16, 47 s/img on single K40 GPU)
 
-## 3.2 Experiment Result (AlexNet) ##
+### 3.1.2 Experiment Result (AlexNet) ###
 
 * Without FT, fc7 is worse than fc6, pool5 is quite competitive. Much of the CNN’s representational power comes from its convolutional layers, rather than from the much larger densely connected layers.
 * With FT, The boost from fine-tuning is much larger for fc6 and fc7 than for pool5. Pool5 features are general. Learning domain-specific non-linear classifiers helps a lot.
 * Bounding box regression helps reduce localization errors. 
 
-## 3.3 Interesting Details – Training ##
+### 3.1.3 Interesting Details – Training ###
 
 * Pre-trained on ILSVRC2012 classification task
 * Fine-tuned on proposals with N+1 classes without any modification to the network
@@ -81,10 +83,34 @@ The overall root scores at each level can be expressed by the sum of the root fi
     3. Only the proposals IOU>0.6 overlap ground-truth
     4. Coordinates in pixel
 
-## 3.4 Interesting Details – FP Error Types ##
+### 3.1.4 Interesting Details – FP Error Types ###
 
 * Loc: poor localization, 0.1 < IOU < 0.5
 * Sim: confusion with a similar category
 * Oth: confusion with a dissimilar object category
 * BG: a FP that fired on background
+
+## 3.2 Fast-RCNN ##
+
+### 3.2.1 What's Wrong with RCNN  ###
+    
+* Training is a multi-stage pipeline
+    
+    Proposal, Fine-tune, SVMs, Regressors
+
+* Training is expensive in space and time
+    
+    Extract feature from every proposal, Need to save to disk
+
+* Oject detection is slow
+    
+    47 s/img on K40
+
+### 3.2.2 R-CNN with ROI Pooling
+
+* Region proposals (Selective Search, ~2k)
+* CNN features (AlexNet, VGG-16, ROI in feature map)
+* Classifier (sub-network softmax)
+* Bounding box (sub-network regressor)
+* Run-time speed (VGG-16, 0.32 s/img on single K40 GPU)
 
