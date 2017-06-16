@@ -119,8 +119,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.2.5 Interesting Details – Training ###
 
-*Pre-trained on ILSVRC2012 classification task
-*Fine-tuned with N+1 classes and two sibling layers
+* Pre-trained on ILSVRC2012 classification task
+* Fine-tuned with N+1 classes and two sibling layers
 
     1. Fine-tune the whole network
     2. Each mini-batch has 2 images and 64 ROIs from each images
@@ -262,7 +262,7 @@ The overall root scores at each level can be expressed by the sum of the root fi
 * Most effective among real-time detectors
 * Most efficient among near real-time detectors
 
-### Limitations ###
+### 4.1.4 Limitations ###
 
 * Too few bounding boxes
 
@@ -272,4 +272,24 @@ The overall root scores at each level can be expressed by the sum of the root fi
 * Data driven
 
     1. Sensitive to new or rare ration
+
+### 4.1.5 Interesting Details – Training ###
+
+* Pre-train the first 20 layers on ImageNet
+* Pre-train on 224*224 images
+* Fine-tune 24 layers on detection dataset
+* Fine-tune on 448*448 images
+* Tricks to balance loss
+
+    1. Weight: localization vs. classification
+    2. Weight: positive vs. negative of objectness
+    3. Square root: large object vs. small object
+
+* “Warm up” to start training
+
+    1. For first epoch, raise 0.001 to 0.01
+    2. 0.01 for 75 epochs
+    3. 0.001 for 30 epochs
+    4. 0.0001 for 30 epochs
+
 
