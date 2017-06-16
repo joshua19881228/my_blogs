@@ -5,18 +5,18 @@
 * HOG (before \*2007)
 * DPM (\*2010~2014)
 
-## Epochal Evolution of R-CNN
+## Epochal Evolution of R-CNN ##
 
 * R-CNN \*2014
 * Fast-RCNN \*2015
 * Faster-RCNN \*2015
 
-## Efficient One-shot Methods
+## Efficient One-shot Methods ##
 
 * YOLO
 * SSD
 
-## Others
+## Others ##
 
 ![Goal of Object Detection](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/Goal_of_Detection.png "Goal of Object Detection =480")
 
@@ -44,7 +44,7 @@ $$ score(x_{0},y_{0},l_{0}) = R-{0,l_{0}}(x_{0},y_{0})+ \sum_{i=1}^{n} D_{i, l_{
 
 The overall root scores at each level can be expressed by the sum of the root filter response at that level, plus shifted versions of transformed and sub-sampled part responses.
 
-# 3. Epochal Evolution of R-CNN
+# 3. Epochal Evolution of R-CNN #
 
 ## 3.1 RCNN ##
 
@@ -292,4 +292,84 @@ The overall root scores at each level can be expressed by the sum of the root fi
     3. 0.001 for 30 epochs
     4. 0.0001 for 30 epochs
 
+## 4.2 SSD ##
+
+### 4.2.1 Single Shot MultiBox Detector ###
+
+* Combine anchor and one-shot prediction
+* Extract multi-scale features
+* Refine multi-scale and multi-ratio anchors
+* Dilated convolution
+
+### 4.2.2 Multi-scale Prediction ###
+
+* Multi-scale and Multi-ratio anchors
+
+    1. Each feature map cell corresponds to k anchors
+    2. Similar to Faster-RCNN, but in multi-scale feature map and directly output category info
+
+* Multi-scale feature maps for detection
+
+    1. Additional layers are added to the base network
+    2. Different filters are applied to different scale/ratio anchors
+    3. (c+4)k filters for k anchors and c categories in one cell, (c+4)kmn outputs for  an m*n feature map
+
+### 4.2.3 Experiment Result ###
+
+### 4.2.4 Interesting Details – Training ###
+
+* Matching anchors with ground-truth
+
+    1. Match each ground-truth to a default box with the best IOU
+    2. Match the anchor to any ground truth with IOU higher than a threshold
+
+* Training objective
+* Scales and aspect ratios for anchors
+
+    1. Regularly spaced scales 
+    2. {1,2,3,1/2,1/3} – 6 ratios
+
+* Hard negative mining
+
+    1. Sort the anchors using the highest confidence loss
+    2. Pick the top ones so that neg:pos = 3:1
+
+* Data augmentation
+
+    1. Sample randomly from training images
+    2. Entire input image
+    3. Sample a patch so that min IOU with object is 0.1, 0.3, 0.5, 0.7 or 0.9
+    4. Randomly sample a patch, [0.1, 1] of the image, aspect ration [1/2, 2], randomly flip
+
+* Comparison
+
+# 5 Others #
+
+* PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection
+
+    1. Variant of Faster-RCNN
+    2. Design of architecture
+
+* Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
+
+    1. Both local and global information are take into account
+    2. Skip pooling uses the information of different scales
+
+* R-FCN: Object Detection via Region-based Fully Convolutional Networks
+
+    1. Position-sensitive RoI pooling
+
+* Feature Pyramid Networks for Object Detection
+
+    1. lateral connections is developed for building high-level semantic feature maps at all scales
+
+* Beyond Skip Connections: Top-Down Modulation for Object Detection
+
+    1. Similar with FPN
+
+* YOLO9000: Better, Faster, Stronger
+
+    1. Better, Faster, Stronger
+
+* DSSD: Deconvolutional Single Shot Detector
 
