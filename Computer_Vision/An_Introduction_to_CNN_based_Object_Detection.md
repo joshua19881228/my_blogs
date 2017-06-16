@@ -140,3 +140,136 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.2.6 Interesting Details – Design evaluation ###
 
+* Does multi-task training help? Yes, it does!
+* Test with multiple scales? Yes but with cost.
+* Do SVMs outperform softmax? Interesting…
+
+## 3.3 Faster-RCNN ##
+
+### 3.3.1 Room to improve Fast-RCNN ###
+
+* Region proposal has become the bottleneck
+* 2s for Selective Search, 0.320s for Fast-RCNN
+* Why not a unified end-to-end framework
+
+### 3.3.2 Fast-RCNN with RPN (Region Proposal Network) ###
+
+* Region proposals (RPN, ~300)
+* Classifier (sub-network softmax)
+* Bounding box (RPN regressor, sub-network regressor)
+* Run-time speed (VGG-16, 0.198 s/img on single K40 GPU)
+
+### 3.3.3 Region Proposal Network ###
+
+* Anchors
+
+    1. reference box, prior box, default box
+    2. Works in a slide-window way
+    3. Implemented by 3*3 kernel convolution
+    4. Centered at the slide-window
+
+* Translation-Invariant
+
+    1. If objects translated, proposal should be translated
+    2. Translated along slide-window
+
+* Multi-Scale and Multi-Ratio
+
+    1. A pyramid of anchors
+    2. A set of different ratios
+    3. Relies on single scale feature map
+
+* Objectness and Localization
+
+    1. Two siblings
+    2. Objectness score
+    3. Bounding box regression
+
+### 3.3.4 Experiment Result ###
+
+### 3.3.5 Interesting Details – Training ###
+
+* Sharing Features for RPN and Fast-RCNN
+
+    1. Alternating training
+    2. Approximate joint training
+    3. Non-approximate joint training
+
+* Alternating Training
+
+    1. Train RPN(@) using pre-trained model
+    2. Train Fast-RCNN(#) using pre-trained model and @’s proposal
+    3. Train RPN($) using #’s weight with shared layers fixed
+    4. Train Fast-RCNN using $’s proposal with shared layers fixed
+
+* Training RPN
+
+    1. Each mini-batch arises from a single image
+    2. Positive samples: the anchors with (1) the highest IOU and (2) IOU>0.7 overlap with any ground-truth
+    3. Negative samples: IOU<0.3 overlap with all ground-truth
+    4. Randomly sample 256 anchors, pos:neg = 1:1
+    5. Loss function with Ncls=256, Nreg=~2400, λ=10
+    6. Anchors cross image boundaries do not contribute at training stage
+
+### 3.3.6 Interesting Details – Design Evaluation ###
+
+* Ablation on RPN
+
+    1. Sharing: Detector feature helps RPN
+    2. RPN generate quite good proposals
+    3. No cls, randomly selecting proposal, score matters
+    4. No reg, worse localization error
+
+* Timing
+
+    1. Nearly cost free
+    2. Less proposal
+
+* Anchors
+
+    1. Scale is more effective
+
+
+# 4 Efficient One-shot Methods #
+
+## 4.1 YOLO ##
+
+### 4.1.1 You Only Look Once ###
+
+* A simple forward on the full image (almost same with a classification task)
+* Frame object detection as a regression problem (bounding box coordinates, class probabilities)
+* Extremely fast (45 fps for base network, or 150 fps for fast version)
+* Reasoning globally on the full context (no slide-window or region proposals)
+* Generalizable representations of objects (stable from natural images to artwork)
+
+### 4.1.2 Unified Detection ###
+
+* The input is divided into S x S grid
+* Each grid cell predicts B bounding boxes
+* 5 predictions for one bounding box: x, y, w, h, score
+
+    1. (x, y) center of the box relative to the bounds of grid
+    2. w, h are width and height relative to the whole image
+    3. the score is a measure of objectness
+
+* Each grid cell predicts C conditional class probabilities
+* Class-specific confidence score is defined as
+* One predictor is “responsible” for an object having the highest IOU with the ground-truth
+* The output is an SxSx(Bx5+C) tensor
+
+### 4.1.3 Experiment Result ###
+
+* Most effective among real-time detectors
+* Most efficient among near real-time detectors
+
+### Limitations ###
+
+* Too few bounding boxes
+
+    1. Nearby objects
+    2.  Small objects
+
+* Data driven
+
+    1. Sensitive to new or rare ration
+
