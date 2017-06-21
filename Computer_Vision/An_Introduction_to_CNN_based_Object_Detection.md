@@ -50,7 +50,7 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.1.1 Regions with CNN Features ###
 
-![DPM](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/RCNN.png "DPM =640")
+![RCNN](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/RCNN.png "RCNN =640")
 
 * Region proposals (Selective Search, ~2k)
 * CNN features (AlexNet, VGG-16, warped region in image)
@@ -59,6 +59,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
 * Run-time speed (VGG-16, 47 s/img on single K40 GPU)
 
 ### 3.1.2 Experiment Result (AlexNet) ###
+
+![RCNN_Result](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/RCNN_Result.png "RCNN_Result =640")
 
 * Without FT, fc7 is worse than fc6, pool5 is quite competitive. Much of the CNN’s representational power comes from its convolutional layers, rather than from the much larger densely connected layers.
 * With FT, The boost from fine-tuning is much larger for fc6 and fc7 than for pool5. Pool5 features are general. Learning domain-specific non-linear classifiers helps a lot.
@@ -86,6 +88,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
     4. Coordinates in pixel
 
 ### 3.1.4 Interesting Details – FP Error Types ###
+
+![RCNN_Error](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/RCNN_Error.png "RCNN_Error =640")
 
 * Loc: poor localization, 0.1 < IOU < 0.5
 * Sim: confusion with a similar category
