@@ -50,6 +50,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.1.1 Regions with CNN Features ###
 
+![DPM](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/RCNN.png "DPM =640")
+
 * Region proposals (Selective Search, ~2k)
 * CNN features (AlexNet, VGG-16, warped region in image)
 * Classifier (Linear SVM per class)
