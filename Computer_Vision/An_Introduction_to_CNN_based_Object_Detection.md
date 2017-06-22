@@ -106,6 +106,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.2.2 R-CNN with ROI Pooling ###
 
+![Fast_RCNN](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/Fast_RCNN.png "Fast_RCNN =640")
+
 * Region proposals (Selective Search, ~2k)
 * CNN features (AlexNet, VGG-16, ROI in feature map)
 * Classifier (sub-network softmax)
