@@ -116,6 +116,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.2.3 ROI Pooling ###
 
+![SPP](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/SPP.png "SPP =640")
+
 * Inspired by Spatial Pyramid Pooling (SPPNet)
 * Convert arbitrary input size to fixed length
 
