@@ -116,7 +116,7 @@ The overall root scores at each level can be expressed by the sum of the root fi
 
 ### 3.2.3 ROI Pooling ###
 
-![SPP](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/SPP.png "SPP =640")
+![SPP](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/Fast_RCNN_Result.png "SPP =640")
 
 * Inspired by Spatial Pyramid Pooling (SPPNet)
 * Convert arbitrary input size to fixed length
@@ -126,6 +126,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
     3. In each grid, pooling is used to extract features
 
 ### 3.2.4 Experiment Result (VGG16) ###
+
+![Fast_RCNN_Result](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/SPP.png "Fast_RCNN_Result =640")
 
 ### 3.2.5 Interesting Details – Training ###
 
