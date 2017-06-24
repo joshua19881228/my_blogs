@@ -134,6 +134,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
 * Pre-trained on ILSVRC2012 classification task
 * Fine-tuned with N+1 classes and two sibling layers
 
+![Fast_RCNN_Finetune](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/Fast_RCNN_Finetune.png "Fast_RCNN_Finetune =480")
+
     1. Fine-tune the whole network
     2. Each mini-batch has 2 images and 64 ROIs from each images
     3. 25% of the ROIs have IOU>0.5 with ground-truth as positive samples
@@ -142,6 +144,8 @@ The overall root scores at each level can be expressed by the sum of the root fi
     6. ROI pooling back-propagation is similar with max-pooling
 
 * Accelerate using truncated SVD
+
+![Fast_RCNN_SVD](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Object_Detection_Figures/Fast_RCNN_SVD.png "Fast_RCNN_SVD =480")
 
     Implemented by using two FCs without non-linear activation
 
