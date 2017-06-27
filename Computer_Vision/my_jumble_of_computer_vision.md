@@ -97,6 +97,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning Video Object Segmentation with Visual Memory ([PDF](https://arxiv.org/abs/1704.05737))
 * A Review on Deep Learning Techniques Applied to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.06857))
 * BiSeg: Simultaneous Instance Segmentation and Semantic Segmentation with Fully Convolutional Networks ([PDF](https://arxiv.org/abs/1706.02135))
+* Rethinking Atrous Convolution for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1706.05587))
 
 ### TRACKING ###
 
@@ -296,6 +297,7 @@ I am going to maintain this page to record a few things about computer vision th
 * A Kernel Redundancy Removing Policy for Convolutional Neural Network ([PDF](https://arxiv.org/abs/1705.10748))
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour ([PDF](https://arxiv.org/abs/1706.02677))
 * Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification ([PDF](https://arxiv.org/abs/1702.05891), [Project/Code](https://github.com/zhufengx/SRN_multilabel/))
+* VisualBackProp: efficient visualization of CNNs ([PDF](https://arxiv.org/abs/1611.05418))
 
 ### GAN ###
 
@@ -464,6 +466,8 @@ I am going to maintain this page to record a few things about computer vision th
 * [pix2code: Generating Code from a Graphical User Interface Screenshot](https://uizard.io/research#pix2code)
 * [MTCNN-light](https://github.com/AlphaQi/MTCNN-light)
     this repository is the implementation of MTCNN with no framework, Just need opencv and openblas. "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with C++，no framework
+* [MobileNet-MXNet](https://github.com/KeyKy/mobilenet-mxnet)
+    This is a MXNet implementation of Google's MobileNets.
 
 ### NEWS/BLOGS ###
 
