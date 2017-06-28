@@ -208,6 +208,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Deep Photo Style Transfer ([PDF](https://arxiv.org/abs/1703.07511))
 * A Neural Representation of Sketch Drawings ([PDF](https://arxiv.org/abs/1704.03477))
 * Visual Attribute Transfer through Deep Image Analogy ([PDF](https://arxiv.org/abs/1705.01088))
+* Deep Semantics-Aware Photo Adjustment ([PDF](https://arxiv.org/abs/1706.08260))
 
 ### CNN AND DEEP LEARNING ###
 
