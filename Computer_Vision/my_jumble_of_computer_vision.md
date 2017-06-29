@@ -299,6 +299,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour ([PDF](https://arxiv.org/abs/1706.02677))
 * Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification ([PDF](https://arxiv.org/abs/1702.05891), [Project/Code](https://github.com/zhufengx/SRN_multilabel/))
 * VisualBackProp: efficient visualization of CNNs ([PDF](https://arxiv.org/abs/1611.05418))
+* Pruning Convolutional Neural Networks for Resource Efficient Inference ([PDF](https://arxiv.org/abs/1611.06440), [Project/Code](https://github.com/jacobgil/pytorch-pruning))
 
 ### GAN ###
 
