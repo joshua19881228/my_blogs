@@ -186,6 +186,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation ([PDF](https://arxiv.org/abs/1703.10131))
 * Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network ([PDF](https://arxiv.org/abs/1703.09695))
 * Deep Alignment Network: A convolutional neural network for robust face alignment ([PDF](https://arxiv.org/abs/1706.01789), [Project/Code](https://github.com/MarekKowalski/DeepAlignmentNetwork))
+* Scale-Aware Face Detection ([PDF](https://arxiv.org/abs/1706.09876))
 
 ### OPTICAL FLOW ###
 
