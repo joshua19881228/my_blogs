@@ -641,6 +641,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [见微知著：细粒度图像分析进展](http://geek.csdn.net/news/detail/191718)
 * [目标跟踪相关资源](https://zhuanlan.zhihu.com/p/27292838)
 * [Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+* [Tips for Training Recurrent Neural Networks](http://danijar.com/tips-for-training-recurrent-neural-networks/)
 
 ## SKILLS ##
 
