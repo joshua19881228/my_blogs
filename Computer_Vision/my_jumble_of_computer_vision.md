@@ -298,7 +298,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Dilated Residual Networks ([PDF](https://arxiv.org/abs/1705.09914))
 * A Kernel Redundancy Removing Policy for Convolutional Neural Network ([PDF](https://arxiv.org/abs/1705.10748))
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour ([PDF](https://arxiv.org/abs/1706.02677))
-* Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification ([PDF](https://arxiv.org/abs/1702.05891), [Project/Code](https://github.com/zhufengx/SRN_multilabel/))
+* Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification ([PDF](https://arxiv.org/abs/1702.05891), [Project/Code](https://github.com/zhufengx/SRN_multilabel/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-learning-spatial-regularization-with-image-level-supervisions-for-multi-label-image-classification_240/))
 * VisualBackProp: efficient visualization of CNNs ([PDF](https://arxiv.org/abs/1611.05418))
 * Pruning Convolutional Neural Networks for Resource Efficient Inference ([PDF](https://arxiv.org/abs/1611.06440), [Project/Code](https://github.com/jacobgil/pytorch-pruning))
 * Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly ([PDF](https://arxiv.org/abs/1707.00600), [Project/Code](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/))
