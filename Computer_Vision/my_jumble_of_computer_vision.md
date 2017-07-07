@@ -167,6 +167,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning Person Trajectory Representations for Team Activity Analysis ([PDF](https://arxiv.org/abs/1706.00893))
 * Concurrence-Aware Long Short-Term Sub-Memories for Person-Person Action Recognition ([PDF](https://arxiv.org/abs/1706.00931))
 * Video Imagination from a Single Image with Transformation Generation ([PDF](https://arxiv.org/abs/1706.04124), [Project/Code](https://github.com/gitpub327/VideoImagination))
+* Optimizing Deep CNN-Based Queries over Video Streams at Scale ([PDF](https://arxiv.org/abs/1703.02529), [Project/Code](https://github.com/stanford-futuredata/noscope))
 
 ### FACE ###
 
@@ -473,6 +474,7 @@ I am going to maintain this page to record a few things about computer vision th
     this repository is the implementation of MTCNN with no framework, Just need opencv and openblas. "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks", implemented with C++，no framework
 * [MobileNet-MXNet](https://github.com/KeyKy/mobilenet-mxnet)
     This is a MXNet implementation of Google's MobileNets.
+* [NoScope: 1000x Faster Deep Learning Queries over Video](http://dawn.cs.stanford.edu/2017/06/22/noscope/)
 
 ### NEWS/BLOGS ###
 
