@@ -99,6 +99,8 @@ I am going to maintain this page to record a few things about computer vision th
 * A Review on Deep Learning Techniques Applied to Semantic Segmentation ([PDF](https://arxiv.org/abs/1704.06857))
 * BiSeg: Simultaneous Instance Segmentation and Semantic Segmentation with Fully Convolutional Networks ([PDF](https://arxiv.org/abs/1706.02135))
 * Rethinking Atrous Convolution for Semantic Image Segmentation ([PDF](https://arxiv.org/abs/1706.05587))
+* Discriminative Localization in CNNs for Weakly-Supervised Segmentation of Pulmonary Nodules ([PDF](https://arxiv.org/abs/1707.01086))
+* Superpixel-based semantic segmentation trained by statistical process control ([PDF](https://arxiv.org/abs/1706.10071))
 
 ### TRACKING ###
 
