@@ -10,11 +10,11 @@
 
 1. NOSCOPE, the first data management system that accelerates CNN-based classification queries over video streams at scale.
 2. CNN-specific techniques for difference detection across frames and model specialization for a given stream and query, as well as a cost-based optimizer that can automatically identify the best combination of these filters for a given accuracy target.
-3. An evaluation of NOSCOPE on fixed-angle binary classification showing up to 3,200¡Á speedups on real-world data.
+3. An evaluation of NOSCOPE on fixed-angle binary classification showing up to 3,200x speedups on real-world data.
 
 ## METHOD ##
 
-The work flow of NoScope can be viewed in the following figure. Brefiely, it can be explained that NOSCOPE¡¯s optimizer selects a different configuration of difference detectors and specialized models for each video stream to perform binary classification as quickly as possible without calling the full target CNN, which will be called only when necessary.
+The work flow of NoScope can be viewed in the following figure. Brefiely, it can be explained that NoScope's optimizer selects a different configuration of difference detectors and specialized models for each video stream to perform binary classification as quickly as possible without calling the full target CNN, which will be called only when necessary.
 
 ![Overall Framework of NoScope](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Computer_Vision/Reading_Note/figures/Reading_Note_20170710_NoScope.png "Overall Framework of NoScope =480")
 
