@@ -22,5 +22,8 @@ There are mainly three compoments in this system, Difference Detectors, Speciali
 
 1. *Difference Detectors* consider attempts to detect differences between images. They are used to determine whether the considered frame is significantly different from another image with known labels. There are two forms of difference detectors supported: difference detection against a fixed reference image for the video stream that is known to contain no objects and difference detection against an earlier frame, some configured time into the past.
 2. *Specialized Models* are small CNNs specified for each video and query. They are designed using different combinations of numbers of channels and layers. This can be thought as expert classifiers or detectors for different videos. For static cameras, one specifialized model does not need to consider samples that would only appear in other camers.
-3. *Cost-based Optimizer* 
+3. *Cost-based Optimizer* brings difference detectors and model specialization together that maximizes the throughput subject to a certain condition, e.g. FP and FN rate.
 
+## DISADVANTAGES ##
+
+1. This scheme is suitable for fixed views, but if the input changes frequently, this scheme may work less efficiently or effectively.
