@@ -171,7 +171,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Learning Person Trajectory Representations for Team Activity Analysis ([PDF](https://arxiv.org/abs/1706.00893))
 * Concurrence-Aware Long Short-Term Sub-Memories for Person-Person Action Recognition ([PDF](https://arxiv.org/abs/1706.00931))
 * Video Imagination from a Single Image with Transformation Generation ([PDF](https://arxiv.org/abs/1706.04124), [Project/Code](https://github.com/gitpub327/VideoImagination))
-* Optimizing Deep CNN-Based Queries over Video Streams at Scale ([PDF](https://arxiv.org/abs/1703.02529), [Project/Code](https://github.com/stanford-futuredata/noscope), [Project/Code](http://dawn.cs.stanford.edu/2017/06/22/noscope/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-a-pursuit-of-temporal-accuracy-in-general-activity-detectionoptimizing-deep-cnn-based-queries-over-video-streams-at-scale_241/))
+* Optimizing Deep CNN-Based Queries over Video Streams at Scale ([PDF](https://arxiv.org/abs/1703.02529), [Project/Code](https://github.com/stanford-futuredata/noscope))
 
 ### FACE ###
 
