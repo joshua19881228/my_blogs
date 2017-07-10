@@ -45,7 +45,6 @@ I am going to maintain this page to record a few things about computer vision th
 * Real Time Image Saliency for Black Box Classifiers ([PDF](https://arxiv.org/abs/1705.07857))
 * An Efficient Approach for Object Detection and Tracking of Objects in a Video with Variable Background ([PDF](https://arxiv.org/abs/1706.02672))
 * RON: Reverse Connection with Objectness Prior Networks for Object Detection ([PDF](https://arxiv.org/abs/1707.01691), [Project/Code](https://github.com/taokong/RON))
-* Towards lightweight convolutional neural networks for object detection ([PDF](https://arxiv.org/abs/1707.01395))
 
 ### SEGMENTATION/PARSING ###
 
@@ -338,7 +337,8 @@ I am going to maintain this page to record a few things about computer vision th
 
 * [计算机视觉与机器学习 【随机森林】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-sui-ji-sen-lin_129/)
 * [计算机视觉与机器学习 【深度学习中的激活函数】](http://joshua881228.webfactional.com/blog_ji-suan-ji-shi-jue-yu-ji-qi-xue-xi-shen-du-xue-xi-zhong-de-ji-huo-han-shu_128/)
-* [我爱机器学习](https://www.52ml.net/) 机器学习干货�?* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* [我爱机器学习](https://www.52ml.net/) 机器学习干货站
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * Stochastic Gradient Descent as Approximate Bayesian Inference ([PDF](https://arxiv.org/abs/1704.04289))
 
 ### EMBEDDED ###
@@ -434,7 +434,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [Mushreco](http://mushreco.ml/en/)
 	Make a photo of a mushroom and see which species it is. Determine over 200 different species. 
 * [Neural Enhance](https://github.com/alexjc/neural-enhance#3-background--research)
-    The neural network is hallucinating details based on its training from example images. It's not reconstructing your photo exactly as it would have been if it was HD. That's only possible in Hollywood �?but using deep learning as "Creative AI" works and it is just as cool!
+    The neural network is hallucinating details based on its training from example images. It's not reconstructing your photo exactly as it would have been if it was HD. That's only possible in Hollywood — but using deep learning as "Creative AI" works and it is just as cool!
 * [CNN Models by CVGJ](https://github.com/cvjena/cnn-models)
     This repository contains convolutional neural network (CNN) models trained on ImageNet by Marcel Simon at the Computer Vision Group Jena (CVGJ) using the Caffe framework. Each model is in a separate subfolder and contains everything needed to reproduce the results. This repository focuses currently contains the batch-normalization-variants of AlexNet and VGG19 as well as the training code for Residual Networks (Resnet). 
 * [YOLO2](http://pjreddie.com/darknet/yolo/)
@@ -487,12 +487,13 @@ I am going to maintain this page to record a few things about computer vision th
     Lab41 is a Silicon Valley challenge lab where experts from the U.S. Intelligence Community (IC), academia, industry, and In-Q-Tel come together to gain a better understanding of how to work with — and ultimately use — big data. 
 * [Partnership on AI](http://www.partnershiponai.org/)
     Amazon, DeepMind/Google, Facebook, IBM, and Microsoft announced that they will create a non-profit organization that will work to advance public understanding of artificial intelligence technologies (AI) and formulate best practices on the challenges and opportunities within the field. Academics, non-profits, and specialists in policy and ethics will be invited to join the Board of the organization, named the Partnership on Artificial Intelligence to Benefit People and Society (Partnership on AI).
-* [爱可�?爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一�?* [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
+* [爱可可-爱生活](http://weibo.com/fly51fly?from=profile&wvr=6&is_all=1) 老师的推荐十分值得一看
+* [Guide to deploying deep-learning inference networks and realtime object recognition tutorial for NVIDIA Jetson TX1](https://github.com/dusty-nv/jetson-inference)
 * [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
     This post is aimed at artists and other creative people who are interested in a survey of recent developments in machine learning research that intersect with art and culture. If you’ve been following ML research recently, you might find some of the experiments interesting but will want to skip most of the explanations.
 * [ResNets, HighwayNets, and DenseNets, Oh My!](https://medium.com/@awjuliani/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32#.1d3mpy4hd)
 	This post walks through the logic behind three recent deep learning architectures: ResNet, HighwayNet, and DenseNet. Each make it more possible to successfully trainable deep networks by overcoming the limitations of traditional network design.
-* [How to build a robot that “sees�?with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
+* [How to build a robot that “sees” with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
 	
 	>I wanted to build a robot that could recognize objects. Years of experience building computer programs and doing test-driven development have turned me into a menace working on physical projects. In the real world, testing your buggy device can burn down your house, or at least fry your motor and force you to wait a couple of days for replacement parts to arrive.
 
@@ -501,9 +502,9 @@ I am going to maintain this page to record a few things about computer vision th
 * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
 * [Facial Recognition on a Jetson TX1 in Tensorflow](http://www.mattkrzus.com/face.html)
 	Here's a way to hack facial recognition system together in relatively short time on NVIDIA's Jetson TX1.
-* [Deep Learning with Generative and Generative Adverserial Networks �?ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/)
+* [Deep Learning with Generative and Generative Adverserial Networks – ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/)
 	This blog post gives an overview of Deep Learning with Generative and Adverserial Networks related papers submitted to ICLR 2017.
-* [Unsupervised Deep Learning �?ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/unsupervised-deep-learning-iclr-2017-discoveries/)
+* [Unsupervised Deep Learning – ICLR 2017 Discoveries](https://amundtveit.com/2016/11/12/unsupervised-deep-learning-iclr-2017-discoveries/)
 	This blog post gives an overview of papers related to Unsupervised Deep Learning submitted to ICLR 2017.
 * [You Only Look Twice — Multi-Scale Object Detection in Satellite Imagery With Convolutional Neural Networks](https://medium.com/the-downlinq/you-only-look-twice-multi-scale-object-detection-in-satellite-imagery-with-convolutional-neural-38dad1cf7571)
 * [Deep Learning isn’t the brain](https://hackernoon.com/deep-learning-isnt-the-brain-e1d800ebb5a9?gi=1ef40a41a579)
@@ -525,7 +526,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [colah's blog](http://colah.github.io/)
 * [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
 * [NIPS 2016 Review](https://gab41.lab41.org/nips-2016-review-day-1-6e504bcf1451#.g2wwg6g6a)
-* [【榜单】GitHub 最受欢迎深度学习应用项�?Top 16（持续更新）](http://mp.weixin.qq.com/s/-JxpVh_sAIXWueSBfzxbsA)
+* [【榜单】GitHub 最受欢迎深度学习应用项目 Top 16（持续更新）](http://mp.weixin.qq.com/s/-JxpVh_sAIXWueSBfzxbsA)
 * [Why use SVM?](http://blog.yhat.com/posts/why-support-vector-machine.html)
 * [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/)
 * [Building Your Own Deep Learning Box](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.gabyza8vg)
@@ -638,12 +639,12 @@ I am going to maintain this page to record a few things about computer vision th
 * [What are the differences between Random Forest and Gradient Tree Boosting algorithms](https://www.quora.com/What-are-the-differences-between-Random-Forest-and-Gradient-Tree-Boosting-algorithms)
 * [为什么现在的CNN模型都是在GoogleNet、VGGNet或者AlexNet上调整的](https://www.zhihu.com/question/43370067)
 * [神经网络与深度学习](https://nndl.github.io/)
-* [ILSVRC2016目标检测任务回�?�?——图像目标检�?DET)](http://mp.weixin.qq.com/s/t3U_gUfe5KekrH-jDSDk_w)
-* [ILSVRC2016目标检测任务回�?�?——视频目标检�?VID)](http://mp.weixin.qq.com/s/mQ78KNuaHUTox3ql6rU-Nw)
+* [ILSVRC2016目标检测任务回顾(上)——图像目标检测(DET)](http://mp.weixin.qq.com/s/t3U_gUfe5KekrH-jDSDk_w)
+* [ILSVRC2016目标检测任务回顾(下)——视频目标检测(VID)](http://mp.weixin.qq.com/s/mQ78KNuaHUTox3ql6rU-Nw)
 * [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
 * [令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
-* [生成式对抗网�?GAN 的研究进展与展望](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651995256&idx=1&sn=f508a61ebd4792b4b407ac7418c4f1ab)
+* [生成式对抗网络 GAN 的研究进展与展望](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651995256&idx=1&sn=f508a61ebd4792b4b407ac7418c4f1ab)
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://www.medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 * [见微知著：细粒度图像分析进展](http://geek.csdn.net/news/detail/191718)
 * [目标跟踪相关资源](https://zhuanlan.zhihu.com/p/27292838)
@@ -655,11 +656,11 @@ I am going to maintain this page to record a few things about computer vision th
 ### ABOUT CAFFE ###
 
 * [Set Up Caffe on Ubuntu14.04 64bit+NVIDIA GTX970M+CUDA7.0](http://joshua881228.webfactional.com/blog_set-up-caffe-on-ubuntu1404-64bitnvidia-gtx970mcuda70_55/)
-* [VS2013配置Caffe卷积神经网络工具�?4位Windows 7）——建立工程](http://blog.csdn.net/joshua_1988/article/details/45048871)
-* [VS2013配置Caffe卷积神经网络工具�?4位Windows 7）——准备依赖库](http://blog.csdn.net/joshua_1988/article/details/45036993)
+* [VS2013配置Caffe卷积神经网络工具（64位Windows 7）——建立工程](http://blog.csdn.net/joshua_1988/article/details/45048871)
+* [VS2013配置Caffe卷积神经网络工具（64位Windows 7）——准备依赖库](http://blog.csdn.net/joshua_1988/article/details/45036993)
 
 ### SETTING UP ###
 
 * [Installation of NVIDIA GPU Driver and CUDA Toolkit](http://joshua881228.webfactional.com/blog_installation-of-nvidia-gpu-driver-and-cuda-toolkit_54/)
 * [Tensorflow v0.10 installed from scratch on Ubuntu 16.04, CUDA 8.0RC+Patch, cuDNN v5.1 with a 1080GTX](https://marcnu.github.io/2016-08-17/Tensorflow-v0.10-installed-from-scratch-Ubuntu-16.04-CUDA8.0RC-cuDNN5.1-1080GTX/)
-* [DL小钢炮攒机心�?| 帮你踩坑](https://mp.weixin.qq.com/s?__biz=MzIzMzI0NjkwMw==&mid=2652210076&idx=1&sn=f7150cc62d68eb9fc29d3a65f9834104)
+* [DL小钢炮攒机心得 | 帮你踩坑](https://mp.weixin.qq.com/s?__biz=MzIzMzI0NjkwMw==&mid=2652210076&idx=1&sn=f7150cc62d68eb9fc29d3a65f9834104)
