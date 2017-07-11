@@ -545,6 +545,7 @@ I am going to maintain this page to record a few things about computer vision th
 * [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 * [基于深度卷积神经网络进行人脸识别的原理是什么](https://www.zhihu.com/question/60759296/answer/180176680)
 * [10 Deep Learning projects based on Apache MXNet](https://medium.com/@julsimon/10-deep-learning-projects-based-on-apache-mxnet-8231109f3f64)
+* [Off the Convex Path](http://www.offconvex.org/)
 	
 ### BENCHMARK/LEADERBOARD/DATASET ###
 
