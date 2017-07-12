@@ -306,7 +306,7 @@ I am going to maintain this page to record a few things about computer vision th
 * VisualBackProp: efficient visualization of CNNs ([PDF](https://arxiv.org/abs/1611.05418))
 * Pruning Convolutional Neural Networks for Resource Efficient Inference ([PDF](https://arxiv.org/abs/1611.06440), [Project/Code](https://github.com/jacobgil/pytorch-pruning))
 * Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly ([PDF](https://arxiv.org/abs/1707.00600), [Project/Code](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/))
-* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices ([PDF](https://arxiv.org/abs/1707.01083))
+* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices ([PDF](https://arxiv.org/abs/1707.01083), [Caffe Implementation](https://github.com/camel007/Caffe-ShuffleNet))
 
 ### GAN ###
 
@@ -376,6 +376,7 @@ I am going to maintain this page to record a few things about computer vision th
 * Person Re-identification by Local Maximal Occurrence Representation and Metric Learning ([PDF](http://www.cbsr.ia.ac.cn/users/scliao/papers/Liao-CVPR15-LOMO-XQDA.pdf), [Project/Code](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/))
 * Person Re-identification: Past, Present and Future ([PDF](https://arxiv.org/abs/1610.02984))
 * ResnetCrowd: A Residual Deep Learning Architecture for Crowd Counting, Violent Behaviour Detection and Crowd Density Level Classification ([PDF](https://arxiv.org/abs/1705.10698))
+* Unsupervised Person Re-identification: Clustering and Fine-tuning ([PDF](https://arxiv.org/abs/1705.10444), [Project/Code](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning))
 
 ## INTERESTING FINDS ##
 
