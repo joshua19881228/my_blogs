@@ -174,6 +174,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 ### FACE ###
 
+* MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices ([PDF](https://arxiv.org/abs/1804.07573))
 * Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([PDF](https://arxiv.org/abs/1604.02878), [Project/Code](https://github.com/kpzhang93/MTCNN_face_detection_alignment), [Code Caffe](https://github.com/foreverYoungGitHub/MTCNN))
 * Deep Architectures for Face Attributes ([PDF](http://arxiv.org/abs/1609.09018))
 * Face Detection with End-to-End Integration of a ConvNet and a 3D Model ([PDF](https://www.arxiv.org/abs/1606.00850), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-face-detection-with-end-to-end-integration-of-a-convnet-and-a-3d-model_145/), [Project/Code](https://github.com/tfwu/FaceDetection-ConvNet-3D))
@@ -217,6 +218,7 @@ I am going to maintain this page to record a few things about computer vision th
 
 ### CNN AND DEEP LEARNING ###
 
+* How convolutional neural network see the world - A survey of convolutional neural network visualization methods ([PDF](https://arxiv.org/abs/1804.11191))
 * UberNet: Training a 'Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory ([PDF](http://arxiv.org/abs/1609.02132), [Project/Code](http://cvn.ecp.fr/ubernet/))
 * What makes ImageNet good for transfer learning? ([PDF](http://arxiv.org/abs/1608.08614), [Project/Code](http://minyounghuh.com/papers/analysis/), [Reading Note](http://joshua881228.webfactional.com/blog_reading-note-what-makes-imagenet-good-for-transfer-learning_138/))
 
